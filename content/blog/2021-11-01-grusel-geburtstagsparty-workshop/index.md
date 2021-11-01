@@ -14,7 +14,7 @@ Wilhelminenhof.
 Es gab leckere, selbst gebackene Muffins, Ballons, Kostüme und natürlich junge, entschlossene Programmierer:innen! 
 Alles, was eine CoderDojo-Party braucht, um ein Erfolg zu werden.
 
-{{< figure width="50%" src="images/dojosw_geburtstag1.png">}}
+{{< figure width="35%" src="images/dojosw_geburtstag1.png">}}
 
 Die Kinder konnten individuell selbst entscheiden, was sie gerne machen möchten. Vorgaben gab es keine. Manche 
 probierten zum allerersten Mal die visuelle Programmiersprache Scratch aus und andere baten unsere tatkräftigen 
