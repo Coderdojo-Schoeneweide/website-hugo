@@ -6,18 +6,28 @@ tags: [workshop, htw, einstieg, spiel, geburtstag, halloween, programmieren, scr
 authors: [Dominic]
 ---
 
-Ist denn das zu fassen? CoderDojo feiert schon sein zehnjähriges Bestehen! Und wir das CoderDojo Schöneweide sind 2 Jahre alt geworden. Diese Meilensteine müssen gefeiert werden! Pünktlich zu Halloween veranstalteten wir das CoderDojo Schöneweide, einen ehrenamtlich veranstalteten Grusel-Geburtstagsparty-Workshop an der HTW Berlin auf dem Campus Wilhelminenhof.
+Ist denn das zu fassen? CoderDojo feiert schon sein zehnjähriges Bestehen! Und wir, das CoderDojo Schöneweide, sind 2 
+Jahre alt geworden. Diese Meilensteine müssen gefeiert werden! Pünktlich zu Halloween veranstalteten wir, das CoderDojo 
+Schöneweide, einen ehrenamtlich veranstalteten Grusel-Geburtstagsparty-Workshop an der HTW Berlin auf dem Campus 
+Wilhelminenhof.
 
-Es gab leckere, selbst gebackene Muffins, Ballons, Kostüme und natürlich junge, entschlossene Programmierer:innen! Alles, was eine CoderDojo-Party braucht, um ein Erfolg zu werden.
+Es gab leckere, selbst gebackene Muffins, Ballons, Kostüme und natürlich junge, entschlossene Programmierer:innen! 
+Alles, was eine CoderDojo-Party braucht, um ein Erfolg zu werden.
 
-{{< figure src="images/dojosw_geburtstag1.png">}}
+{{< figure width="50%" src="images/dojosw_geburtstag1.png">}}
 
-Die Kinder konnten individuell selbst entscheiden, was sie gerne machen möchten. Vorgaben gab es keine. Manche probierten zum allerersten Mal die visuelle Programmiersprache Scratch aus und andere baten unsere tatkräftigen Mentor:innen um Hilfe bei bereits bestehenden Projekten. So oder so lag der Fokus auf ein gemütliches beisammensein, Spaß zu haben und um unseren Geburtstag zu feiern.
+Die Kinder konnten individuell selbst entscheiden, was sie gerne machen möchten. Vorgaben gab es keine. Manche 
+probierten zum allerersten Mal die visuelle Programmiersprache Scratch aus und andere baten unsere tatkräftigen 
+Mentor:innen um Hilfe bei bereits bestehenden Projekten. So oder so lag der Fokus auf gemütlichem Beisammensein, 
+Spaß haben und darauf, unseren Geburtstag zu feiern.
 
 {{< figure width="50%" src="images/dojosw_geburtstag2.JPG">}}
 
-Gegen Ende des Workshops veranstalteten wir eine kleine “Show Time”, bei der alle Kinder die Möglichkeit hatten, ihr Projekt oder ihre Projekte vorzustellen. Und was die Kinder auf die Beine gestellt haben, begeisterte uns. So viele kreative Ideen!
+Gegen Ende des Workshops veranstalteten wir eine kleine “Showtime”, bei der alle Kinder die Möglichkeit hatten, ihr 
+Projekt oder ihre Projekte vorzustellen. Und was die Kinder auf die Beine gestellt hatten, begeisterte uns. So viele 
+kreative Ideen!
 
-Uns hat dieser Workshop viel Spaß gemacht und waren sehr glücklich darüber, mit den Kinder und deren Eltern unseren Geburtstag zu feiern. Wir freuen uns euch bald wiederzusehen.
+Uns hat dieser Workshop viel Spaß gemacht und wir waren sehr glücklich darüber, mit den Kindern und deren Eltern 
+unseren Geburtstag zu feiern. Wir freuen uns euch bald wiederzusehen!
 
 {{< figure width="50%" src="images/dojosw_geburtstag3.JPG">}}
