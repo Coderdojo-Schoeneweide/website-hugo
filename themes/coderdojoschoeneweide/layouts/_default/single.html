@@ -1,26 +1,26 @@
-{{define "main"}}
+{{ define "main" }}
   <section id="post">
     <h2>{{ .Params.Title }}</h2>
-    {{with .Params.Date}}
+    {{ with .Params.Date }}
       <p class="date">{{ .Format "02.01.2006" }}</p>
-    {{end}}
+    {{ end }}
 
-    {{with .Params.authors}}
+    {{ with .Params.authors }}
     <ul class="authors">
-      {{range .}}
-        <li>{{.}}</li><span class="list-separator">,</span>
-      {{end}}
+      {{ range . }}
+        <li>{{ . }}</li><span class="list-separator">,</span>
+      {{ end }}
     </ul>
-    {{end}}
+    {{ end }}
 
-    {{.Content}}
+    {{ .Content }}
 
-    {{with .Params.tags}}
+    {{ with .Params.tags }}
     <ul class="tags">
-      {{range .}}
-        <li>#{{.}}</li>
-      {{end}}
+      {{ range . }}
+        <li>#{{ . }}</li>
+      {{ end }}
     </ul>
-    {{end}}
+    {{ end }}
   </section>
-{{end}}
+{{ end }}

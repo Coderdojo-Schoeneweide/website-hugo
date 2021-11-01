@@ -88,3 +88,10 @@
   interests: Programmieren, Sport, E-Gitarre, meine Katzen
   background:  IMI Master 3. Semester; C++, Java, HTML, CSS/SCSS, JavaScript, Unity3D + C#, Unreal Engine 4
   story: Have the courage to follow your heart and intuition. They somehow know what you truly want to become
+
+- name: Marvin
+  imagePath: marv.jpg
+  tasks: Corporate-Design
+  interests: Gaming, Digital Art
+  background: Medieninformatik (Master), UI/UX-Designer (Werkstudentenjob), Unity Game Engine (Developer)
+  story: A user interface is like a joke. If you have to explain it, it's not that good.

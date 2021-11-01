@@ -2,7 +2,7 @@
 <html lang="{{.Site.LanguageCode}}">
   {{ block "head.html" . }}
   <head>
-    <title> {{ block "title" .}}{{ .Site.Title }}{{ end }} </title>
+    <title>{{ block "title" .}}{{ .Site.Title }}{{ end }}</title>
 
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -10,11 +10,11 @@
 
     {{ $scss := resources.Get "/scss/main.scss" }}
     {{ $style := $scss | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" type="text/css" href="{{$style.RelPermalink}}" />
+    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
     <script src="{{ .Site.BaseURL }}/js/obfuscate.js"></script>
     <script src="{{ .Site.BaseURL }}/js/color-theme-switch.js"></script>
   </head>
-  {{end}}
+  {{ end }}
   <body>
     {{ block "header.html" . }}
     <header class="site-header wrapper" role="banner">
@@ -73,7 +73,7 @@
       <p>Mit <3 gemacht vom CoderDojo Schöneweide Team</p>
       <p>Auf GitHub gehostet</p>
     </footer>
-    {{end}}
+    {{ end }}
     <script src="{{ .Site.BaseURL }}js/story-modal.js"></script>
     <script src="{{ .Site.BaseURL }}js/workshops-filter.js"></script>
   </body>

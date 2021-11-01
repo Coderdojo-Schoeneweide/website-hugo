@@ -1,10 +1,11 @@
-{{define "main"}}
+{{ define "main" }}
   <section id="all-posts">
-    <h2>Blog</h2>
+    <h2>{{ .Title }}</h2>
     <ul class="post-list">
       {{ range .Pages }}
+        {{ .Params.tags }}
         <li>
-          <a href="{{.Permalink}}">
+          <a href="{{ .Permalink }}">
               <h3>{{ .Date.Format "02.01.2006" }} | {{ .Title }}</h3>
               <p> {{ .Summary }}</p>
               <p class="ellipsis"> ... </p>
@@ -13,4 +14,4 @@
       {{ end }}
     </ul>
   </section>
-{{end}}
+{{ end }}

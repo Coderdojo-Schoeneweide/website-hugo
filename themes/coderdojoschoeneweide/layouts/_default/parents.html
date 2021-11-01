@@ -1,8 +1,6 @@
 {{ define "main" }}
 <section class="all-workshops">
-    <h2>Für Eltern</h2>
-    {{ range .Pages }}
-    {{ end }}
+    <h2>{{ .Title }}</h2>
     <ul id="results">
         {{ range .Pages }}
         <li>
