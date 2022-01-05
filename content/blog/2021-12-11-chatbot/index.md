@@ -1,6 +1,6 @@
 ---
 title:  "Chatbot mit Scratch 2021"
-date:   2021-04-22T13:00:00+0100
+date:   2022-01-05T13:00:00+0100
 categories: [berichte]
 tags: [workshop, einstieg, grundschule, programmieren, scratch]
 authors: [Sabina]
