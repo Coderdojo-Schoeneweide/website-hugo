@@ -145,12 +145,12 @@
   background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
   story:
 
-- name: Abby
-  imagePath:
-  tasks: PR, Orga und Gestaltung
-  interests:
-  background: Medieninformatik (Bachelor), Fremdsprachen-korrespondentin
-  story:
+#- name: Abby
+#  imagePath:
+#  tasks: PR, Orga und Gestaltung
+#  interests:
+#  background: Medieninformatik (Bachelor), Fremdsprachen-korrespondentin
+#  story:
 
 - name: Darlyn
   imagePath: darlyn.jpg
@@ -173,19 +173,19 @@
   background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
   story:
 
-- name: Sergen
-  imagePath:
-  tasks: Mentoring, Webdesign, Social Media
-  interests: Design, Social Media, Mentoring und Programmieren
-  background: Wirtschaftsinformatik (Bachelor)
-  story:
+#- name: Sergen
+#  imagePath:
+#  tasks: Mentoring, Webdesign, Social Media
+#  interests: Design, Social Media, Mentoring und Programmieren
+#  background: Wirtschaftsinformatik (Bachelor)
+#  story:
 
-- name: Stefan
-  imagePath:
-  tasks: Programmieren, Mentoring
-  interests:
-  background: Studiert Angewandte Informatik
-  story:
+#- name: Stefan
+#  imagePath:
+#  tasks: Programmieren, Mentoring
+#  interests:
+#  background: Studiert Angewandte Informatik
+#  story:
 
 - name: Steffie
   imagePath: steffie.jpg
