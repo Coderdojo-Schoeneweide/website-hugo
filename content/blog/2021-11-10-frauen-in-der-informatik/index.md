@@ -43,7 +43,7 @@ Doch wie sieht es heutzutage bei den weiblichen Vertreterinnen der Informatik au
 
 Nach dem historischen Rückblick schauen wir uns nun drei aktuelle Größen der Informatik genauer an:
 
-Jade Raymond
+##Jade Raymond
 
 Jade Raymond steht wie keine andere für die Gaming Branche und hat im März 2021 das Independent-Entwicklerstudio Haven 
 gegründet.
@@ -57,7 +57,7 @@ Produzentin von „Assassins Creed“ und erlangte somit auch in der Gaming Szen
 
 
 
-Marissa Mayer
+##Marissa Mayer
 
 Marissa Mayer wurde 2008 vom Wirtschaftsmagazin Fortune zu den 50 mächtigsten Frauen der Welt und 2009 den 
 „10 Tech Leaders of Future“ gezählt.
@@ -74,7 +74,7 @@ technology and be a mom. You can do it your way, on your terms.“
 
 
 
-Ina Schieferdecker
+##Ina Schieferdecker
 
 Ina Schieferdecker ist Gründungsdirektorin des Weizenbaum-Instituts für die vernetzte Gesellschaft und Leiterin der 
 Abteilung „Forschung für Digitalisierung und Innovation“ im Bundesministerium für Bildung und Forschung. Die 
