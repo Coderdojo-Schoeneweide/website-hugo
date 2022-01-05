@@ -67,13 +67,7 @@
   interests: Gesundheitsinformatik, Sprachen, Lernen
   background: Fremdsprachen-korrespondentin, studiert Angewandte Informatik im Bachelor
   story: Was bringt einem Wissen, wenn man es nicht anwenden oder mit anderen teilen kann?
-
-- name: Timur
-  imagePath: timur.jpeg
-  tasks: Unterstützung Webseite, PR und Organisation
-  interests: Sport, Zeit mit Freunden verbringen, Festivals und Programmieren
-  background: Wirtschaftsinformatik, Web-Developer .Net (Fokus Backend) und Android Entwicklung
-  story:
+  
 
 - name: Uyen
   imagePath: uyen.jpg
