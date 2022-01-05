@@ -1,5 +1,5 @@
 ---
-title:  "Girls Day 2021"
+title:  "Chatbot mit Scratch 2021"
 date:   2021-04-22T13:00:00+0100
 categories: [berichte]
 tags: [workshop, einstieg, grundschule, programmieren, scratch]
