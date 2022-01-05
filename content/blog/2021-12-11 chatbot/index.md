@@ -8,7 +8,7 @@ authors: [Sabina]
 Auch letzte Woche haben wir uns gemeinsam auf dem Campus der HTW Wilhelminenhof getroffen und die Kinder mit Hilfe von Scratch eine Chatbot programmieren lassen.
 Als alle Kinder ihren Weg zu uns gefunden haben, fingen wir auch, nach einer kleinen Vorstellungsrunde und der Frage; Was ist dein Lieblingsroboter (Bender Futurama!), schon an.
 
-{{< figure width="50%" src="images/Bild1.png" title="unsere Mentoren unterstützen die Kinder beim Programmieren" >}}
+{{< figure width="50%" src="images/Bild1.jpg" title="unsere Mentoren unterstützen die Kinder beim Programmieren" >}}
  
 Die Kinder fanden sich gut in das Thema der Woche rein. Die erste Versuche eine Chatbot zu gestalten konnte mit der Unterstützung von Mentor:innen bewerkstelligt werden.
 
