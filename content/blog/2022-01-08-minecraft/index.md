@@ -6,27 +6,30 @@ tags: [workshop, htw, einstieg, spiel, programmieren, minecraft]
 authors: [Dominic]
 ---
 
-Wir, das CoderDojo Schöneweide, veranstalteten am 20.11.21 einen ehrenamtlichen Workshop an der HTW Berlin auf dem Campus Wilhelminenhof. 
-
-Unter dem Motto “Zwischen Käfern und Bauklötzen” halfen uns unser Mariechenkäfer Kara und unsere Klemmbausteinfigur Robot Karol, die Welt der Programmierung und der Algorithmen zu verstehen. Kara und Robot Karol sind Programmierumgebungen, designt für Kinder und Jugendliche.
-
-Nach einer kurzen Einführung in Kara konnten die Kinder das Programm selbstständig kennenlernen und bedienen. Mariechenkäfer Kara kann beispielsweise Pilze verschieben oder sich auf Kleeblättern hinsetzen und diese an anderen Stellen absetzen.
-
-{{< figure width="50%" src="images/dojosw_kara.jpg">}}
-
-Großes Interesse löste auch Robot Karol aus, mit dem die Kinder anhand von vordefinierten Anweisungen und Kontrollstrukturen die Klemmbausteinfigur bewegen konnten. Beispielsweise kann Robot Karol so programmiert werden, dass er verschiedenfarbige Ziegelsteine hinlegt und darauf läuft. Auch kann er sich im Kreis drehen oder durch ein selbst erstelltes Labyrinth laufen - vieles ist möglich und der Fantasie sind kaum Grenzen gesetzt!
+Wir, das CoderDojo Schöneweide, veranstalteten am 08.01.22 einen ehrenamtlichen Workshop an der HTW Berlin auf dem Campus Wilhelminenhof. 
 
 {{< figure width="50%" src="images/image1.jpg">}}
 
-Glücklicherweise waren genug unserer Mentor:innen vor Ort, sodass jedes Kind seine:n eigene:n Mentor:in zur Seite hatte. Denn die Kinder hatten sehr viele interessante und spannende Ideen, die sie umsetzen wollten.
+Das Motto dieses Mal war "MINECRAFT"! Beziehungsweise Minecraft Redstone. Redstone ist ein Gegenstand, der als Herstellungsrezept dient. Damit ist es möglich, Leitungen zu bauen, die aus sogenanntem Redstone-Staub bestehen. Diese Leitungen können dann Redstone-Signale übertragen. Das ermöglicht auch den Bau größerer Redstone-Schaltkreise. Wir zeigten unseren jungen Teilnehmer:innen, wie es möglich ist in Minecraft kleine Schaltungen zu bauen.
 
-{{< figure width="50%" src="images/dojosw_mentor1.jpg">}}
-{{< figure width="50%" src="images/dojosw_mentor2.jpg">}}
+Nach einer kurzen Einführung konnten unsere Teilnehmer:innen sich zunächst in Minecraft Redstone "austoben" und sich ausprobieren. Wir gaben zunächst kleine Challenges vor, wie beispielsweise eine Lampe zum Leuchten zu bringen, wenn zwei Schalter betätigt werden. Eine weitere Challenge war eine Lampe zum Leuchten zu bringen, wenn nur einer von zwei Schaltern betätigt wird.
 
-Die zwei Stunden vergingen wie im Fluge und die Kinder setzten spannende kleine Projekte um. Gegen Ende des Workshops gab es eine kurze Showtime, bei der die Kinder ihre Projekte vorstellen konnten.
+{{< figure width="50%" src="images/image2.jpg">}}
 
-Zum Schluss gab es noch ein kleines Quiz! Wir lieben Quizze! Unsere Mentor:innen stellten Fragen und die Kinder hatten dann die Möglichkeit, ihr erlerntes Wissen im Workshop unter Beweis zu stellen. Und was sollen wir sagen? Keine Frage war für unsere jungen Teilnehmer:innen herausfordernd genug! Alle Fragen wurden fix beantwortet.
+{{< figure width="50%" src="images/image3.JPG">}}
 
-{{< figure width="50%" src="images/dojosw_quiz.jpg">}}
+Unsere jungen Teilnehmer:innen waren überaus interessiert, stellten hier und da Fragen, aber alle meisterten die kleinen Herausforderungen. Ihr seid spitze! :) Wir, eure Mentor:innen sind sehr stolz auf euch und auch ihr könnt sehr stolz auf euch sein! Das habt ihr alle prima gemacht.
+
+Um die Messlatte ein wenig höher zu legen, gab es eine weitere Challenge, die etwas komplexer zu lösen galt. Und zwar einen Halbaddierer zu bauen. Ein Halbaddierer ist eine Art Schaltnetz beziehungsweise eine einfache Rechenschaltung.
+
+{{< figure width="50%" src="images/image6.jpg">}}
+
+Doch auch diese Challenge wurde mit Bravour gemeistert! Diese Aufgabe dauerte etwas länger, aber wurde auch problemlos gelöst. Unsere Teilnehmer:innen haben die Messlatte selbst sogar noch erhöht, indem zum Teil komplexe Gebäude gebaut wurden, die diesen Halbaddierer innehatten. Ihr seid der Wahnsinn! :) Das habt ihr alle so toll gemacht.
+
+{{< figure width="50%" src="images/image4.JPG">}}
+
+Die zwei Stunden vergingen wie im Fluge. Wir verlängerten sogar den Workshop, da wir alle so viel Spaß hatten. Gegen Ende des Workshops gab es eine kurze Showtime, bei der die Kinder ihre Minecraft Redstone Projekte vorstellen konnten.
+
+{{< figure width="50%" src="images/image5.JPG">}}
 
 Wir vom CoderDojo Schöneweide hatten sehr viel Spaß und wir freuen uns, euch bald wieder in einem unserer Workshops zu begrüßen und zu unterstützen!
