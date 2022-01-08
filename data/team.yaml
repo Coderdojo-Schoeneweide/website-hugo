@@ -67,13 +67,7 @@
   interests: Gesundheitsinformatik, Sprachen, Lernen
   background: Fremdsprachen-korrespondentin, studiert Angewandte Informatik im Bachelor
   story: Was bringt einem Wissen, wenn man es nicht anwenden oder mit anderen teilen kann?
-
-- name: Timur
-  imagePath: timur.jpeg
-  tasks: Unterstützung Webseite, PR und Organisation
-  interests: Sport, Zeit mit Freunden verbringen, Festivals und Programmieren
-  background: Wirtschaftsinformatik, Web-Developer .Net (Fokus Backend) und Android Entwicklung
-  story:
+  
 
 - name: Uyen
   imagePath: uyen.jpg
@@ -102,3 +96,101 @@
   interests: zocken (analog & digital), kochen und backen, programmieren und basteln, Musik spielen und was noch so Spaß macht
   background: Angewandte Informatik (Bachelor)
   story: Seit meiner Schulzeit bin ich aktiv dabei mein Wissen weiterzugeben. Und wo startet man am besten? Bei den Kindern!
+
+- name: Helene
+  imagePath: helene.jpg
+  tasks: Mentoring, Youtube-Channel
+  interests: Design, Eventmanagement, Planung von Strategien
+  background: Kommunikationswissen, Webdesign, Gestaltung digitaler Medien, Organisation
+  story: no risk, no fun
+
+- name: Marcel
+  imagePath: marcel.jpg
+  tasks: Projekt Management und Unterstützung
+  interests: Programmierung und Gaming
+  background: Medieninformatik (Bachelor), mehrjährige Berufserfahrung in Personalführung und Aufgabenverteilung sowie Projektorganisation
+  story: Die meisten Programmierkenntnisse habe ich nicht in der Schule/Uni sondern auf Youtube gelernt
+
+- name: Marie
+  imagePath: marie.jpg
+  tasks: Mentoring, Workshops leiten, Organisation, Kommunikation
+  interests:
+  background: Informatik und Wirtschaft (Bachelor) 4. Semester; Kenntnisse in Programmierung, Verwaltung, Fundraising
+  story:
+
+- name: Markus
+  imagePath: markus.jpg
+  tasks: Programmieren, Hilfevideos
+  interests: Mentoring, Reisen, Musik und Lernen
+  background: Angewandte Informatik (Master) 2. Semester; Erfahrungen in C, Java, Python
+  story:
+
+- name: Vedat
+  imagePath: vedat.jpg
+  tasks: Social Media, PR, Organisation
+  interests: Thaiboxen, Lesen, Reisen, Digitalisierung, Weiterentwicklung
+  background: Wirtschaftsingenieurwesen (Master), Erfahrung in Planung, Organisation, Teamführung, Kommunikation
+  story:
+
+- name: Sahra
+  imagePath: sahra.jpg
+  tasks: Workshopgestaltung, Mentoring
+  interests: Workshopgestaltung, Diversitythemen, Mentoring
+  background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
+  story:
+
+#- name: Abby
+#  imagePath:
+#  tasks: PR, Orga und Gestaltung
+#  interests:
+#  background: Medieninformatik (Bachelor), Fremdsprachen-korrespondentin
+#  story:
+
+- name: Darlyn
+  imagePath: darlyn.jpg
+  tasks: Organisation & Koordination, Programmieren, PR
+  interests: Konzert & Museumsbesuche, Kochen, Fitness, Reisen
+  background: Angewandte Informatik (Bachelor), abgeschlossene Ausbildung zur Veranstaltungskauffrau
+  story:
+
+- name: David
+  imagePath: david.jpg
+  tasks: Mentoring, Finanzierung, Eventmanagement
+  interests: Mathematik, Physik und Programmieren lehren, Kochen, Musik
+  background: Wirtschaftsinformatik (Bachelor); Erfahrung als Förderlehrer; Webentwicklung, Finanzen, IT-Sicherheit
+  story:
+
+- name: Marlón
+  imagePath: marlon.jpg
+  tasks: Webseite, Programmieren, Co-Creation Workshops
+  interests: UX/UI Design, System Thinking, Design Thinking, Co-Creation, Web/App Design
+  background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
+  story:
+
+#- name: Sergen
+#  imagePath:
+#  tasks: Mentoring, Webdesign, Social Media
+#  interests: Design, Social Media, Mentoring und Programmieren
+#  background: Wirtschaftsinformatik (Bachelor)
+#  story:
+
+#- name: Stefan
+#  imagePath:
+#  tasks: Programmieren, Mentoring
+#  interests:
+#  background: Studiert Angewandte Informatik
+#  story:
+
+- name: Steffie
+  imagePath: steffie.jpg
+  tasks: Mentoring, Workshop-Planung
+  interests: Ausdruckstanz, Lesen, Malen, Freunde treffen, Grafikdesign
+  background: Wirtschaftskommunikation (Master), Kommunikationsmethoden und -techniken, Präsentation
+  story:
+
+- name: Timo
+  imagePath: timo.jpg
+  tasks: Mentoring
+  interests: Arbeit mit Kindern, Mentoring, Erfahrungen sammeln in jeglichen Bereichen
+  background: Studiert Angewandte Informatik (Bachelor)
+  story: Es ist nie zu spät für den ersten Schritt.
