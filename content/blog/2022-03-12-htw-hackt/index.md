@@ -11,10 +11,10 @@ Das Thema diesmal war XSS, das steht für Cross-Site-Scripting und ganz einfach 
 
 Da man sich nicht einfach so überall reinhacken darf, haben die Leute von HTW Hackt selbst eine Webseite erstellt, die die Teilnehmer:innen erkunden durften. Und das mit Erfolg! Am Ende konnten sich alle Gegenseitig die auf dem Profil hinterlegten Geheimnisse "klauen" und Hintergundbilder auf der Webseite ändern.
 
-{{< figure width="50%" src="images/htwhackers.jpg">}}
+{{< figure width="50%" src="images/htwhackers.jpeg">}}
 
 Das war alles ziemlich spannend und wer sich jetzt denkt: "Darauf hätte ich auch Lust, aber ich habe doch gar keine Ahnung von Webseiten oder Hacking oder sonst was! :(" - keine Sorge! Im Verlauf des Workshops wurden alle wichtigen Begriffe erklärt und wo es möglich war sogar live vorgeführt.
 
 Die Zeit verging wie im Flug und wahrscheinlich hätte man noch zwei Stunden so weitermachen können. Vielen Dank an Cass, Lara, Felix und Felix von HTW Hackt für diese spannende Zusammenarbeit!
 
-{{< figure width="50%" src="images/cookies.jpg">}}
+{{< figure width="50%" src="images/cookies.jpeg">}}
