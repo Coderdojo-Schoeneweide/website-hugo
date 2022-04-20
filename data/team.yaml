@@ -5,26 +5,12 @@
   background: Medieninformatik, Lehrbeauftragter an der HTW
   story: Über meine Arbeit bin ich total zufällig an eine Stelle als Tutor gekommen und seit dem interessiert an Education. Ich habe dann über die Hochschule vom CoderDojo erfahren und mitgemacht.
 
-- name: Edwin
-  imagePath: edwin.jpg
-  tasks: Mentoring, Website
-  interests: Data Science, Radsport, Wandern
-  background: gelernter Medientechniker, studiert Angewandte Informatik im Bachelor
-  story: Früh übt sich, was ein -kleiner- Meister werden will!
-
 - name: Fenja
   imagePath: fenja.jpg
   tasks: Mentoring, Didaktik, Koordination & Kommunikation
   interests:
   background: Optical Sciences (Master) an der HU, Lehrerfahrung, Python und MatLab
   story:
-
-- name: Janine
-  imagePath: jane.png
-  tasks: Webentwicklung, Mentoring, PR
-  interests: Musik mit der Band, Lernen, die Welt bereisen
-  background: Angewandte Informatik (Master) - Erfahrung in Web-Tech (ehr Frontend), Projekt- u. Event Management, Marketing, Social Media, Youtube
-  story: Es ist nie zu spät etwas zu Lernen! Ich habe erst mit Mitte Zwanzig angefangen zu programmieren und trotz des Bachelors würde ich behaupten, dass ich all meine Codingskills über Online-Tutorials und Youtube Videos aufgebaut habe. Jetzt freue ich mich, das Wissen und meine Erfahrungen an andere weitergeben zu können.
 
 - name: Lara
   imagePath: lara.PNG
@@ -46,13 +32,6 @@
   interests: Game Development, Webentwicklung, Lesen
   background: Studiert Medieninformatik im Master
   story: Es macht mir Spaß, mein theoretische Wissen an der Webseite von CoderDojo ins Praktische umzusetzen. Ich hatte auf Facebook einen CoderDojo Post gesehen. Nach der Kontaktaufnahme dauerte es nicht lange, bis zu einem ersten Treffen mit dem Team.
-
-- name: Nadya
-  imagePath: nadya.jpg
-  tasks: Programmieren
-  interests: Fahrrad fahren, Yoga, Lesen, Reisen
-  background: Medieninformatik (Bachelor), Kenntnisse in JS, Java
-  story:
 
 - name: Sabina
   imagePath: sabina.jpg
@@ -111,25 +90,11 @@
   background: Medieninformatik (Bachelor), mehrjährige Berufserfahrung in Personalführung und Aufgabenverteilung sowie Projektorganisation
   story: Die meisten Programmierkenntnisse habe ich nicht in der Schule/Uni sondern auf Youtube gelernt
 
-- name: Marie
-  imagePath: marie.jpg
-  tasks: Mentoring, Workshops leiten, Organisation, Kommunikation
-  interests:
-  background: Informatik und Wirtschaft (Bachelor) 4. Semester; Kenntnisse in Programmierung, Verwaltung, Fundraising
-  story:
-
 - name: Markus
   imagePath: markus.jpg
   tasks: Programmieren, Hilfevideos
   interests: Mentoring, Reisen, Musik und Lernen
   background: Angewandte Informatik (Master) 2. Semester; Erfahrungen in C, Java, Python
-  story:
-
-- name: Vedat
-  imagePath: vedat.jpg
-  tasks: Social Media, PR, Organisation
-  interests: Thaiboxen, Lesen, Reisen, Digitalisierung, Weiterentwicklung
-  background: Wirtschaftsingenieurwesen (Master), Erfahrung in Planung, Organisation, Teamführung, Kommunikation
   story:
 
 - name: Sahra
@@ -167,30 +132,9 @@
   background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
   story:
 
-- name: Sergen
-  imagePath: sergen.jpg
-  tasks: Mentoring, Webdesign, Social Media
-  interests: Design, Social Media, Mentoring und Programmieren
-  background: Wirtschaftsinformatik (Bachelor)
-  story:
-
 #- name: Stefan
 #  imagePath:
 #  tasks: Programmieren, Mentoring
 #  interests:
 #  background: Studiert Angewandte Informatik
 #  story:
-
-- name: Steffie
-  imagePath: steffie.jpg
-  tasks: Mentoring, Workshop-Planung
-  interests: Ausdruckstanz, Lesen, Malen, Freunde treffen, Grafikdesign
-  background: Wirtschaftskommunikation (Master), Kommunikationsmethoden und -techniken, Präsentation
-  story:
-
-- name: Timo
-  imagePath: timo.jpg
-  tasks: Mentoring
-  interests: Arbeit mit Kindern, Mentoring, Erfahrungen sammeln in jeglichen Bereichen
-  background: Studiert Angewandte Informatik (Bachelor)
-  story: Es ist nie zu spät für den ersten Schritt.
