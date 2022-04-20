@@ -167,30 +167,9 @@
   background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
   story:
 
-- name: Sergen
-  imagePath: sergen.jpg
-  tasks: Mentoring, Webdesign, Social Media
-  interests: Design, Social Media, Mentoring und Programmieren
-  background: Wirtschaftsinformatik (Bachelor)
-  story:
-
 #- name: Stefan
 #  imagePath:
 #  tasks: Programmieren, Mentoring
 #  interests:
 #  background: Studiert Angewandte Informatik
 #  story:
-
-- name: Steffie
-  imagePath: steffie.jpg
-  tasks: Mentoring, Workshop-Planung
-  interests: Ausdruckstanz, Lesen, Malen, Freunde treffen, Grafikdesign
-  background: Wirtschaftskommunikation (Master), Kommunikationsmethoden und -techniken, Präsentation
-  story:
-
-- name: Timo
-  imagePath: timo.jpg
-  tasks: Mentoring
-  interests: Arbeit mit Kindern, Mentoring, Erfahrungen sammeln in jeglichen Bereichen
-  background: Studiert Angewandte Informatik (Bachelor)
-  story: Es ist nie zu spät für den ersten Schritt.
