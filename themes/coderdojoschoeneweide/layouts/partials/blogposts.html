@@ -1,6 +1,6 @@
-  <h2>Newsfeed</h2>
+  <h2>Neue Blogposts</h2>
   <ul class="post-list">
-    {{ range first 1 $.Site.RegularPages.ByDate.Reverse }}
+    {{ range first 2 $.Site.RegularPages.ByDate.Reverse }}
       {{ if isset .Params "tags"  }}
           <li>
               <a href="{{.Permalink}}">
