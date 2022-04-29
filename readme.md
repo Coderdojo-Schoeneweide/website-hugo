@@ -57,7 +57,7 @@ Before developing for the first time you need to [install the extended version o
 * Clone this repository: `git clone https://github.com/Coderdojo-Schoeneweide/website-hugo.git`
 * Create a new git branch for developing your feature: `git checkout -b <branch_name>` (exceptions only for hotfixes!)
 * Run `hugo serve` from within the root directory to make Hugo build the website and run a local server serving the website. Hugo supports live-reloading, so you don't need to restart the server each time you change something.
-* Implement and commit your changes: `git commit -m "<put commit message here>"`
+* Implement and commit your changes: `git commit -a -m "<put commit message here>"`
 * Push to the GitHub repository: `git push -u origin <branch_name>` (or simply `git push` if you've pushed to the branch before)
 * Open a pull request for your changes to be merged into master and go live!
 
