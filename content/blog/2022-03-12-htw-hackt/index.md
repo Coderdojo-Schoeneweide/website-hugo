@@ -15,6 +15,6 @@ Da man sich nicht einfach so überall reinhacken darf, haben die Leute von HTW H
 
 Das war alles ziemlich spannend und wer sich jetzt denkt: "Darauf hätte ich auch Lust, aber ich habe doch gar keine Ahnung von Webseiten oder Hacking oder sonst was! :(" - keine Sorge! Im Verlauf des Workshops wurden alle wichtigen Begriffe erklärt und wo es möglich war sogar live vorgeführt.
 
-Die Zeit verging wie im Flug und wahrscheinlich hätte man noch zwei Stunden so weitermachen können. Vielen Dank an Cass, Lara, Felix und Felix von HTW Hackt für diese spannende Zusammenarbeit!
+Die Zeit verging wie im Flug und wahrscheinlich hätte man noch zwei Stunden so weitermachen können. Vielen Dank an Lara, Felix und Felix von HTW Hackt für diese spannende Zusammenarbeit!
 
 {{< figure width="50%" src="images/cookies.jpeg">}}
