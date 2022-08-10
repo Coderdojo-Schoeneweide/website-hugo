@@ -97,13 +97,6 @@
   background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
   story:
 
-#- name: Abby
-#  imagePath:
-#  tasks: PR, Orga und Gestaltung
-#  interests:
-#  background: Medieninformatik (Bachelor), Fremdsprachen-korrespondentin
-#  story:
-
 - name: Darlyn
   imagePath: darlyn.jpg
   tasks: Organisation & Koordination, Programmieren, PR
@@ -125,9 +118,16 @@
   background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
   story:
 
-#- name: Stefan
-#  imagePath:
-#  tasks: Programmieren, Mentoring
-#  interests:
-#  background: Studiert Angewandte Informatik
-#  story:
+- name: Ilja
+  imagePath: ilja.jpg
+  tasks: Mentoring, IT-Support
+  interests: Didaktik, Pädagogik, Sozialwissenschaft und Technik, Ethik
+  background: Informations- und Kommunikationstechnik (Master), ehemaliger Jugendleiter, Skript- und Programmier-Kenntnisse
+  story: Spielerisch und mit Neugier die Welt um uns herum zu erkunden ist das, was mich im Leben antreibt
+
+- name: Leander
+  imagePath: leander.jpg
+  tasks: Webentwicklung
+  interests: Gaming, Webentwicklung, Programmieren
+  background: Medieninformatik (Bachelor), GameJams, Webentwicklung, Berufserfahrung
+  story:
