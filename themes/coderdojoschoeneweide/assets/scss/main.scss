@@ -223,10 +223,10 @@ main {
       padding: 0;
 
       &:not(:first-child) {
-        border-top: 1px solid;
-        @include theme() {
+        border-top: 1px solid $color-main;
+        /*@include theme() {
           border-color: theme-get("text-color");
-        }
+        }*/
       }
 
       a {
@@ -247,21 +247,36 @@ main {
   }
 
   #post {
-    .authors,
-    .date {
-      display: inline-block;
-    }
-
-    .authors,
+    .properties,
     .tags {
       list-style: none;
+      padding: 0;
+
+      li .list-separator:last-of-type {
+        display: none;
+      }
+    }
+
+    .properties {
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
 
       li {
-        display: inline-block;
+        display: flex;
+        align-items: center;
       }
 
-      .list-separator:last-of-type {
-        display: none;
+      img {
+        max-width: 1em;
+        max-height: 1em;
+        margin: 0 0.5em 0 0;
+      }
+    }
+
+    .tags {
+      li {
+        display: inline-block;
       }
     }
 
@@ -273,8 +288,6 @@ main {
     }
 
     .tags {
-      padding: 0;
-
       li {
         border-radius: 0.5rem;
         padding: 0.1rem 0.4rem;

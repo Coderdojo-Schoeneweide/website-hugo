@@ -1,17 +1,29 @@
 {{ define "main" }}
   <section id="post">
     <h2>{{ .Params.Title }}</h2>
-    {{ with .Params.Date }}
-      <p class="date">{{ .Format "02.01.2006" }}</p>
-    {{ end }}
-
-    {{ with .Params.authors }}
-    <ul class="authors">
-      {{ range . }}
-        <li>{{ . }}</li><span class="list-separator">,</span>
+    <ul class="properties">
+      {{ with .Params.date }}
+        <li>
+          <img src="/images/calendar.svg" alt="Kalender Icon">
+          <span>Veröffentlicht: {{ .Format "02.01.2006" }}</span>
+        </li>
       {{ end }}
+      {{ with .Params.authors }}
+      <li>
+        <img src="/images/user.svg" alt="Person Icon">
+        <span>
+          Verfasst von:
+          {{ range . }}
+            {{ . }}<span class="list-separator">,</span>
+          {{ end }}
+        </span>
+      </li>
+      {{ end }}
+      <li>
+        <img src="/images/clock.svg" alt="Uhr Icon">
+        <span>Lesedauer ca. {{ .ReadingTime }} Minute{{ if ne .ReadingTime 1}}n{{ end }}</span>
+      </li>
     </ul>
-    {{ end }}
 
     {{ .Content }}
 
