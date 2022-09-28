@@ -1,133 +1,111 @@
 - name: Bruno
-  imagePath: bruno.jpg
+  imagePath: bruno.webp
   tasks: Mentoring, Programming, Didaktik
   interests: Musik
   background: Medieninformatik, Lehrbeauftragter an der HTW
   story: Über meine Arbeit bin ich total zufällig an eine Stelle als Tutor gekommen und seit dem interessiert an Education. Ich habe dann über die Hochschule vom CoderDojo erfahren und mitgemacht.
 
 - name: Fenja
-  imagePath: fenja.jpg
+  imagePath: fenja.webp
   tasks: Mentoring, Didaktik, Koordination & Kommunikation
   interests:
   background: Optical Sciences (Master) an der HU, Lehrerfahrung, Python und MatLab
   story:
 
 - name: Lara
-  imagePath: lara.PNG
+  imagePath: lara.webp
   tasks: Mentoring, Social Media
   interests: Rollerskating und Kochen
   background: Angewandte Informatik (Bachelor) - Schwerpunkt Data Science, SHK an der HTW
   story:
 
 - name: Linda
-  imagePath: linda.jpg
+  imagePath: linda.webp
   tasks: Projekt Management, Mentoring, Webseite
   interests: Webentwicklung, Data Science, Scratch
   background: Studiert Medieninformatik im Master und leitet Informatik-Übungen an der HTW
   story: 2014 habe ich von CoderDojo erfahren. Glücklicherweise gab es ein CoderDojo in Karlsruhe, dem ich mich anschließen konnte. Später ergab sich durch einen Kurs an der HTW Berlin die Chance, ein eigenes Dojo zu gründen!
 
 - name: Luis
-  imagePath: luis.jpg
+  imagePath: luis.webp
   tasks: Webseite
   interests: Game Development, Webentwicklung, Lesen
   background: Studiert Medieninformatik im Master
   story: Es macht mir Spaß, mein theoretische Wissen an der Webseite von CoderDojo ins Praktische umzusetzen. Ich hatte auf Facebook einen CoderDojo Post gesehen. Nach der Kontaktaufnahme dauerte es nicht lange, bis zu einem ersten Treffen mit dem Team.
 
 - name: Sabina
-  imagePath: sabina.jpg
+  imagePath: sabina.webp
   tasks:
   interests: Lesen, Filme gucken und Kurzgeschichten schreiben
   background: Informatik und Wirtschaft
   story:
 
 - name: Sonja
-  imagePath: sonja.jpg
+  imagePath: sonja.webp
   tasks: Mentoring lernen, PR, Gestaltung
   interests: Gesundheitsinformatik, Sprachen, Lernen
   background: Fremdsprachen-korrespondentin, studiert Angewandte Informatik im Bachelor
   story: Was bringt einem Wissen, wenn man es nicht anwenden oder mit anderen teilen kann?
 
-
-- name: Uyen
-  imagePath: uyen.jpg
-  tasks: Programmieren, (Web)Design, Mentoring
-  interests: Klavier, Backen, Kochen und Videospiele
-  background:  Medieninformatik (Bachelor)
-  story: In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.
-
 - name: Marvin
-  imagePath: marv.jpg
+  imagePath: marv.webp
   tasks: Corporate-Design
   interests: Gaming, Digital Art
   background: Medieninformatik (Master), UI/UX-Designer (Werkstudentenjob), Unity Game Engine (Developer)
   story: A user interface is like a joke. If you have to explain it, it's not that good.
 
 - name: Dustin
-  imagePath: dustin.jpg
+  imagePath: dustin.webp
   tasks: Programmierung, Videoproduktion, Mentoring, sonstige Unterstützung
   interests: zocken (analog & digital), kochen und backen, programmieren und basteln, Musik spielen und was noch so Spaß macht
   background: Angewandte Informatik (Bachelor)
   story: Seit meiner Schulzeit bin ich aktiv dabei mein Wissen weiterzugeben. Und wo startet man am besten? Bei den Kindern!
 
-- name: Helene
-  imagePath: helene.jpg
-  tasks: Mentoring, Youtube-Channel
-  interests: Design, Eventmanagement, Planung von Strategien
-  background: Kommunikationswissen, Webdesign, Gestaltung digitaler Medien, Organisation
-  story: no risk, no fun
-
-- name: Marcel
-  imagePath: marcel.jpg
-  tasks: Projekt Management und Unterstützung
-  interests: Programmierung und Gaming
-  background: Medieninformatik (Bachelor), mehrjährige Berufserfahrung in Personalführung und Aufgabenverteilung sowie Projektorganisation
-  story: Die meisten Programmierkenntnisse habe ich nicht in der Schule/Uni sondern auf Youtube gelernt
-
 - name: Markus
-  imagePath: markus.jpg
+  imagePath: markus.webp
   tasks: Programmieren, Hilfevideos
   interests: Mentoring, Reisen, Musik und Lernen
   background: Angewandte Informatik (Master) 2. Semester; Erfahrungen in C, Java, Python
   story:
 
 - name: Sahra
-  imagePath: sahra.jpg
+  imagePath: sahra.webp
   tasks: Workshopgestaltung, Mentoring
   interests: Workshopgestaltung, Diversitythemen, Mentoring
   background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
   story:
 
-- name: Darlyn
-  imagePath: darlyn.jpg
-  tasks: Organisation & Koordination, Programmieren, PR
-  interests: Konzert & Museumsbesuche, Kochen, Fitness, Reisen
-  background: Angewandte Informatik (Bachelor), abgeschlossene Ausbildung zur Veranstaltungskauffrau
-  story:
-
 - name: David
-  imagePath: david.jpg
+  imagePath: david.webp
   tasks: Mentoring, Finanzierung, Eventmanagement
   interests: Mathematik, Physik und Programmieren lehren, Kochen, Musik
   background: Wirtschaftsinformatik (Bachelor); Erfahrung als Förderlehrer; Webentwicklung, Finanzen, IT-Sicherheit
   story:
 
 - name: Marlón
-  imagePath: marlon.jpg
+  imagePath: marlon.webp
   tasks: Webseite, Programmieren, Co-Creation Workshops
   interests: UX/UI Design, System Thinking, Design Thinking, Co-Creation, Web/App Design
   background: M.A. System Design (Partizipatives Design, UI & UX Design, HCI), Prototyping
   story:
 
 - name: Ilja
-  imagePath: ilja.jpg
+  imagePath: ilja.webp
   tasks: Mentoring, IT-Support
   interests: Didaktik, Pädagogik, Sozialwissenschaft und Technik, Ethik
   background: Informations- und Kommunikationstechnik (Master), ehemaliger Jugendleiter, Skript- und Programmier-Kenntnisse
   story: Spielerisch und mit Neugier die Welt um uns herum zu erkunden ist das, was mich im Leben antreibt
 
 - name: Leander
-  imagePath: leander.jpg
+  imagePath: leander.webp
   tasks: Webentwicklung
   interests: Gaming, Webentwicklung, Programmieren
   background: Medieninformatik (Bachelor), GameJams, Webentwicklung, Berufserfahrung
   story:
+
+- name: Max
+  imagePath: max.webp
+  tasks: Finanzen, Material
+  interests: Game Design, Gameplay, Character & Storytelling, Game Based Learning; gerne auch als Workshop
+  background: Kenntnisse mit Finanzen & Buchhaltung, Erfahrungen bei Projekttagen mit Kindern von meinem FÖJ
+  story: If you can't believe in yourself believe in me, the one who believes in you. - Kamina
