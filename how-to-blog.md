@@ -13,7 +13,11 @@ Der eigentliche Inhalt des Artikels kommt an die Stelle, an der "Your content go
 In der Datei kann Dein Text nach Markdown-Regeln formatiert werden.
 Eine kurze Übersicht über alle Funktionen, die Markdown bietet, findest Du [in diesem Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :)
 5. Nachdem Du den Artikel fertig verfasst hast, kannst Du ihn auf GitHub pushen, damit er dann nach einem Review auf
-der Website veröffentlicht werden kann: `git push -u origin <branch_name>` (oder einfach `git push`, wenn dies nicht
-Dein erster Push auf dem Branch ist :))
+der Website veröffentlicht werden kann. Dafür muss er zuerst committed und anschließend der Commit gepusht werden:
+```
+git add -A
+git commit -m "<hier kannst Du Deine Änderungen kurz beschreiben>"
+git push -u origin <branch_name> (oder einfach `git push`, wenn dies nicht Dein erster Push auf dem Branch ist :))
+```
 6. Als letztes musst Du nur noch einen Pull Request für Deinen Branch erstellen (GitHub -> Pull requests -> New pull request -> base: master, compare: Dein Branch).
 Dieser wird dann reviewed und anschließend wird Dein Artikel veröffentlicht!
