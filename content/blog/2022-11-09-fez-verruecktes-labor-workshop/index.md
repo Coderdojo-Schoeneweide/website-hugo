@@ -6,7 +6,7 @@ tags: [workshop, FEZ, Dashbot, Herbstferien]
 authors: [Niklas Fath]
 ---
 
-Am vergangenen Wochenende fand nun schon zum zweiten Mal unser bei Kids und Eltern sogleich beliebter Dashbot-Workshop im FEZ statt. Dashbot? - Das sind diese kleinen blauen, niedlichen Roboter, mit denen man allerlei verrückte Dinge machen kann. Im Rahmen des verrückten Labors im FEZ durften interessierte Kinder sich austoben. Der Clou dabei, die Roboter lassen sich in anfängerfreundlicher Art und Weise programmieren. Dadurch lassen sich alle Aktionen auch automatisiert durchführen. Wir standen vor Ort mit Mentor:innen bei Fragen zur Seite. Die Kinder wurden so in ihrer experimentellen Neugierde gefördert.
+Am vergangenen Wochenende fand nun schon zum zweiten Mal unser bei Kids und Eltern zugleich beliebter Dashbot-Workshop im FEZ statt. Dashbot? - Das sind diese kleinen blauen, niedlichen Roboter, mit denen man allerlei verrückte Dinge machen kann. Im Rahmen des verrückten Labors im FEZ durften interessierte Kinder sich austoben. Der Clou dabei, die Roboter lassen sich in anfängerfreundlicher Art und Weise programmieren. Dadurch lassen sich alle Aktionen auch automatisiert durchführen. Wir standen vor Ort mit Mentor:innen bei Fragen zur Seite. Die Kinder wurden so in ihrer experimentellen Neugierde gefördert.
 
 Als kleinen Anreiz sich auszuprobieren, war ein kleines Sammelsurium an Aufgaben aufgebaut, welches die Funktionen des Dashbots ausschöpfen und die Kreativität der Teilnehmenden beflügeln sollten. Für jede abgeschlossene Aufgabe durften sich die Kinder bunte Sticker aussuchen und auf ihr Workshop-Plan kleben. Am Ende blieb so eine ganz wunderbar bunte Erinnerung.\
 &nbsp;
