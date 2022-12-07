@@ -1,12 +1,12 @@
 +++
 title = "Es spricht!"
 image = "lippensynchronisation.png"
-duration = "1,5 Stunden"
+duration = "2 Stunden"
 age = "10 - 17 Jahre"
 tags = ["scratch", "animation"]
 +++
 
-Im Online-Workshop "Es spricht!" erhalten die Teilnehmenden einen Einblick darin, 
+Im Workshop "Es spricht!" erhalten die Teilnehmenden einen Einblick darin, 
 wie man mit Scratch flüssige Animationen bestehend aus Einzelbildern machen kann. 
 Bei dieser Art der Animation werden mehrere Bilder hintereinander abgespielt,
 sodass im Kopf eine Art "Film" entsteht - wie bei einem Daumenkino, aber digital!
@@ -21,8 +21,7 @@ Lernziele:
 
 Teilnehmende benötigen:
 * Computer oder Tablet
-* Internetverbindung
-* Browser (Chrome) oder Scratch App
+* Internetverbindung und Browser oder Scratch App
 * Mikrofon und Lautsprecher
 * Papier und Stifte
 * [Lippensynchronisations-Toolkit des CoderDojo Schöneweide](https://scratch.mit.edu/projects/455626392/)
