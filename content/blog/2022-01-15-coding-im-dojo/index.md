@@ -1,5 +1,5 @@
 ---
-title:  "Coding im Dojo Januar 2022"
+title:  "Neues Format: Coding im Dojo"
 date:   2022-01-15T13:00:00+0100
 categories: [berichte]
 tags: [workshop, coding-im-dojo, programmieren, scratch, discord]
