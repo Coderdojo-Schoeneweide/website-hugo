@@ -25,7 +25,9 @@
       </li>
     </ul>
 
-    {{ .Content }}
+    <div id="blog-content">
+      {{ .Content }}
+    </div>
 
     {{ with .Params.tags }}
     <ul class="tags">
@@ -35,4 +37,5 @@
     </ul>
     {{ end }}
   </section>
+  <script src="{{ .Site.BaseURL }}/js/blog.js"></script>
 {{ end }}

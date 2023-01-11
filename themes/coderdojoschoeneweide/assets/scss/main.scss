@@ -195,6 +195,12 @@ main {
   #impressum,
   #post,
   .single-workshop {
+    img {
+      max-width: 80%;
+    }
+    .blog-image-title {
+      text-align: center;
+    }
     a:visited {
       @include theme() {
         color: theme-get("visited-link-color");
