@@ -3,7 +3,7 @@ title: "Figma Prototyping Workshop: Adventskalender-App"
 date: 2023-01-25T16:27:22+01:00
 categories: [berichte]
 tags: [workshop]
-authors: []
+authors: [Bettina]
 ---
 
 Kurz vor Weihnachten fand ein Figma Prototyping Workshop für Kinder im Alter von 6 bis 12 Jahren statt. Bei diesem Workshop ging es darum, einen individuellen Adventskalender mit der Design-Software Figma zu erstellen. Die Teilnehmer wurden mit einem vorgegebenen Adventskalender-Template ausgestattet, das sie nach ihren eigenen kreativen Vorstellungen gestalten sollten.
