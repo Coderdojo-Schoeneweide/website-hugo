@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const h4 = document.createElement("h4")
         h4.innerHTML = image.title;
         h4.classList.add("blog-image-title")
-        console.log(image.parentNode);
         image.parentNode.appendChild(h4)
     }
 });
