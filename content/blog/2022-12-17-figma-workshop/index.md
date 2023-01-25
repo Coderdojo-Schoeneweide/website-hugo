@@ -18,4 +18,4 @@ Das Ziel des Workshops war es, den Umgang mit Figma zu erlernen und sich mit der
 
 Am Ende des Workshops hatten die Teilnehmer einen individuellen Adventskalender erstellt und gleichzeitig ihre Fähigkeiten im Umgang mit Figma verbessert. Es war eine großartige Möglichkeit für die Kinder, ihre kreativen Fähigkeiten zu fördern und ihre technischen Fähigkeiten zu erweitern. Dieser Workshop hat gezeigt, dass digitale Werkzeuge und kreative Ideen perfekt miteinander kombiniert werden können.
 
-Die Kinder haben beeindruckende Ergebnisse erzielt und wir freuen uns darauf in Zukunft weitere Figma-Workshops zu veranstalten.
+Die Kinder haben beeindruckende Ergebnisse erzielt und wir freuen uns darauf, in Zukunft weitere Figma-Workshops zu veranstalten.
