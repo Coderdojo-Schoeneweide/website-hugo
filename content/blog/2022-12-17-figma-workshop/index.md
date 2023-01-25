@@ -2,7 +2,7 @@
 title: "Figma Prototyping Workshop: Adventskalender-App"
 date: 2023-01-25T16:27:22+01:00
 categories: [berichte]
-tags: [workshop]
+tags: [workshop, figma, design, advent]
 authors: [Bettina]
 ---
 
