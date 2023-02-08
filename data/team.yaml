@@ -123,3 +123,10 @@
   interests: Webentwicklung
   background: Medieninformatik Master, Full Stack Web Entwicklung
   story:
+
+- name: Maik
+  imagePath: maik.webp
+  tasks: Mentoring
+  interests: Mentoring, Umsetzung der Idee "Kids über Blender programmieren mit Python näher bringen", manchmal auch einfach nur Scratch
+  background: IT-Business Analyst, Autor, Karate + Aikido Trainer
+  story:
