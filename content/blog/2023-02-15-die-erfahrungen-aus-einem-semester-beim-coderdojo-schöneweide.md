@@ -7,7 +7,7 @@ tags:
   - Erfahrungsbericht
 authors:
   - Karsten Fankhänel
-draft: true
+draft: false
 ---
 In den folgenden Zeilen möchte ich meine Eindrücke vom CoderDojo Schöneweide darstellen, welche ich über das Wintersemester 22/23 erhalten habe. 
 Ich selbst bin Student an der HTW und bin zum CoderDojo über die Auswahlliste der AWE Module der HTW gelangt. 
