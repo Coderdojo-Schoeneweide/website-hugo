@@ -1,5 +1,5 @@
 ---
-title: "Die Pixelwelten "
+title: "FEZ - Die Pixelwelten "
 date: 2023-02-27T17:10:49.941Z
 categories:
   - berichte
