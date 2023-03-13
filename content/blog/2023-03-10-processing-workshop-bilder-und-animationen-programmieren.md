@@ -7,7 +7,7 @@ tags:
   - "#workshop #programmieren #processing"
 authors:
   - Finja
-draft: true
+draft: false
 ---
 Am 04. März gab es bei uns den *Processing-Worksop*. Dabei haben wir uns mit Kindern ab 12 Jahren das Programm „*Processing*“ angeschaut - für viele das erste mal Programmieren mit Text. Wie aufregend! Und wirklich gut gemeistert.
 
