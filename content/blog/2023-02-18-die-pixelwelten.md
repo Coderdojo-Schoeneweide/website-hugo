@@ -10,7 +10,7 @@ tags:
   - spiele
 authors:
   - Fenja
-draft: true
+draft: false
 ---
 A﻿n zwei Wochenenden, dem 11. und 12. Februar und dem 18. und 19. Februar, konnten Kids im Freizeit- und Erholungszentrum (FEZ) ihre eigene VR-Brille basteln, PixelArt entwerfen oder Jump'n'Run SuperMario in der Turnhalle in real live spielen. 
 
