@@ -4,7 +4,9 @@ date: 2023-03-10T11:33:14.520Z
 categories:
   - berichte
 tags:
-  - "#workshop #programmieren #processing"
+  - workshop
+  - programmieren
+  - processing
 authors:
   - Finja
 draft: false
