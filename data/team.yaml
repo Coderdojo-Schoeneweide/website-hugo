@@ -75,13 +75,6 @@
   background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
   story:
 
-- name: David
-  imagePath: david.webp
-  tasks: Mentoring, Finanzierung, Eventmanagement
-  interests: Mathematik, Physik und Programmieren lehren, Kochen, Musik
-  background: Wirtschaftsinformatik (Bachelor); Erfahrung als Förderlehrer; Webentwicklung, Finanzen, IT-Sicherheit
-  story:
-
 - name: Marlón
   imagePath: marlon.webp
   tasks: Webseite, Programmieren, Co-Creation Workshops
@@ -95,13 +88,6 @@
   interests: Didaktik, Pädagogik, Sozialwissenschaft und Technik, Ethik
   background: Informations- und Kommunikationstechnik (Master), ehemaliger Jugendleiter, Skript- und Programmier-Kenntnisse
   story: Spielerisch und mit Neugier die Welt um uns herum zu erkunden ist das, was mich im Leben antreibt
-
-- name: Leander
-  imagePath: leander.webp
-  tasks: Webentwicklung
-  interests: Gaming, Webentwicklung, Programmieren
-  background: Medieninformatik (Bachelor), GameJams, Webentwicklung, Berufserfahrung
-  story:
 
 - name: Max
   imagePath: max.webp
@@ -129,13 +115,6 @@
   tasks: Mentoring
   interests: Mentoring, Umsetzung der Idee "Kids über Blender programmieren mit Python näher bringen", manchmal auch einfach nur Scratch
   background: IT-Business Analyst, Autor, Karate + Aikido Trainer
-  story:
-
-- name: Linh
-  imagePath: mylinh.webp
-  tasks: Happiness, Workshoprahmenplanung, Mentoring
-  interests: Mentoring, Programmieren und Brettspiele
-  background: Angewandte Informatik (Bachelor), Erfahrung in Java, JavaScript, Android
   story:
 
 - name: Sebastian
