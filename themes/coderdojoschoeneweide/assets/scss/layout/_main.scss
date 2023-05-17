@@ -1,0 +1,197 @@
+@import "../theme";
+@import "../media-queries";
+
+main {
+  section {
+    padding: $standard-padding 1.5rem;
+  }
+
+  .two-cols,
+  .broad {
+    padding: 0;
+  }
+
+  .two-cols {
+    display: flex;
+    justify-content: space-between;
+
+    main {
+      width: 66%;
+    }
+
+    aside {
+      width: 33%;
+      padding: $standard-padding 1.5rem;
+      border-left: 1px solid $color-main;
+
+      .social {
+        list-style: none;
+        display: flex;
+        margin: 0;
+        padding: 0;
+
+        a {
+          padding: $standard-padding;
+
+          svg {
+            width: 1rem;
+            height: 1rem;
+          }
+        }
+      }
+    }
+  }
+
+  #events,
+  #impressum,
+  #post,
+  .single-workshop {
+    img {
+      max-width: 80%;
+      max-height: 50vh;
+      @media screen and (max-width: 480px) {
+        max-width: 100%;
+      }
+    }
+    .blog-image-title {
+      text-align: center;
+    }
+    a:visited {
+      @include theme() {
+        color: theme-get("visited-link-color");
+      }
+    }
+    a:link {
+      @include theme() {
+        color: theme-get("not-visited-link-color");
+      }
+    }
+  }
+
+  #all-posts {
+    h2 {
+      text-align: center;
+    }
+  }
+
+  .post-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin: 1rem 0;
+      padding: 0;
+
+      &:not(:first-child) {
+        border-top: 1px solid $color-main;
+        /*@include theme() {
+          border-color: theme-get("text-color");
+        }*/
+      }
+
+      a {
+        @include theme() {
+          color: theme-get("text-color");
+        }
+        text-decoration: none;
+
+        &:hover {
+          color: $color-main;
+        }
+      }
+
+      .ellipsis {
+        text-align: center;
+      }
+    }
+  }
+
+  #post {
+    .properties,
+    .tags {
+      list-style: none;
+      padding: 0;
+
+      li .list-separator:last-of-type {
+        display: none;
+      }
+    }
+
+    .properties {
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+
+      li {
+        display: flex;
+        align-items: center;
+      }
+
+      img {
+        max-width: 1em;
+        max-height: 1em;
+        margin: 0 0.5em 0 0;
+      }
+    }
+
+    .tags {
+      li {
+        display: inline-block;
+      }
+    }
+
+    figure,
+    img {
+      display: block;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .tags {
+      li {
+        border-radius: 0.5rem;
+        padding: 0.1rem 0.4rem;
+        border: 1px dotted;
+        @include theme() {
+          border-color: theme-get("text-color");
+        }
+
+        &:hover {
+          cursor: pointer;
+          border: 1px solid $color-main;
+          background-color: $color-main;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: $mq-phone) {
+  main {
+    .two-cols {
+      flex-direction: column;
+
+      main {
+        width: 100%;
+      }
+
+      aside {
+        border-left: none;
+        width: 100%;
+      }
+    }
+
+    aside::before {
+      content: "";
+      display: block;
+      background-color: $color-main;
+      height: 1px;
+      width: 100%;
+    }
+
+    #team ul .has-story .story-container .story {
+      width: 80%;
+    }
+  }
+}

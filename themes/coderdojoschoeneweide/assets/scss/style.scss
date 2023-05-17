@@ -1,0 +1,38 @@
+@import "theme";
+@import "layout/header";
+@import "components/button";
+@import "components/navigation";
+@import "layout/main";
+@import "components/team";
+@import "components/workshops";
+@import "components/theme-switcher";
+
+/* General */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font: 100% "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  @include theme() {
+    background-color: theme-get("bg-color");
+    color: theme-get("text-color");
+  }
+}
+
+p {
+  line-height: 1.5;
+}
+
+.wrapper {
+  max-width: $wrapper-width;
+  margin: $wrapper-margin auto;
+}
+
+svg {
+  @include theme() {
+    fill: theme-get("svg-fill-color");
+  }
+}

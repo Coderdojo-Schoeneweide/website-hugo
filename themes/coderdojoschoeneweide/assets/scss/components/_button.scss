@@ -1,0 +1,23 @@
+@import "../theme";
+
+.button {
+  font-weight: bold;
+  margin: 0 0.1rem;
+  padding: 0.9rem;
+  background-color: $color-main;
+  color: $color-light;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+
+  &:hover {
+    cursor: pointer;
+    opacity: 0.8;
+  }
+}
+
+.button.shortcode {
+  color: $color-light !important;
+  margin: $standard-padding 0;
+}

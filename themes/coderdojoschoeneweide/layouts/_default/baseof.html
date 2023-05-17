@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--suppress HtmlUnknownTarget -->
 <html lang="{{.Site.LanguageCode}}">
   {{ block "head.html" . }}
   <head>
@@ -8,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    {{ $scss := resources.Get "/scss/main.scss" }}
+    {{ $scss := resources.Get "/scss/style.scss" }}
     {{ $style := $scss | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
     <script src="{{ .Site.BaseURL }}/js/obfuscate.js"></script>

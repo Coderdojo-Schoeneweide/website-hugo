@@ -1,0 +1,74 @@
+@import "../theme";
+
+.switcher-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 0.5rem;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  //background-color: $color-dark-theme-bg;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 40px;
+  width: 40px;
+  inset: 0;
+  margin-block: auto;
+  transition: 0.4s;
+  box-shadow: 0 0 15px rgba(204, 204, 204, 0.876);
+  background: white url("https://i.ibb.co/FxzBYR9/night.png") no-repeat center;
+}
+
+input:checked + .slider {
+  background-color: darken($color-dark-theme-bg, 10%);
+  //background-color: #ccc;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px $color-dark;
+}
+
+input:checked + .slider:before {
+  -ms-transform: translateX(24px);
+  transform: translateX(24px);
+  background: white url("https://i.ibb.co/7JfqXxB/sunny.png") no-repeat center;
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}

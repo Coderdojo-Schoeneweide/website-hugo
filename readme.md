@@ -35,7 +35,6 @@ The `archetypes` folder contains the template file for new subpages like blog-po
   * `$color-main`: Theme color/accent color for the website (currently orange)
 * Classes in SCSS
   * `.wrapper`: Limits the maximum content width to a fixed value (currently 900px)
-  * `.background-main`: Tints the background of the element in the theme color (see `$color-main`)
 
 #### `layouts`
 * Directly in the `layouts` folder you can find the [template](https://gohugo.io/templates/introduction/) `index.html` which is the template for the homepage of our website

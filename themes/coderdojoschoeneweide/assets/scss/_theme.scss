@@ -1,0 +1,50 @@
+// Colors
+$color-dark: #111111 !default;
+$color-light: #ffffff !default;
+$color-main: #f2a23a !default;
+$color-dark-theme-bg: #262626;
+
+// Sizes
+$wrapper-width: 900px !default;
+$wrapper-margin: 2rem;
+$standard-padding: 0.5rem;
+
+$theme-map: null;
+
+$themes: (
+        "light": (
+                "text-color": $color-dark,
+                "bg-color": $color-light,
+                "icon-filter-color": none,
+                "svg-fill-color": $color-dark,
+                "visited-link-color": -webkit-link,
+                "not-visited-link-color": -webkit-link,
+                "display-property-light-title": block,
+                "display-property-dark-title": none,
+        ),
+        "dark": (
+                "text-color": $color-light,
+                "bg-color": $color-dark-theme-bg,
+                "icon-filter-color": invert(100%) sepia(0%) saturate(2%) hue-rotate(311deg)
+                brightness(103%) contrast(101%),
+                "svg-fill-color": $color-light,
+                "visited-link-color": #8e24aa,
+                "not-visited-link-color": #1976d2,
+                "display-property-light-title": none,
+                "display-property-dark-title": block,
+        ),
+);
+
+@mixin theme() {
+  @each $theme, $map in $themes {
+    $theme-map: $map !global;
+    .#{$theme} & {
+      @content;
+    }
+  }
+  $theme-map: null !global;
+}
+
+@function theme-get($key) {
+  @return map-get($theme-map, $key);
+}
