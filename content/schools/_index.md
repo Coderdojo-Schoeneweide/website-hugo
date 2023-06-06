@@ -13,16 +13,15 @@ Nimm gern unsere Angebote für Schulen und Lehrkräfte wahr.
 
 ## Workshops für Lehrkräfte
 Ihr habt einen Klassensatz Roboter, der im Schrank verstaubt, weil niemand weiß, wie man ihn verwendet?
-Oder euch fehlen Ideen was ihr mit den neuen iPads überhaupt machen könnt?
+Oder euch fehlen Ideen was ihr mit den neuen Tablets überhaupt machen könnt?
 
 In Workshops und Schulinternen Fortbildungen (SchiF) helfen wir dir und deinen Kolleg:innen dabei, 
 selber die digitale Welt gestalten zu lernen, und eure neuen Fähigkeiten direkt im Unterricht 
 weiterzuvermitteln.
 
 ### Du bist interessiert an einer SchiF?
-Klasse! Wir haben zwar schon eine Lehrkräftefortbildung in Kooperation gemeistert, jedoch noch nie eine eigene, als Weiterbildung 
-anrechenbare SchiF durchgeführt. Wenn du dir vorstellen kannst, dich mit uns gemeinsam daran zu versuchen, 
-schick uns eine [Mail](mailto:schoeneweide.berlin@coderdojo.com).
+Klasse! Wenn du dir vorstellen kannst, dich mit uns gemeinsam eine eigene, als Weiterbildung
+anrechenbare SchiF durchzuführen, schick uns eine [Mail](mailto:schoeneweide.berlin@coderdojo.com).
 
 ---
 
@@ -30,7 +29,7 @@ schick uns eine [Mail](mailto:schoeneweide.berlin@coderdojo.com).
 Wir bieten Programmier-Workshops für Schulklassen an. 
 
 Den Inhalt schneidern wir auf den Bedarf deiner Klasse zu. 
-Nach dem Motto "Die einzigen Grenzen sind deine eigene Vorstellungskraft" verbinden wir digitale 
+Nach dem Motto "alles ist möglich" verbinden wir digitale 
 Fähigkeiten, wie Programmierung und Animation, mit deinem Unterrichtsfach und deinem Lehrplan. 
 Inspiration findest du aber auch unter "[Workshops](..%2Fworkshops)".
 
@@ -48,7 +47,7 @@ Dann führen wir den Workshop durch, und im Nachhinein erhält deine Schule eine
 
 ### Kosten
 Geld soll keine Hürde für digitale Bildung sein.
-Die Vergütung für unsere Angebote für Schulen richtet sich nach dem Budget der Schule. Zur groben Orientierung: Bisher haben wir bei bezahlten Workshops zwischen 60€ und 100€ pro ganzer Workshopstunde abgerechnet.
+Die Vergütung für unsere Angebote für Schulen richtet sich nach dem Budget der Schule. 
 Kein Budget? Wir schauen was wir tun können. Schick uns eine [Mail](mailto:schoeneweide.berlin@coderdojo.com).
 
 ---
