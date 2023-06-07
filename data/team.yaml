@@ -105,7 +105,7 @@
 
 - name: Jonas
   imagePath: jonas.webp
-  tasks: Informationsmanagement, Web Entwicklung
+  tasks: Informationsmanagement, Webentwicklung
   interests: Webentwicklung
   background: Medieninformatik Master, Full Stack Web Entwicklung
   story:
@@ -122,4 +122,11 @@
   tasks: Happiness, Videoproduktion
   interests: Nachhaltigkeit
   background: Medieninformatik (Master), VR/AR Game-Entwicklung
+  story:
+
+- name: Olli
+  imagePath: olli.webp
+  tasks: Webentwicklung
+  interests: Python, Data Science, Webentwicklung
+  background: Wirtschaftsinformatik (Master), NC-Technologe bei Siemens Energy
   story:
