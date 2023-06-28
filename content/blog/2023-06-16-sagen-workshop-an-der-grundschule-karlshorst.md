@@ -10,7 +10,7 @@ tags:
   - sagen
 authors:
   - Lukas
-draft: true
+draft: false
 ---
 Am 17.05.2023 und 24.05.2023 waren wir an der Grundschule Karlshorst und haben zusammen mit den Schüler*innen der 6. Klasse einen Scratch Workshop zum Thema Sagen veranstaltet. 
 
