@@ -61,13 +61,6 @@
   background: Angewandte Informatik (Bachelor)
   story: Seit meiner Schulzeit bin ich aktiv dabei mein Wissen weiterzugeben. Und wo startet man am besten? Bei den Kindern!
 
-- name: Markus
-  imagePath: markus.webp
-  tasks: Programmieren, Hilfevideos
-  interests: Mentoring, Reisen, Musik und Lernen
-  background: Angewandte Informatik (Master) 2. Semester; Erfahrungen in C, Java, Python
-  story:
-
 - name: Sahra
   imagePath: sahra.webp
   tasks: Workshopgestaltung, Mentoring
