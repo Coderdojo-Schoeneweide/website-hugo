@@ -2,3 +2,9 @@ baseURL = "https://coderdojo-schoeneweide.github.io/"
 languageCode = "de-de"
 title = "CoderDojo Schöneweide"
 theme = "coderdojoschoeneweide"
+
+[[menu.main]]
+  identifier = "datenschutz"
+  name = "Datenschutz"
+  url = "/datenschutz/"
+  weight = 4
