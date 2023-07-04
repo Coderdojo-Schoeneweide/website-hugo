@@ -5,7 +5,7 @@ categories:
   - berichte
 authors:
   - Natalie Heck
-draft: true
+draft: false
 ---
 *Dieser Erfahrungsbericht über die Arbeit im CoderDojo wurde von einem ehemaligen Mitglied im März 2022 geschrieben (Anmerkung der Redaktion).*
 
