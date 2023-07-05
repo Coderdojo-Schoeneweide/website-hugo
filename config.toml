@@ -8,3 +8,7 @@ theme = "coderdojoschoeneweide"
   name = "Datenschutz"
   url = "/datenschutz/"
   weight = 4
+
+
+  [markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
