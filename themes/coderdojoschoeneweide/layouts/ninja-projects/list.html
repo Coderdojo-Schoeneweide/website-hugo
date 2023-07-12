@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="all-workshops">
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    {{ range .Pages }}
+        <a href="{{ .Params.projectLink }}"> <h3> {{ .Title }} </h3> </a>
+        <iframe allowtransparency="true" width="485" height="402" src="{{ .Params.projectLink }}/embed?autostart=false" frameborder="0" allowfullscreen></iframe>
+        {{ .Content }}
+    {{ end }}
+</section>
+{{ end }}
