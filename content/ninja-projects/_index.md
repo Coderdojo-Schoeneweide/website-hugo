@@ -3,4 +3,4 @@ title: Ninja-Projects
 layout: ninja-projects
 ---
 
-This is the content of my new page.
+Hier werden Projekte gezeigt, die im Zusammenarbeit mit dem CoderDojo Schöneweide entstanden sind.
