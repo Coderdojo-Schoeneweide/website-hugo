@@ -1,5 +1,6 @@
 @import "theme";
 @import "layout/header";
+@import "layout/footer";
 @import "components/button";
 @import "components/navigation";
 @import "layout/main";
@@ -27,6 +28,7 @@ p {
 }
 
 .wrapper {
+  width: 100%;
   max-width: $wrapper-width;
   margin: $wrapper-margin auto;
 }

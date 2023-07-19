@@ -1,6 +1,5 @@
 ---
 title: Die digitale Welt ist überall - Computer in jedem Unterrichtsfach kreativ einsetzen. Unser Angebot für Schulen und Lehrkräfte.
-layout: general
 ---
 Die digitale Welt ist überall. Wir wollen, dass Kinder und Jugendliche in dieser digitalen Welt
 nicht nur konsumieren, sondern diese Welt auch gestalten können.

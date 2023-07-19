@@ -2,8 +2,6 @@
 @import "../media-queries";
 
 nav {
-  display: block;
-
   input,
   label {
     display: none;
@@ -21,11 +19,21 @@ nav {
   ul {
     padding: 0;
     list-style: none;
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto; //Add more columns if needed
+    display: flex;
+    gap: 0.2em;
+    margin-inline: 0.2em;
 
     li {
-      margin: 0.1rem;
+      flex: 1;
+      background: $color-main;
+      color: $color-light;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    a {
+      color: inherit;
+      padding-block: 0.8em;
     }
   }
 }
@@ -38,6 +46,7 @@ nav {
       &::after {
         content: "▼";
         font-size: 1rem;
+        margin-inline-start: 0.5em;
       }
     }
 
@@ -45,7 +54,8 @@ nav {
       max-height: 0;
       overflow: hidden;
       margin: 0;
-      grid-template-columns: initial;
+      flex-direction: column;
+      gap: 0;
       transition: max-height 0.5s ease;
       -moz-transition: max-height 0.5s ease;
       -o-transition: max-height 0.5s ease;
@@ -62,7 +72,9 @@ nav {
 
     input:checked {
       ~ ul {
-        max-height: 30rem;
+        // Kind of hacky, but height: 100% is not animatable, so we have to specify an absolute height
+        // Increase max-height if menu gets cut off
+        max-height: 20rem;
       }
 
       ~ label::after {
