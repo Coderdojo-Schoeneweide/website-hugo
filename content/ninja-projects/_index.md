@@ -1,5 +1,5 @@
 ---
-title: Ninja-Projects
+title: Dojo-Projekte
 ---
 
-Hier werden Projekte gezeigt, die im Zusammenarbeit mit dem CoderDojo Schöneweide entstanden sind.
+Hier werden Projekte gezeigt, die in Zusammenarbeit mit dem CoderDojo Schöneweide entstanden sind.
