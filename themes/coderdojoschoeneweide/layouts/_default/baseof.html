@@ -19,13 +19,11 @@
   <body>
     {{ block "header.html" . }}
     <header class="site-header wrapper" role="banner">
-      <div class="switcher-container">
         <label id="switch" class="switch">
           <input type="checkbox" id="slider" />
           <span class="slider round"></span>
         </label>
-      </div>
-      <a class="site-title" href="{{ .Site.BaseURL }}">
+      <a class="site-title site-title-light" href="{{ .Site.BaseURL }}">
         <h1 class="hidden-title" rel="author">{{.Site.Title}}</h1>
         <img
           class="site-logo"
@@ -34,7 +32,7 @@
         />
       </a>
 
-      <a class="dark-site-title" href="{{ .Site.BaseURL }}">
+      <a class="site-title site-title-dark" href="{{ .Site.BaseURL }}">
         <h1 class="hidden-title" rel="author">{{.Site.Title}}</h1>
         <img
           class="site-logo"
@@ -43,24 +41,20 @@
         />
       </a>
 
-      <div class="wrapper">
-        <nav>
-          <input type="checkbox" id="nav-trigger" />
-          <label for="nav-trigger">Menü</label>
-          <ul class="trigger">
-            {{ block "navlinks" . }}
-            <li><a class="button" href="{{ .Site.BaseURL }}#about">Über uns</a></li>
-            <li><a class="button" href="{{ .Site.BaseURL }}#events">Veranstaltungen</a></li>
-            <li><a class="button" href="{{ .Site.BaseURL }}#team">Team</a></li>
-            <li><a class="button" href="{{ .Site.BaseURL }}/workshops">Workshops</a></li>
-            <li><a class="button" href="{{ .Site.BaseURL }}/blog">Blog</a></li>
-            <li><a class="button" href="{{ .Site.BaseURL }}/parents">Für Eltern</a></li>
-            <li><a class="button" href="{{ .Site.BaseURL }}/schools">Für Schulen</a></li>
-            <li><a class="button" href="{{ .Site.BaseURL }}/impressum">Impressum</a></li>
-            {{ end }}
-          </ul>
-        </nav>
-      </div>
+      <nav>
+        <input type="checkbox" id="nav-trigger" />
+        <label for="nav-trigger">Menü</label>
+        <ul class="trigger">
+          {{ block "navlinks" . }}
+          <li><a href="{{ .Site.BaseURL }}">Das Dojo</a></li>
+          <li><a href="{{ .Site.BaseURL }}/workshops">Workshops</a></li>
+          <li><a href="{{ .Site.BaseURL }}/blog">Blog</a></li>
+          <li><a href="{{ .Site.BaseURL }}/parents">Für Eltern</a></li>
+          <li><a href="{{ .Site.BaseURL }}/schools">Für Schulen</a></li>
+          <li><a href="{{ .Site.BaseURL }}/impressum">Impressum</a></li>
+          {{ end }}
+        </ul>
+      </nav>
     </header>
     {{ end }}
 

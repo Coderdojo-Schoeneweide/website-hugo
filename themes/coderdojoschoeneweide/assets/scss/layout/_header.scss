@@ -2,30 +2,42 @@
 @import "../media-queries";
 
 header {
+  display: flex;
+  flex-direction: column;
+
   a {
     display: block;
     text-decoration: none;
+  }
 
-    .hidden-title {
-      display: none;
-    }
+  .hidden-title {
+    display: none;
+  }
 
-    .site-logo {
-      display: block;
-      width: 50rem;
-      max-width: 100%;
-      margin: 0 auto 4.5em auto;
-    }
+  .site-logo {
+    display: block;
+    width: 50rem;
+    max-width: 100%;
+    margin: 0 auto 4.5em auto;
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.12));
+  }
+
+  .switch {
+    align-self: flex-end;
+  }
+
+  .switch, .site-title {
+    margin-inline: 0.5em;
   }
 }
 
-.dark-site-title {
+.site-title-dark {
   @include theme() {
     display: theme-get("display-property-dark-title");
   }
 }
 
-.site-title {
+.site-title-light {
   @include theme() {
     display: theme-get("display-property-light-title");
   }
