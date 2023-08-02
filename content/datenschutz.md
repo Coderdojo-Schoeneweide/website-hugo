@@ -1,8 +1,7 @@
 ---
+title: "Datenschutzerklärung"
 layout: "general"
 ---
-
-# Datenschutzerklärung
 
 In dieser Datenschutzerklärung (Stand: 26.07.2023) erläutern wir basierend auf der 
 [Datenschutz-Grundverordnung (EU) 2016/679](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=312528560#d1e2269-1-1) 
