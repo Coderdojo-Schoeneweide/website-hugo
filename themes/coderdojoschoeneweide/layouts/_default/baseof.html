@@ -52,7 +52,6 @@
           <li><a href="{{ .Site.BaseURL }}/parents">Für Eltern</a></li>
           <li><a href="{{ .Site.BaseURL }}/schools">Für Schulen</a></li>
           <li><a class="button" href="{{ .Site.BaseURL }}/dojo-projects">Projekte</a></li>
-          <li><a href="{{ .Site.BaseURL }}/impressum">Impressum</a></li>
           {{ end }}
         </ul>
       </nav>
@@ -67,7 +66,11 @@
     <footer class="wrapper">
       <p>Mit <3 gemacht vom CoderDojo Schöneweide Team</p>
       <p>Auf GitHub gehostet</p>
-      <p><a href="/datenschutz">Datenschutz</a></p>
+      <div>
+        <a href="/impressum">Impressum</a>
+        &ndash;
+        <a href="/datenschutz">Datenschutz</a>
+      </div>
     </footer>
     {{ end }}
     <script src="{{ .Site.BaseURL }}js/story-modal.js"></script>
