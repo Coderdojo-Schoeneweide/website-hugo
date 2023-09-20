@@ -1,6 +1,6 @@
 +++
 title = "Was ist das CoderDojo? - Für Eltern"
-image = "family_icon.png"
+image = "faq_eltern.png"
 +++
 
 ## Was ist das Ziel vom CoderDojo Schöneweide?
@@ -40,8 +40,8 @@ Stattdessen suchen sich die Kinder meist automatisch eigene Ziele, sobald sie ei
 Am Ende kann jedes Kind zeigen, was es in der Zeit geschafft hat. Das nennen wir die "Showtime".
 
 ## Woher kommt das CoderDojo?
+Unser Dojo ist als Studierendeninitiative der Hochschule für Technik und Wirtschaft gestartet und wird von Studierenden und ehemaligender Studierenden geführt.
+Mittlerweile sind wir auch ein stolzer gemeinnütziger Verein.
+
 Unser Dojo ist eines von vielen weltweit. Die [Wikipedia-Seite](https://en.wikipedia.org/wiki/CoderDojo) oder die [offizielle CoderDojo Seite](https://help.coderdojo.com/cdkb/s/article/What-is-CoderDojo) verrät mehr.
 In Berlin gibt es noch das [CoderDojo-Friedrichshain](https://www.facebook.com/coderdojoberlin/) und das [CoderDojo-Potsdam](https://www.facebook.com/CoderDojoPotsdam).
-
-Unser Dojo ist als Studierendeninitiative der Hochschule für Technik und Wirtschaft gestartet und wird von Studierenden und ehemaligender Studierenden geführt.
-Mittlerweile sind wir auch ein stolzer gemeinütziger Verein.
