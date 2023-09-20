@@ -44,4 +44,4 @@ Unser Dojo ist als Studierendeninitiative der Hochschule für Technik und Wirtsc
 Mittlerweile sind wir auch ein stolzer gemeinnütziger Verein.
 
 Unser Dojo ist eines von vielen weltweit. Die [Wikipedia-Seite](https://en.wikipedia.org/wiki/CoderDojo) oder die [offizielle CoderDojo Seite](https://help.coderdojo.com/cdkb/s/article/What-is-CoderDojo) verrät mehr.
-In Berlin gibt es noch das [CoderDojo-Friedrichshain](https://www.facebook.com/coderdojoberlin/) und das [CoderDojo-Potsdam](https://www.facebook.com/CoderDojoPotsdam).
+In Berlin gibt es noch das [CoderDojo-Friedrichshain](https://www.facebook.com/coderdojoberlin/), das [CoderDojo-Red und Blue](https://coderdojo.red/) und das [CoderDojo-Potsdam](https://www.facebook.com/CoderDojoPotsdam).
