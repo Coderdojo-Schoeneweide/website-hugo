@@ -41,21 +41,7 @@
         />
       </a>
 
-      <nav>
-        <input type="checkbox" id="nav-trigger" />
-        <label for="nav-trigger">Menü</label>
-        <ul class="trigger">
-          {{ block "navlinks" . }}
-          <li><a href="{{ .Site.BaseURL }}">Das Dojo</a></li>
-          <li><a href="{{ .Site.BaseURL }}/workshops">Workshops</a></li>
-          <li><a href="{{ .Site.BaseURL }}/blog">Blog</a></li>
-          <li><a href="{{ .Site.BaseURL }}/parents">Für Eltern</a></li>
-          <li><a href="{{ .Site.BaseURL }}/schools">Für Schulen</a></li>
-          <li><a class="button" href="{{ .Site.BaseURL }}/dojo-projects">Projekte</a></li>
-          <li><a href="{{ .Site.BaseURL }}/impressum">Impressum</a></li>
-          {{ end }}
-        </ul>
-      </nav>
+      {{ partial "main-menu.html" (dict "page" .) }}
     </header>
     {{ end }}
 
@@ -67,7 +53,7 @@
     <footer class="wrapper">
       <p>Mit <3 gemacht vom CoderDojo Schöneweide Team</p>
       <p>Auf GitHub gehostet</p>
-      <p><a href="/datenschutz">Datenschutz</a></p>
+      {{ partial "footer-menu.html" }}
     </footer>
     {{ end }}
     <script src="{{ .Site.BaseURL }}js/story-modal.js"></script>

@@ -4,11 +4,39 @@ title = "CoderDojo Schöneweide"
 theme = "coderdojoschoeneweide"
 
 [[menu.main]]
-  identifier = "datenschutz"
+  name = "Das Dojo"
+  pageRef = "/"
+  weight = 10
+[[menu.main]]
+  name = "Workshops"
+  pageRef = "/workshops"
+  weight = 20
+[[menu.main]]
+  name = "Blog"
+  pageRef = "/blog"
+  weight = 30
+[[menu.main]]
+  name = "Für Eltern"
+  pageRef = "/parents"
+  weight = 40
+[[menu.main]]
+  name = "Für Schulen"
+  pageRef = "/schools"
+  weight = 50
+[[menu.main]]
+  name = "Projekte"
+  pageRef = "/dojo-projects"
+  weight = 60
+
+[[menu.footer]]
+  name = "Impressum"
+  pageRef = "/impressum"
+  weight = 10
+[[menu.footer]]
   name = "Datenschutz"
-  url = "/datenschutz/"
-  weight = 4
+  url = "/datenschutz"
+  weight = 20
 
 
-  [markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md files
+[markup.goldmark.renderer]
+unsafe = true # Allow HTML in md files

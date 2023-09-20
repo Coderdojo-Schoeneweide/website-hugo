@@ -1,0 +1,7 @@
+<ul>
+    {{ range site.Menus.footer }}
+        <li>
+            <a {{- printf " href=%q" .URL | safeHTMLAttr }} >{{ or (T .Identifier) .Name | safeHTML }}</a>
+        </li>
+    {{ end }}
+</ul>
