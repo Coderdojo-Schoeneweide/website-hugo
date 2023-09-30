@@ -9,8 +9,6 @@ und anwendbaren nationalen Gesetzen, welche personenbezogenen Daten (kurz Daten)
 Verantwortliche – und die von uns beauftragten Auftragsverarbeiter:innen (z. B. Provider) – verarbeiten, 
 zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. 
 
-
-
 ## Rechtsgrundlagen
 
 Die [Datenschutz-Grundverordnung (EU) 2016/679](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=312528560#d1e2269-1-1) 
@@ -35,7 +33,6 @@ Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten
 im [Impressum](https://coderdojo-schoeneweide.github.io/impressum/) die Kontaktdaten der verantwortlichen Person.
 
 ## Anwendungsbereiche
-
 Diese Datenschutzerklärung gilt für alle von uns im Verein verarbeiteten personenbezogenen Daten und für alle
 personenbezogenen Daten, die von uns beauftragte Firmen (Auftragsverarbeiter:innen) verarbeiten. Mit
 personenbezogenen Daten meinen wir Informationen im Sinne des Art. 4 Nr. 1 DSGVO wie zum Beispiel Name,
@@ -56,9 +53,9 @@ Endgerät (Computer, Laptop, Smartphone, ...) gespeichert und es kommt zur Speic
 E-Mail-Server oder dem Server des Social Media Anbieters.
 
 **Zusammenfassung**  
-👥 Betroffene: Alle, die mit uns per Telefon, E-Mail oder Social Media kommunizieren  
-📓 Verarbeitete Daten: Telefonnummer, Name, E-Mail-Adresse, sonstige geteilte Daten 
-🤝 Zweck: Abwicklung der Kommunikation mit Kund:innen, Geschäftspartner:innen usw.  
+👥 Betroffene: Alle, die mit uns per Telefon, E-Mail, Matrix oder Social Media kommunizieren  
+📓 Verarbeitete Daten: Telefonnummer, Name, E-Mail-Adresse, Matrix-Benutzernamen, sonstige geteilte Daten 
+🤝 Zweck: Abwicklung der Kommunikation mit Kund:innen, Geschäftspartner:innen, Teammitgliedern usw.  
 📅 Speicherdauer: Dauer des Geschäftsfalls und der gesetzlichen Vorschriften  
 ⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. b DSGVO (Vertrag), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
 
@@ -104,6 +101,28 @@ verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführun
 ### Cookies
 Auf unserer Website verwenden wir keine Cookies. Wenn Sie mit uns über andere Webseiten (z.B. Social Media)
 kommunizieren, oder per Pretix Tickets buchen, gelten deren Cookie-Bestimmungen.
+
+### Team- und Vereinsmitglieder
+Wenn Sie sich bei uns engagieren wollen, treten Sie unserem Team bei. Sie geben dabei mindestens einen
+Namen an (dieser soll eindeutig sein, muss aber nicht der vollständige Name/ Name laut Ausweis sein).
+Außerdem können Sie weitere personenbezogenen Angaben machen, die uns die Verwaltung der Teammitglieder erleichtert, z.B.  
+eine Telefonnummer, eine GMAIL-Adresse für den geteilten Kalender, den Matrix-Benutzernamen für die Kommunikation via Matrix, 
+den Trello-Benutzernamen für das Projektmanagement, den GitHub-Benutzernamen, falls Zugriff zu GitHub gewünscht ist, 
+den Canva-Benutzernamen, falls Zugriff zu Canva gewünscht ist, Facebook-Benutzername, falls Zugriff zur Facebook-Seite gewünscht ist. 
+Diese Daten werden für die Dauer der Teammitgliedschaft gespeichert.
+
+Man kann Teammitglied werden ohne Mitglied im Verein zu sein. Wenn Personen Vereinsmitglied sind, wird ihr vollständiger Name 
+und eine Kontakt-Email-Adresse, sowie ihr Beitrittsdatum, für die Dauer der Vereinsmitgliedschaft gespeichert.
+
+**Zusammenfassung**  
+👥 Betroffene: Team- und Vereinsmitglieder  
+🤝 Zweck: Mitgliederverwaltung, Organisation der Zusammenarbeit  
+📓 Verarbeitete Daten: Name, Kontaktdaten, Account-Daten  
+📅 Speicherdauer: die Daten werden gelöscht, sobald das Ende der Mitgliedschaft festgestellt wurde  
+⚖️ Rechtsgrundlagen: Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)  
+
+Hinweis: Für Mentor:innen gelten auf Grund des Kinder- und Jugendschutzes 
+[gesonderte Datenschutzbedingungen](https://coderdojo-schoeneweide.github.io/docs/einverstaendniserklaerung-datenverarbeitung.pdf). 
 
 ## Rechte laut Datenschutz-Grundverordnung
 
