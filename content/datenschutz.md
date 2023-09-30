@@ -111,7 +111,7 @@ den Trello-Benutzernamen für das Projektmanagement, den GitHub-Benutzernamen, f
 den Canva-Benutzernamen, falls Zugriff zu Canva gewünscht ist, Facebook-Benutzername, falls Zugriff zur Facebook-Seite gewünscht ist. 
 Diese Daten werden für die Dauer der Teammitgliedschaft gespeichert.
 
-Man kann Teammitglied werden ohne Mitglied im Verein zu sein. Wenn Personen Vereinsmitglieder wird ihr vollständiger Name 
+Man kann Teammitglied werden ohne Mitglied im Verein zu sein. Wenn Personen Vereinsmitglied sind, wird ihr vollständiger Name 
 und eine Kontakt-Email-Adresse, sowie ihr Beitrittsdatum, für die Dauer der Vereinsmitgliedschaft gespeichert.
 
 **Zusammenfassung**  
@@ -119,7 +119,7 @@ und eine Kontakt-Email-Adresse, sowie ihr Beitrittsdatum, für die Dauer der Ver
 🤝 Zweck: Mitgliederverwaltung, Organisation der Zusammenarbeit  
 📓 Verarbeitete Daten: Name, Kontaktdaten, Account-Daten  
 📅 Speicherdauer: die Daten werden gelöscht, sobald das Ende der Mitgliedschaft festgestellt wurde  
-⚖️ Rechtsgrundlagen: Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO), Vertrag (Art. 6 Abs 1 lit. b DSGVO)  
+⚖️ Rechtsgrundlagen: Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)  
 
 Hinweis: Für Mentor:innen gelten auf Grund des Kinder- und Jugendschutzes 
 [gesonderte Datenschutzbedingungen](https://coderdojo-schoeneweide.github.io/docs/einverstaendniserklaerung-datenverarbeitung.pdf). 
