@@ -10,7 +10,7 @@ Jede:r kann Mitglied werden. Schicke uns dafür einen formlosen Mitgliedschaftsa
 Der Austritt erfolgt ebenfalls formlos per Mail. 
 
 ### Dokumente
-* [Satzung](./docs/verein/satzung.pdf)
+* [Satzung](../docs/verein/satzung.pdf)
 
 ### Jahresberichte
-* [2022](./docs/verein/jahresbericht2022.pdf)
+* [2022](../docs/verein/Jahresbericht2022.pdf)
