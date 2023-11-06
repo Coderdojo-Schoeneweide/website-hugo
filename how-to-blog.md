@@ -1,7 +1,7 @@
 # How-To: Blog-Einträge verfassen
 
-1. Gehe zu unserem [CMS](https://incredible-melomakarona-c844ef.netlify.app)
-2. Melde dich an. Die Anmeldedaten findest du auf dem OnBoard Trello unter der Kategorie "Links" in der Karte "CMS".
+1. Gehe zu unserem [CMS](https://coderdojo-schoeneweide.github.io/admin/)
+2. Melde dich mit Deinem GitHub-Account an. Achte bei der ersten Anmeldung darauf, dass Du dem CMS Zugriff auf die Organisation "Coderdojo-Schoeneweide" gibst, damit Deine Änderungen auch veröffentlicht werden können.
 3. Klicke auf "New Blog"
 4. Fülle alle Felder aus und verfasse deinen Blog-Eintrag
      1. Wenn du ein Bild hinzufügen möchtest, klicke auf das Plus bei den Formatierungen und wähle "Image" aus. Dort kannst du dann ein Bild hochladen. Achte darauf, dass du dein Bild eindeutig benennst, damit die Bilderliste übersichtlich bleibt.
