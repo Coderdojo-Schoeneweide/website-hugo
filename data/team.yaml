@@ -5,20 +5,6 @@
   background: Medieninformatik, Lehrbeauftragter an der HTW
   story: Über meine Arbeit bin ich total zufällig an eine Stelle als Tutor gekommen und seit dem interessiert an Education. Ich habe dann über die Hochschule vom CoderDojo erfahren und mitgemacht.
 
-- name: Fenja
-  imagePath: fenja.webp
-  tasks: Mentoring, Didaktik, Koordination & Kommunikation
-  interests:
-  background: Optical Sciences (Master) an der HU, Lehrerfahrung, Python und MatLab
-  story:
-
-- name: Lara
-  imagePath: lara.webp
-  tasks: Mentoring, Social Media
-  interests: Rollerskating und Kochen
-  background: Angewandte Informatik (Bachelor) - Schwerpunkt Data Science, SHK an der HTW
-  story:
-
 - name: Linda
   imagePath: linda.webp
   tasks: Projekt Management, Mentoring, Webseite
@@ -33,26 +19,12 @@
   background: Studiert Medieninformatik im Master
   story: Es macht mir Spaß, mein theoretische Wissen an der Webseite von CoderDojo ins Praktische umzusetzen. Ich hatte auf Facebook einen CoderDojo Post gesehen. Nach der Kontaktaufnahme dauerte es nicht lange, bis zu einem ersten Treffen mit dem Team.
 
-- name: Sabina
-  imagePath: sabina.webp
-  tasks:
-  interests: Lesen, Filme gucken und Kurzgeschichten schreiben
-  background: Informatik und Wirtschaft
-  story:
-
 - name: Sonja
   imagePath: sonja.webp
   tasks: Mentoring lernen, PR, Gestaltung
   interests: Gesundheitsinformatik, Sprachen, Lernen
   background: Fremdsprachen-korrespondentin, studiert Angewandte Informatik im Bachelor
   story: Was bringt einem Wissen, wenn man es nicht anwenden oder mit anderen teilen kann?
-
-- name: Marvin
-  imagePath: marv.webp
-  tasks: Corporate-Design
-  interests: Gaming, Digital Art
-  background: Medieninformatik (Master), UI/UX-Designer (Werkstudentenjob), Unity Game Engine (Developer)
-  story: A user interface is like a joke. If you have to explain it, it's not that good.
 
 - name: Dustin
   imagePath: dustin.webp
@@ -88,20 +60,6 @@
   interests: Game Design, Gameplay, Character & Storytelling, Game Based Learning; gerne auch als Workshop
   background: Kenntnisse mit Finanzen & Buchhaltung, Erfahrungen bei Projekttagen mit Kindern von meinem FÖJ
   story: If you can't believe in yourself believe in me, the one who believes in you. - Kamina
-
-- name: Finja
-  imagePath: finja.webp
-  tasks: Didaktik, Mentoring, Workshop-Rahmenplanung
-  interests: Mentoring (v.a. Games und Technik wie z.B. Arduinos), analoge PR (Design)
-  background: Technische Informatik (Bachelor), Game Design (Bachelor), Kunst und Design
-  story:
-
-- name: Jonas
-  imagePath: jonas.webp
-  tasks: Informationsmanagement, Webentwicklung
-  interests: Webentwicklung
-  background: Medieninformatik Master, Full Stack Web Entwicklung
-  story:
 
 - name: Maik
   imagePath: maik.webp
