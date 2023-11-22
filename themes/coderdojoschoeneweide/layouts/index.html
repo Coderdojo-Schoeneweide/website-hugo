@@ -10,8 +10,13 @@
         </main>
         <aside>
             {{ range where .Pages "Params.position" "aside" }}
-                {{ $PartialLoc := printf "%s.html" (lower .Title) }}
-                {{ partial $PartialLoc . }}
+                {{ $partialPath := printf "%s.html" (lower .Title) }}
+                {{ if templates.Exists ( printf "partials/%s" $partialPath ) }}
+                    {{ partial $partialPath . }}
+                {{ else }}
+                    <h2>{{ .Title }}</h2>
+                    <p> {{ .Content }}</p>
+                {{ end }}
             {{ end }}
         </aside>
     </section>
