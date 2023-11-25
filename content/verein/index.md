@@ -13,4 +13,5 @@ Der Austritt erfolgt ebenfalls formlos per Mail.
 * [Satzung](../docs/verein/satzung.pdf)
 
 ### Jahresberichte
+* [2023](../docs/verein/Jahresbericht2023.pdf)
 * [2022](../docs/verein/Jahresbericht2022.pdf)
