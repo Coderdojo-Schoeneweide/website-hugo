@@ -10,6 +10,10 @@
   id: "dojosw"
   href: "https://www.instagram.com/"
 
+- name: "linkedin"
+  id: "/company/coderdojo-sch%C3%B6neweide-e-v/"
+  href: "https://www.linkedin.com"
+
 - name: "github"
   id: "CoderDojo-Schoeneweide"
   href: "https://github.com/"
