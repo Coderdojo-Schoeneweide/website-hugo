@@ -2,7 +2,7 @@
 title = "Künstliche Intelligenz"
 duration = "2 Stunden"
 age = "7 - 17 Jahre"
-tags = ["ki", "Maschinelles Lernen"]
+tags = ["ki"]
 image = "ki.png"
 prevKnowledge = "Keine Vorkenntnisse notwendig"
 +++
