@@ -8,6 +8,7 @@ let results;
 let ageFilter = null;
 let durationFilter = null;
 let readingFilter = null;
+let titleFilter = null;
 let tagBlogFilters = [];
 let tagFilters = [];
 
@@ -53,6 +54,10 @@ document.addEventListener("DOMContentLoaded", () => {
             updateFilterBlogResults();
         }));
 
+        filterBlog.querySelector("#title-search-filter").addEventListener("input", event => {
+            titleFilter= event.target.value !== "" ? event.target.value : null;
+            updateFilterBlogResults();
+        });
 
         filterBlog.querySelector("#readingTime-filters").addEventListener("change", event => {
             readingFilter= event.target.value !== "" ? event.target.value : null;
@@ -86,13 +91,10 @@ function toggleFilterBlog(event) {
 }
 
 function updateFilterBlogResults() {
-    console.log(tagBlogFilters);
-    console.log(readingFilter);
     resultsBlog.forEach(blog => {
         blog.hidden = !((!readingFilter || blog.dataset.readingtime === readingFilter) &&
+            (!titleFilter || blog.dataset.title.includes(titleFilter) === true) &&
             (tagBlogFilters.length === 0 || tagBlogFilters.every(c => blog.dataset.tags.indexOf(c) >= 0)));
-
-        console.log( blog.dataset.readingTime);
     });
 }
 

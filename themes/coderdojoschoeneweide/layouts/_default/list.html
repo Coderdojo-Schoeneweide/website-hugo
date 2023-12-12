@@ -1,22 +1,64 @@
 {{ define "main" }}
-  <section id="all-posts">
+<section id="all-posts">
     <h2>{{ .Title }}</h2>
-    <ul class="post-list">
-      {{ range .Pages }}
-        <li>
-          <a href="{{ .Permalink }}">
-              <h3>{{ .Date.Format "02.01.2006" }} | {{ .Title }}</h3>
-              <p>Lesedauer: ca. {{ .ReadingTime }} Minute{{ if ne .ReadingTime 1 }}n{{ end }}</p>
-              <p> {{ .Summary }}</p>
-              {{ if .Truncated }}
+    {{ $readingTime := slice }}
+    {{ $tags := slice }}
+    {{ range .Pages }}
+    {{ if not (in $readingTime .ReadingTime) }}
+    {{ $readingTime = $readingTime | append .ReadingTime }}
+    {{ end }}
+    {{ range .Params.tags }}
+    {{ if not (in $tags .) }}
+    {{ $tags = $tags | append . }}
+    {{ end }}
+    {{ end }}
+    {{ end }}
+    {{$tags = sort $tags}}
+    {{$readingTime = sort $readingTime}}
+    <a href="#" id="filter-toggle">Filter <span>▸</span></a>
+    <div id="filter-blogs">
+        <label for="title-search-filter">
+            <span>Suche:</span>
+            <input type="search" id="title-search-filter" name="search-title" placeholder="Titel des Blogs"
+                   spellcheck="true"/>
+        </label>
+        <label for="readingTime-filters">
+            <span>Lesedauer:</span>
+            <select id="readingTime-filters">
+                <option value="">Alle</option>
+                {{ range $readingTime }}
+                <option value="{{ . }}">{{ . }}min</option>
+                {{ end }}
+            </select>
+        </label>
+        <label>
+            <span>Kategorien:</span>
+            <div id="tag-filters">
+                {{ range $tags }}
+                <label class="category">
+                    <input type="checkbox" value="{{ . }}">
+                    #{{ . }}
+                </label>
+                {{ end }}
+            </div>
+        </label>
+    </div>
+    <ul id="results-blogs" class="post-list">
+        {{ range .Pages }}
+        <li data-readingtime="{{ .ReadingTime }}" data-tags="{{ .Params.tags }}" data-title="{{ .Title }}">
+            <a href="{{ .Permalink }}">
+                <h3>{{ .Date.Format "02.01.2006" }} | {{ .Title }}</h3>
+                <p>Lesedauer: ca. {{ .ReadingTime }} Minute{{ if ne .ReadingTime 1 }}n{{ end }}</p>
+                <p> {{ .Summary }}</p>
+                {{ if .Truncated }}
                 <p class="ellipsis"> ... </p>
-              {{ end }}
-          </a>
-          {{ range .Params.tags }}
+                {{ end }}
+            </a>
+            {{ range .Params.tags }}
             <span>#{{ . }}</span>
-          {{ end }}
+            {{ end }}
         </li>
-      {{ end }}
+        {{ end }}
     </ul>
-  </section>
+</section>
 {{ end }}
