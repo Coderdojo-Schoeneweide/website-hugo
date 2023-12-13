@@ -55,14 +55,17 @@ document.addEventListener("DOMContentLoaded", () => {
         }));
 
         filterBlog.querySelector("#title-search-filter").addEventListener("input", event => {
-            titleFilter= event.target.value !== "" ? event.target.value : null;
+            titleFilter = event.target.value !== "" ? event.target.value : null;
+            if (titleFilter != null) {
+                titleFilter = titleFilter.toLowerCase();
+            }
             updateFilterBlogResults();
         });
 
         filterBlog.querySelector("#readingTime-filters").addEventListener("change", event => {
-            readingFilter= event.target.value !== "" ? event.target.value : null;
+            readingFilter = event.target.value !== "" ? event.target.value : null;
             updateFilterBlogResults();
-            });
+        });
     }
 });
 
@@ -93,7 +96,7 @@ function toggleFilterBlog(event) {
 function updateFilterBlogResults() {
     resultsBlog.forEach(blog => {
         blog.hidden = !((!readingFilter || blog.dataset.readingtime === readingFilter) &&
-            (!titleFilter || blog.dataset.title.includes(titleFilter) === true) &&
+            (!titleFilter || blog.dataset.title.toLowerCase().includes(titleFilter) === true) &&
             (tagBlogFilters.length === 0 || tagBlogFilters.every(c => blog.dataset.tags.indexOf(c) >= 0)));
     });
 }
