@@ -19,65 +19,46 @@
       display: inline-block;
       position: relative;
       width: 15rem;
-      height: 15rem;
+      height: 19rem;
       margin: 0.4rem 0.3rem;
+      border-radius: 0.5rem;
+      overflow: hidden;
+      background-color: $color-light;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+    .team-card {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      margin: 1rem auto;
+    }
+    .team-image-container {
+      width: 10rem;
+      height: 10rem;
+      border-radius: 50%;
+      margin: 0 auto;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
 
-      .front {
-        position: absolute;
-        bottom: 0;
-        top: 0;
-        animation: flipVisible 250ms;
+      .team-image {
+        max-width: 100%;
+        max-height: 100%;
+      }
+    }
+    .team-info {
+      flex: 0 1 auto;
+      padding: 0.5rem;
+      text-align: center;
 
-        img {
-          max-width: 100%;
-        }
-
-        .content {
-          color: $color-light;
-          text-shadow: 0 0 0.3rem $color-dark;
-          position: absolute;
-          bottom: 0;
-          width: 100%;
-
-          h4 {
-            margin: 0;
-          }
-
-          p {
-            margin: 0.3rem 0.7rem 0.7rem;
-          }
-        }
+      h4 {
+        margin: 0.5rem 0;
+        color: $color-dark;
       }
 
-      .back {
-        background-color: $color-light;
-        margin: 0;
-        position: absolute;
-        bottom: 0;
-        top: 0;
-        width: 100%;
-        padding: 1rem;
-        transform: rotateY(-90deg);
-        animation: flipAway 250ms;
-
-        h4,
-        p {
-          margin: 0.5rem;
-          line-height: 1;
-          color: $color-dark;
-        }
-
-        p {
-          margin-bottom: 1.5rem;
-        }
-      }
-
-      &.hovered .front {
-        animation: flipAway 250ms forwards;
-      }
-
-      &.hovered .back {
-        animation: flipVisible 250ms forwards;
+      p {
+        margin: 0.5rem 0;
+        color: $color-dark;
       }
     }
 
@@ -138,34 +119,5 @@
         cursor: pointer;
       }
     }
-  }
-}
-
-// Team Card Animations
-@keyframes flipAway {
-  0% {
-    transform: rotateY(0deg);
-  }
-
-  50% {
-    transform: rotateY(90deg);
-  }
-
-  100% {
-    transform: rotateY(90deg);
-  }
-}
-
-@keyframes flipVisible {
-  0% {
-    transform: rotateY(-90deg);
-  }
-
-  50% {
-    transform: rotateY(-90deg);
-  }
-
-  100% {
-    transform: rotateY(0deg);
   }
 }
