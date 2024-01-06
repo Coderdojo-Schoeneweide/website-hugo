@@ -83,7 +83,7 @@ main {
     padding: 0 1rem;
 
     &.show {
-      max-height: max-content; // Extend if needed (e.g. number of category tags increases). Remember to also increase height for mobile design.
+      max-height: 40rem; // Extend if needed (e.g. number of category tags increases). Remember to also increase height for mobile design.
       transition: max-height 200ms ease-in-out;
     }
 
@@ -238,7 +238,7 @@ main {
     #filter-blogs,
     #filter {
       &.show {
-        max-height: max-content;
+        max-height: 70rem;
       }
 
       & > label {
