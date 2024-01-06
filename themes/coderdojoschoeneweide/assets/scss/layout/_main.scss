@@ -83,7 +83,7 @@ main {
     padding: 0 1rem;
 
     &.show {
-      max-height: 40rem; // Extend if needed (e.g. number of category tags increases). Remember to also increase height for mobile design.
+      max-height: 35rem; // Extend if needed (e.g. number of category tags increases). Remember to also increase height for mobile design.
       transition: max-height 200ms ease-in-out;
     }
 
