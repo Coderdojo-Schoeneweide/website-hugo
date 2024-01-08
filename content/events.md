@@ -4,9 +4,12 @@ position: "main"
 weight: 2
 ---
 
-**Workshops** | Einmal im Monat machen wir einen Workshop zu einem bestimmten Thema aus der digitalen Welt. Vorwissen wird nicht benötigt!
+Veranstaltungen finden zweimal im Monat, Samstags von 11:00 - 13:00 an der HTW in Schöneweide (Wilhelminenhofstr. 75A, 12459 Berlin) statt. 
+In der Regel gibt es einen Workshop und ein "Coding im Dojo". Vorwissen wird nicht benötigt!
 
-**Coding im Dojo** | Einmal im Monat machen wir ein "Coding im Dojo". Komm mit deinem Projekt vorbei und erhalte Hilfe von unseren Mentor:innen, oder starte ein neues Projekt.
+**Workshops** | Erhalte einen Einblick in ein spezifisches Thema aus der digitalen Welt. 
+
+**Coding im Dojo** | Komm mit deinem Projekt vorbei und erhalte Hilfe von unseren Mentor:innen, oder starte ein neues Projekt.
 
 {{< button link="https://pretix.eu/dojosw/" >}}
 Termine & Anmeldung
