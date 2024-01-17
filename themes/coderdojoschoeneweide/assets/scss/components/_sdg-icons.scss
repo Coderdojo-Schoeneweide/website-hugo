@@ -12,7 +12,7 @@
     flex-wrap: wrap;
 
     img {
-      max-width: calc(50% - var(--gap));
+      max-width: calc(50% - var(--gap) / 2);
     }
   }
 }
