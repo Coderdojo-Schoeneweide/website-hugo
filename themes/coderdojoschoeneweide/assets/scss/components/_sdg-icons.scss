@@ -1,0 +1,18 @@
+.sdg {
+  img {
+    max-width: 100%;
+  }
+
+  .sdg-icons {
+    --gap: 0.5em;
+
+    display: flex;
+    max-width: 100%;
+    gap: var(--gap);
+    flex-wrap: wrap;
+
+    img {
+      max-width: calc(50% - var(--gap));
+    }
+  }
+}
