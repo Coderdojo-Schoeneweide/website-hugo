@@ -40,53 +40,6 @@
 .all-workshops {
   grid-area: broad;
 
-  #filter {
-    border: 1px solid $color-dark;
-    @include theme() {
-      border-color: theme-get("text-color");
-    }
-    height: auto;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 200ms ease-in-out;
-    display: flex;
-    flex-direction: column;
-    padding: 0 1rem;
-
-    &.show {
-      max-height: 11rem; // Extend if needed (e.g. number of category tags increases). Remember to also increase height for mobile design.
-      transition: max-height 200ms ease-in-out;
-    }
-
-    & > label {
-      margin: 0.5rem 0;
-      display: flex;
-
-      &:first-of-type {
-        padding-top: 0.5rem;
-      }
-
-      &:last-of-type {
-        padding-bottom: 0.5rem;
-      }
-
-      span {
-        width: 1/8 * 100%;
-      }
-
-      select,
-      div {
-        width: 7/8 * 100%;
-        padding: 0;
-      }
-    }
-
-    .category {
-      margin: 0 0.5rem 0.5rem 0;
-      display: inline-block;
-    }
-  }
-
   ul {
     list-style: none;
     padding: 0;
@@ -127,15 +80,6 @@
 
 @media screen and (max-width: $mq-phone) {
   .all-workshops {
-    #filter {
-      &.show {
-        max-height: 21rem;
-      }
-
-      & > label {
-        flex-direction: column;
-      }
-    }
 
     li {
       max-width: 100%;
