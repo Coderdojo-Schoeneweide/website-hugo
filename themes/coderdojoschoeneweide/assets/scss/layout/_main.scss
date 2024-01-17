@@ -56,15 +56,15 @@ main {
     .blog-image-title {
       text-align: center;
     }
-    a:visited {
-      @include theme() {
-        color: theme-get("visited-link-color");
-      }
+  }
+  a:visited {
+    @include theme() {
+      color: theme-get("visited-link-color");
     }
-    a:link {
-      @include theme() {
-        color: theme-get("not-visited-link-color");
-      }
+  }
+  a:link {
+    @include theme() {
+      color: theme-get("not-visited-link-color");
     }
   }
 
