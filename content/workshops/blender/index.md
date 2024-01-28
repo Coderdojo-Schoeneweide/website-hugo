@@ -8,7 +8,7 @@ prevKnowledge = "Keine Vorkenntnisse notwendig"
 +++
 
 Im Workshop "3D-Kunst mit Blender" lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können. 
-Der Workshop kann um 2 Stunden erweitert werden in denen die Teilnehmenden außerdem Modelle animieren.
+Der Workshop kann um 2 Stunden erweitert werden, in denen die Teilnehmenden außerdem Modelle animieren.
 
 Lernziele:
 * Teilnehmende können die Blender-Umgebung bedienen

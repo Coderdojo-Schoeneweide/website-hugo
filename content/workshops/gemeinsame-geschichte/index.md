@@ -6,8 +6,8 @@ age = "Ab 11 Jahren"
 tags = ["scratch", "animation"]
 +++
 
-Im Workshop "Gemeinsame Geschichte" lernen die Teilnehmenden zunächst was programmieren
-ist. Mit dem Spiele "Lebendiger Roboter" lernen sie die Grundlagen algorithmischen Denkens
+Im Workshop "Gemeinsame Geschichte" lernen die Teilnehmenden zunächst, was Programmieren
+ist. Mit dem Spiel "Lebendiger Roboter" lernen sie die Grundlagen algorithmischen Denkens
 kennen. Dann können sie mit Scratch erste Schritte in der Programmierung tun und die Programmierumgebung
 kennenlernen. 
 
@@ -21,12 +21,12 @@ Mit diesem Template-Projekt arbeiten die Gruppen dann weiter, um ihre Szene zu p
 Am Ende werden alle Teile zusammengefügt und ergeben eine gemeinsam programmierte Geschichte.
 
 Lernziele:
-* Die Teilnehmenden können bei Scratch Kostüme und Hintergründe festlegen
+* Die Teilnehmenden können in Scratch Kostüme und Hintergründe festlegen
 * Die Teilnehmenden können in Scratch Figuren bewegen
 * Die Teilnehmenden können in Scratch Figuren mittels Sprechblasen sprechen lassen
 * Die Teilnehmenden können in Scratch Figuren mittels Klang sprechen lassen
 * Die Teilnehmenden können einfache Abläufe (Algorithmen) formulieren
-* Die Teilnehmenden können Scratch benutzen um eine einfache Animation zu erstellen
+* Die Teilnehmenden können Scratch benutzen, um eine einfache Animation zu erstellen
 
 Teilnehmende benötigen:
 * Computer oder Tablet

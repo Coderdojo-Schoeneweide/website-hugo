@@ -15,7 +15,7 @@ Lernziele:
 * Die Teilnehmenden können Emotionen-transportierende Elemente eines Animationsfilmkonzepts identifizieren.
 * Die Teilnehmenden können ein Storyboard für eine Szene erstellen.
 * Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.
-* Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.
+* Die Teilnehmenden können in Scratch die Kostüme einer Figur programmatisch kontrollieren.
 * Die Teilnehmenden können die Position von Figuren steuern.
 
 Teilnehmende benötigen:
