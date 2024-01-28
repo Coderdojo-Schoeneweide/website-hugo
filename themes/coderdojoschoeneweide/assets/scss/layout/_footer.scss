@@ -18,4 +18,14 @@ footer {
     display: flex;
     gap: 1em;
   }
+  a:visited {
+    @include theme() {
+      color: theme-get("visited-link-color");
+    }
+  }
+  a:link {
+    @include theme() {
+      color: theme-get("not-visited-link-color");
+    }
+  }
 }
