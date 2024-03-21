@@ -21,8 +21,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const filters = new Map();
     //Mapping -> Filter , [selector (html element id), html element]
-    //Filter blogs
+    //Filter blogs + workshop
     filters.set(tagFilters, ["#tag-filters input", "checkbox"]);
+    //Filter blogs
     filters.set(titleFilter, ["#title-search-filter", "input"]);
     filters.set(readingFilter, ["#readingTime-filters", "select"]);
     //Filter workshop
@@ -75,11 +76,9 @@ function addEventListenerToFilter(filters) {
                     if (value != null) {
                         filterName.push(value.toLowerCase());
                     }
-
                     updateFilterResults();
                 });
             }
-
         } catch (e) {
             // adding an eventListener can cause an error if selector does not exist
             // Some of the filters don't exist on the other pages
