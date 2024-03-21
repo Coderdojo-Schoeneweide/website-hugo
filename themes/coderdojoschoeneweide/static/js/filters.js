@@ -4,10 +4,10 @@ let filter;
 let results;
 let section_blogs;
 
-let ageFilter = null;
-let durationFilter = null;
-let readingFilter = null;
-let titleFilter = null;
+let ageFilter = [];
+let durationFilter = [];
+let readingFilter = [];
+let titleFilter = [];
 let tagFilters = [];
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -19,45 +19,17 @@ document.addEventListener("DOMContentLoaded", () => {
     filterArrow = filterToggle.querySelector("span");
     filterToggle.addEventListener("click", toggleFilter);
 
-    //Filter workshop + blogs
-    filter.querySelectorAll("#tag-filters input")
-        .forEach(checkbox => checkbox.addEventListener("change", event => {
-            if (event.target.checked)
-                tagFilters.push(event.target.value);
-            else
-                tagFilters.splice(tagFilters.indexOf(event.target.value), 1);
-            updateFilterResults();
-        }));
+    const filters = new Map();
+    //Mapping -> Filter , [selector (html element id), html element]
+    //Filter blogs
+    filters.set(tagFilters, ["#tag-filters input", "checkbox"]);
+    filters.set(titleFilter, ["#title-search-filter", "input"]);
+    filters.set(readingFilter, ["#readingTime-filters", "select"]);
+    //Filter workshop
+    filters.set(ageFilter, ["#age-filter", "select"]);
+    filters.set(durationFilter, ["#duration-filter", "select"]);
 
-    if (section_blogs != null) {
-        //Filter blogs
-        filter.querySelector("#title-search-filter").addEventListener("input", event => {
-            titleFilter = event.target.value !== "" ? event.target.value : null;
-            if (titleFilter != null) {
-                titleFilter = titleFilter.toLowerCase();
-            }
-            updateFilterResults();
-        });
-
-        //Filter blogs
-        filter.querySelector("#readingTime-filters").addEventListener("change", event => {
-            readingFilter = event.target.value !== "" ? event.target.value : null;
-            updateFilterResults();
-        });
-    } else {
-
-        //Filter workshop
-        filter.querySelector("#age-filter").addEventListener("change", event => {
-            ageFilter = event.target.value !== "" ? event.target.value : null;
-            updateFilterResults();
-        });
-
-        //Filter workshop
-        filter.querySelector("#duration-filter").addEventListener("change", event => {
-            durationFilter = event.target.value !== "" ? event.target.value : null;
-            updateFilterResults();
-        });
-    }
+    addEventListenerToFilter(filters);
 });
 
 function toggleFilter(event) {
@@ -72,17 +44,61 @@ function toggleFilter(event) {
     }
 }
 
+function addEventListenerToFilter(filters) {
+    filters.forEach((listElement, filterName) => {
+        try {
+            const selector = listElement[0];
+            const type = listElement[1];
+
+            if (type === "checkbox") {
+                filter.querySelectorAll(selector)
+                    .forEach(checkbox => checkbox.addEventListener("change", event => {
+                        if (event.target.checked)
+                            filterName.push(event.target.value);
+                        else
+                            filterName.splice(filterName.indexOf(event.target.value), 1);
+                        updateFilterResults();
+                    }));
+            } else if (type === "input") {
+                filter.querySelector(selector).addEventListener("input", event => {
+                    const value = event.target.value !== "" ? event.target.value : null;
+                    filterName.pop();
+                    if (value != null) {
+                        filterName.push(value.toLowerCase());
+                    }
+                    updateFilterResults();
+                });
+            } else {
+                filter.querySelector(selector).addEventListener("change", event => {
+                    const value = event.target.value !== "" ? event.target.value : null;
+                    filterName.pop();
+                    if (value != null) {
+                        filterName.push(value.toLowerCase());
+                    }
+
+                    updateFilterResults();
+                });
+            }
+
+        } catch (e) {
+            // adding an eventListener can cause an error if selector does not exist
+            // Some of the filters don't exist on the other pages
+            // e.g. workshop page does not have a selector called #title-search-filter
+        }
+    })
+}
+
 function updateFilterResults() {
     if (section_blogs != null) {
         results.forEach(blog => {
-            blog.hidden = !((!readingFilter || blog.dataset.readingtime === readingFilter) &&
-                (!titleFilter || blog.dataset.title.toLowerCase().includes(titleFilter) === true) &&
+            blog.hidden = !((readingFilter.length === 0 || blog.dataset.readingtime === readingFilter[0]) &&
+                (titleFilter.length === 0 || blog.dataset.title.toLowerCase().includes(titleFilter[0]) === true) &&
                 (tagFilters.length === 0 || tagFilters.every(c => blog.dataset.tags.indexOf(c) >= 0)));
         });
     } else {
         results.forEach(workshop => {
-            workshop.hidden = !((!ageFilter || workshop.dataset.age === ageFilter) &&
-                (!durationFilter || workshop.dataset.duration === durationFilter) &&
+            workshop.hidden = !((ageFilter.length === 0 || workshop.dataset.age.toLowerCase() === ageFilter[0]) &&
+                (durationFilter.length === 0 || workshop.dataset.duration.toLowerCase() === durationFilter[0]) &&
                 (tagFilters.length === 0 || tagFilters.every(c => workshop.dataset.tags.indexOf(c) >= 0)));
         });
     }
