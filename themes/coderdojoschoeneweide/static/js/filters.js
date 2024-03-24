@@ -13,7 +13,7 @@ let tagFilters = [];
 document.addEventListener("DOMContentLoaded", () => {
     section_blogs = document.querySelector("#all-posts");
     filter = document.querySelector("#filter");
-    results = document.querySelectorAll("#results li");
+    results = document.querySelectorAll("#results #result-item");
 
     const filterToggle = document.querySelector("#filter-toggle");
     filterArrow = filterToggle.querySelector("span");
