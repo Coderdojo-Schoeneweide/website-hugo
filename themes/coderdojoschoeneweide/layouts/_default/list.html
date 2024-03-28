@@ -43,22 +43,30 @@
             </div>
         </label>
     </div>
-    <ul id="results-blogs" class="post-list">
-        {{ range .Pages }}
-        <li data-readingtime="{{ .ReadingTime }}" data-tags="{{ .Params.tags }}" data-title="{{ .Title }}">
-            <a href="{{ .Permalink }}">
-                <h3>{{ .Date.Format "02.01.2006" }} | {{ .Title }}</h3>
-                <p>Lesedauer: ca. {{ .ReadingTime }} Minute{{ if ne .ReadingTime 1 }}n{{ end }}</p>
-                <p> {{ .Summary }}</p>
-                {{ if .Truncated }}
-                <p class="ellipsis"> ... </p>
+    <div class="container-fluid" id="results">
+        <div class="row post-list">
+            {{ range (.Paginator 5).Pages }}
+            <div class="alert alert-secondary bg-opacity-10" role="alert" id="result-item"
+                 data-readingtime="{{ .ReadingTime }}"
+                 data-tags="{{ .Params.tags }}"
+                 data-title="{{ .Title }}">
+                <a href="{{ .Permalink }}">
+                    <h3>{{ .Date.Format "02.01.2006" }} | {{ .Title }}</h3>
+                    <p>Lesedauer: ca. {{ .ReadingTime }} Minute{{ if ne .ReadingTime 1 }}n{{ end }}</p>
+                    <p class="summary"> {{ .Summary }}</p>
+                    {{ if .Truncated }}
+                    <p class="ellipsis"> ... </p>
+                    {{ end }}
+                </a>
+                {{ range .Params.tags }}
+                <span>#{{ . }}</span>
                 {{ end }}
-            </a>
-            {{ range .Params.tags }}
-            <span>#{{ . }}</span>
+            </div>
             {{ end }}
-        </li>
-        {{ end }}
-    </ul>
+        </div>
+        <div class="pagination justify-content-center">
+            {{ template "_internal/pagination.html" . }}
+        </div>
+    </div>
 </section>
 {{ end }}
