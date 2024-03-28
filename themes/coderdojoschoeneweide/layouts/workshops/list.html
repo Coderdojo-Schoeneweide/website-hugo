@@ -51,7 +51,8 @@
     </div>
     <ul id="results">
         {{ range .Pages }}
-        <li data-age="{{ .Params.age }}" data-duration="{{ .Params.duration }}" data-tags="{{ .Params.tags }}">
+        <li id="result-item" data-age="{{ .Params.age }}" data-duration="{{ .Params.duration }}"
+            data-tags="{{ .Params.tags }}">
             <a href="{{ .RelPermalink }}">
                 <img src="{{ if .Params.image }}{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}{{ else }}{{ .Site.BaseURL }}images/placeholder.svg{{ end }}" alt="workshop thumbnail">
                 <div class="card-properties">

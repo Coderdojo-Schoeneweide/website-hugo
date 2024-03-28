@@ -68,7 +68,6 @@ main {
     }
   }
 
-  #filter-blogs,
   #filter {
     border: 1px solid $color-dark;
     @include theme() {
@@ -235,7 +234,6 @@ main {
       }
     }
 
-    #filter-blogs,
     #filter {
       &.show {
         max-height: 70rem;
