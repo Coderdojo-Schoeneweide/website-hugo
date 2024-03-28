@@ -17,7 +17,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const filterToggle = document.querySelector("#filter-toggle");
     filterArrow = filterToggle.querySelector("span");
-    filterToggle.addEventListener("click", toggleFilter);
+
+
+    try {
+        filterToggle.addEventListener("click", toggleFilter);
+
+        //for branch redesign!
+        document.querySelectorAll("#btn-tag-filters button").forEach(button => button.addEventListener("click", evt => {
+            //check if tag already in tagFilters
+            if (tagFilters.findIndex(item => item === evt.target.value) === -1) {
+                tagFilters.push(evt.target.value);
+                //check the tag in the filter-checkbox
+                filter.querySelectorAll("#tag-filters input").forEach(checkbox => {
+                    if (checkbox.value === evt.target.value) {
+                        checkbox.checked = true;
+                    }
+                })
+                updateFilterResults();
+            }
+        }))
+    } catch (e) {
+
+    }
 
     const filters = new Map();
     //Mapping -> Filter , [selector (html element id), html element]
