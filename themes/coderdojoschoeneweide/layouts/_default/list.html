@@ -45,7 +45,7 @@
     </div>
     <div class="container-fluid" id="results">
         <div class="row post-list">
-            {{ range (.Paginator 5).Pages }}
+            {{ range .Pages }}
             <div class="alert alert-secondary bg-opacity-10" role="alert" id="result-item"
                  data-readingtime="{{ .ReadingTime }}"
                  data-tags="{{ .Params.tags }}"
@@ -64,9 +64,10 @@
             </div>
             {{ end }}
         </div>
+        <!-- adjust filter so pagination can be used
         <div class="pagination justify-content-center">
-            {{ template "_internal/pagination.html" . }}
-        </div>
+               {{ template "_internal/pagination.html" . }}
+           </div>-->
     </div>
 </section>
 {{ end }}
