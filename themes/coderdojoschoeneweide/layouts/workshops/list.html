@@ -49,18 +49,17 @@
             </div>
         </label>
     </div>
-    <ul id="results">
-        {{ range .Pages }}
-        <li data-age="{{ .Params.age }}" data-duration="{{ .Params.duration }}" data-tags="{{ .Params.tags }}">
-            <a href="{{ .RelPermalink }}">
-                <img src="{{ if .Params.image }}{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}{{ else }}{{ .Site.BaseURL }}images/placeholder.svg{{ end }}" alt="workshop thumbnail">
-                <div class="card-properties">
-                    <h3>{{ .Title }}</h3>
-                    {{ partial "workshop-properties.html" . }}
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="row" id="results">
+                {{ range .Pages }}
+                <div id="result-item" data-age="{{ .Params.age }}" data-duration="{{ .Params.duration }}"
+                     data-tags="{{ .Params.tags }}">
+                    {{ partial "workshop-card.html" . }}
                 </div>
-            </a>
-        </li>
-        {{ end }}
-    </ul>
+                {{ end }}
+            </div>
+        </div>
+    </div>
 </section>
 {{ end }}

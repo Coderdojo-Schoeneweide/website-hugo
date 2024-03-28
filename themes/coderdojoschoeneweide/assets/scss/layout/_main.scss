@@ -130,17 +130,16 @@ main {
   .post-list {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding-top: 1rem;
 
-    li {
-      margin: 1rem 0;
-      padding: 0;
+    div {
 
-      &:not(:first-child) {
-        border-top: 1px solid $color-main;
-        /*@include theme() {
-          border-color: theme-get("text-color");
-        }*/
+      p.summary {
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 6;
+        overflow: hidden;
       }
 
       a {

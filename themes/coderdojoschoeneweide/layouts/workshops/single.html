@@ -1,15 +1,16 @@
 {{ define "main" }}
-<section class="single-workshop">
-    <h2>{{ .Title }}</h2>
-    {{ if .Params.image }}<img src="{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}" alt="workshop thumbnail">{{end}}
-    <div class="card-properties">
-        <p>
-            <img class="icon" src="{{ .Site.BaseURL}}images/knowledge.svg" alt="previous knowledge icon">
-            {{ if .Params.prevKnowledge }}{{ .Params.prevKnowledge }}{{ else }}Keine Vorkenntnisse notwendig{{end}}
-        </p>
-        {{ partial "workshop-properties.html" . }}
+<section>
+    <div class="card mb-3 single-workshop bg-warning-subtle">
+        {{ if .Params.image }}
+        <img class="card-img-top"
+             src="{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}"
+             alt="workshop thumbnail">
+        {{end}}
+        <div class="card-body card-properties text-center">
+            <h3 class="card-title">{{ .Title }}</h3>
+            {{ partial "workshop-properties.html" . }}
+        </div>
+        <div class="card-body"><p>{{ .Content }}</p></div>
     </div>
-
-    <p>{{ .Content }}</p>
 </section>
 {{ end }}

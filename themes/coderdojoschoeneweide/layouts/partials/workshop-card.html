@@ -1,0 +1,43 @@
+<div id="work-card" class="workshop-card">
+    <div class="card">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <a href="{{ .RelPermalink }}" class="workshop-card-link">
+                    <img class="img-fluid rounded-start"
+                         src='{{ if .Params.image }}{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}{{ else }}{{ .Site.BaseURL }}images/placeholder.svg{{ end }}'
+                         alt="workshop thumbnail">
+                </a>
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <a href="{{ .RelPermalink }}" class="workshop-card-link">
+                        <h5 class="card-title">{{ .Title }}</h5>
+                        <div class="post-summary">
+                            <p> {{ .Summary }}</p>
+                        </div>
+                    </a>
+                    <p style="padding-top: 2%;">
+                        <img class="icon" src="{{ .Site.BaseURL}}images/clock.svg" alt="duration icon">
+                        {{ .Params.duration }}
+                    </p>
+                    <p>
+                        <img class="icon" src="{{ .Site.BaseURL}}images/user.svg" alt="age icon">
+                        {{ .Params.age }}
+                    </p>
+                    <div class="tags">
+                        <ul id="btn-tag-filters" style="padding-left: 0;">
+                            {{ range .Params.tags }}
+                            <li class="rounded">
+                                <button value="{{ . }}" class="btn btn-sm btn-info">{{ . }}</button>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a href="{{ .RelPermalink }}" class="btn btn-sm btn-info">mehr Informationen</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

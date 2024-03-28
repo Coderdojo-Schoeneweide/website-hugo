@@ -48,3 +48,12 @@ $themes: (
 @function theme-get($key) {
   @return map-get($theme-map, $key);
 }
+
+// transitions
+$transition-duration: 0.3s;
+$transition-type: ease-out;
+
+@mixin transition() {
+  transition: all $transition-type $transition-duration;
+}
+
