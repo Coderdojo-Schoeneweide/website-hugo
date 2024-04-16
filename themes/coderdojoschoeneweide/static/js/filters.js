@@ -52,25 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     filterToggle.addEventListener("click", toggleFilter(filterSection, filterArrow));
 
-    try {
-        //for branch redesign!
-        document.querySelectorAll("#btn-tag-filters button").forEach(button => button.addEventListener("click", evt => {
-            //check if tag already in tagFilters
-            if (tagFilters.findIndex(item => item === evt.target.value) === -1) {
-                tagFilters.push(evt.target.value);
-                //check the tag in the filter-checkbox
-                filterSection.querySelectorAll("#tag-filters input").forEach(checkbox => {
-                    if (checkbox.value === evt.target.value) {
-                        checkbox.checked = true;
-                    }
-                })
-                updateFilterResults();
-            }
-        }))
-    } catch (e) {
-
-    }
-
     for (const filter in filters) {
         addEventListenerToFilter(filterSection, filters[filter]);
     }
