@@ -53,22 +53,24 @@ main {
         max-width: 100%;
       }
     }
+
     .blog-image-title {
       text-align: center;
     }
   }
+
   a:visited {
     @include theme() {
       color: theme-get("visited-link-color");
     }
   }
-  a:link {
+
+  a {
     @include theme() {
       color: theme-get("not-visited-link-color");
     }
   }
 
-  #filter-blogs,
   #filter {
     border: 1px solid $color-dark;
     @include theme() {
@@ -110,13 +112,13 @@ main {
       }
     }
 
-    .category {
+    .tags {
       margin: 0 0.5rem 0.5rem 0;
       display: inline-block;
     }
   }
 
-  #all-posts {
+  #all-posts, .all-workshops {
     h2 {
       text-align: center;
     }
@@ -235,7 +237,6 @@ main {
       }
     }
 
-    #filter-blogs,
     #filter {
       &.show {
         max-height: 70rem;
