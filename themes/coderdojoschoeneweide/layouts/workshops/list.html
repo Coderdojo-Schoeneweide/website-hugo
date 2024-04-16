@@ -23,7 +23,7 @@
             <span>Alter:</span>
             <select id="age-filter">
                 <option value="">Alle</option>
-                {{ range $ages }}
+                {{ range sort $ages }}
                 <option value="{{ . }}">{{ . }}</option>
                 {{ end }}
             </select>
@@ -32,16 +32,16 @@
             <span>Dauer:</span>
             <select id="duration-filter">
                 <option value="">Alle</option>
-                {{ range $durations }}
+                {{ range sort $durations }}
                 <option value="{{ . }}">{{ . }}</option>
                 {{ end }}
             </select>
         </label>
         <label>
-            <span>Kategorien:</span>
+            <span>Tags:</span>
             <div id="tag-filters">
-                {{ range $tags }}
-                <label class="category">
+                {{ range sort $tags }}
+                <label class="tags">
                     <input type="checkbox" value="{{ . }}">
                     #{{ . }}
                 </label>
@@ -54,7 +54,8 @@
         <li id="result-item" data-age="{{ .Params.age }}" data-duration="{{ .Params.duration }}"
             data-tags="{{ .Params.tags }}">
             <a href="{{ .RelPermalink }}">
-                <img src="{{ if .Params.image }}{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}{{ else }}{{ .Site.BaseURL }}images/placeholder.svg{{ end }}" alt="workshop thumbnail">
+                <img src="{{ if .Params.image }}{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}{{ else }}{{ .Site.BaseURL }}images/placeholder.svg{{ end }}"
+                     alt="workshop thumbnail">
                 <div class="card-properties">
                     <h3>{{ .Title }}</h3>
                     {{ partial "workshop-properties.html" . }}

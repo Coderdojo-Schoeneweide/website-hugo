@@ -13,8 +13,6 @@
     {{ end }}
     {{ end }}
     {{ end }}
-    {{$tags = sort $tags}}
-    {{$readingTime = sort $readingTime}}
     <a href="#" id="filter-toggle">Filter <span>▸</span></a>
     <div id="filter">
         <label for="title-search-filter">
@@ -22,20 +20,20 @@
             <input type="search" id="title-search-filter" name="search-title" placeholder="Titel des Blogs"
                    spellcheck="true"/>
         </label>
-        <label for="readingTime-filters">
+        <label for="reading-time-filter">
             <span>Lesedauer:</span>
-            <select id="readingTime-filters">
+            <select id="reading-time-filter">
                 <option value="">Alle</option>
-                {{ range $readingTime }}
+                {{ range sort $readingTime }}
                 <option value="{{ . }}">{{ . }}min</option>
                 {{ end }}
             </select>
         </label>
         <label>
-            <span>Kategorien:</span>
+            <span>Tags:</span>
             <div id="tag-filters">
-                {{ range $tags }}
-                <label class="category">
+                {{ range sort $tags }}
+                <label class="tags">
                     <input type="checkbox" value="{{ . }}">
                     #{{ . }}
                 </label>
