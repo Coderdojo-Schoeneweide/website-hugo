@@ -109,3 +109,17 @@
   interests:
   background:
   story:
+
+- name: Anni
+  imagePath: anni.webp
+  tasks: Digitale PR
+  interests:
+  background:
+  story:
+
+- name: Andy
+  imagePath: andy.webp
+  tasks:
+  interests:
+  background:
+  story:  
