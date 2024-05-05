@@ -204,6 +204,79 @@ Datenschutzbehörde wenden:
 **E-Mail-Adresse:** mailbox@datenschutz-berlin.de  
 **Website:** [https://www.datenschutz-berlin.de/](https://www.datenschutz-berlin.de/?tid=312528560)
 
+## Matomo On-Premise (ohne Cookies)
+
+**Zusammenfassung**  
+👥 Betroffene: Besucher:innen der Website  
+🤝 Zweck: Auswertung der Besucher:inneninformationen zur Optimierung des Webangebots.  
+📓 Verarbeitete Daten: Daten wie Besucher:innenanzahl der Website, Seitenaufrufe, Verweildauer oder verwendete
+Suchbegriffe. Mehr Details dazu finden weiter unten und in der Datenschutzerklärung von Matomo On-Premise.  
+📅 Speicherdauer: Grundsätzlich werden die Daten bei uns so lange gespeichert, wie es die geschäftlichen Zwecke
+erfordern.  
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+### Was ist Matomo On-Premise (ohne Cookies)?
+
+Wir verwenden auf unserer Website das datenschutzfreundliche Analyseprogramm Matomo On-Premise ohne den Einsatz von
+Cookies. Bei der On-Premise-Variante wird Matomo auf unserem eigenen Server installiert. Damit fungieren wir als
+Betreiber der Software und mögliche Daten, die wir von Ihnen erheben könnten, werden direkt bei uns gespeichert. Die
+Datenverarbeitung bleibt somit vollkommen in unserer Hand. Hersteller des Tools ist das neuseeländische Unternehmen
+InnoCraft Ltd, 7 Waterloo Quay PO625, 6140 Wellington, Neuseeland.
+
+Matomo On-Premise ist eine Webanalyseplattform, die Datenschutz sehr ernst nimmt und dennoch für uns als
+Websitebetreiber genaue Statistiken über Ihr Verhalten auf unserer Website liefert. Ein großer Unterschied zu anderen
+Analyseprogrammen ist die Möglichkeit der Datenspeicherung auf unserem eigenen Server. Matomo On-Premise bietet auch
+verschiedenen Möglichkeiten, IP-Adressen unserer Websitebesucher zu anonymisieren und Cookies zu deaktivieren. Wir haben
+auch von der Deaktivierung von Cookies Gebrauch gemacht. Das heißt, wir verwenden für unsere Website Matomo On-Premise
+ohne den Einsatz von Cookies.
+
+### Warum verwenden wir Matomo On-Premise?
+
+Viele der üblichen Analysetools erheben Unmengen an personenbezogenen Daten und können diese auch an Drittanbieter
+weitergeben. Das heißt, die Kontrolle über Ihre Daten ist nur noch sehr schwer aufrechtzuerhalten. Uns ist Datenschutz
+ein großes Anliegen und deswegen haben wir uns für Matomo On-Premise ohne den Einsatz von Cookies entschieden. Wir
+wollen allerdings auch nicht gänzlich auf Webanalyse verzichten. Schließlich können wir mithilfe von Statistiken über
+das Websiteverhalten unseren Service optimieren und auf Ihre individuellen Bedürfnisse anpassen.
+
+### Welche Daten werden durch Matomo On-Premise gespeichert?
+
+Es werden vor allem Informationen über Ihr Besucherverhalten gespeichert. Dabei handelt es sich gerade nicht um
+personenbezogene Daten, sondern um Informationen wie Besucheranzahl der Website, Seitenaufrufe, Verweildauer oder
+verwendete Suchbegriffe. Weiters können auch technische Daten wie Browsertyp, Ihr verwendetes Betriebssystem und Ihre
+Bildschirmauflösung gespeichert werden. Matomo On-Premise kann auch Informationen darüber sammeln, von welcher Website
+Sie zu uns gekommen sind. Die erhobenen Daten werden bei uns gespeichert und nicht an Drittanbieter weitergegeben bzw.
+verkauft.
+
+### Wie lange und wo werden die Daten gespeichert?
+
+Matomo On-Premise ist eine selbstgehostete Analyseplattform, das heißt, wir speichern alle erhobenen Daten direkt auf
+unseren eigenen Servern. Unser Server befindet sich in Europa, daher werden Daten auch in keinen Drittländern, also in
+Ländern außerhalb des Geltungsbereichs der DSGVO, verarbeitet.
+
+Grundsätzlich werden die Daten bei uns so lange gespeichert, wie es die geschäftlichen Zwecke erfordern. Leider können
+wir an dieser Stelle keine genauen Aufbewahrungszeiträume angeben, weil diese sehr stark von unseren individuellen
+Konfigurationen abhängen. Wenn Sie mehr über unsere Datenspeicherdauer und unsere Konfigurationen erfahren wollen,
+zögern Sie bitte nicht, uns zu kontaktieren.
+
+### Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+
+<div id="matomo-opt-out"><span class="spinner"></span></div>
+<script async src="https://{{< param matomoURL >}}/index.php?module=CoreAdminHome&action=optOutJS&divId=matomo-opt-out&language=auto&showIntro=1"></script>
+
+Sie haben jederzeit das Recht und die Möglichkeit auf Ihre personenbezogenen Daten zuzugreifen und Einspruch gegen die
+Nutzung und Verarbeitung dieser zu erheben. Sie können auch jederzeit bei einer staatlichen Aufsichtsbehörde oder
+einfach bei uns eine Beschwerde einreichen.
+
+### Rechtsgrundlage
+
+Es besteht von unserer Seite ein berechtigtes Interesse daran, das Verhalten der Websitebesucher zu analysieren und so
+unser Angebot technisch und wirtschaftlich zu verbessern. Mit Hilfe von Matomo On-Premise erkennen wir
+Optimierungspotenzial für unsere Website und können die Wirtschaftlichkeit verbessern. Die Rechtsgrundlage dafür ist
+Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+
+Wenn Sie mehr über die Datenverarbeitung durch Matomo On-Premise ohne Cookies wissen wollen, können Sie uns auch gerne
+kontaktieren. Zudem empfehlen wir die Datenschutzerklärung von Matomo auf https://matomo.org/privacy-policy/.
+
 ## Sicherheit der Datenverarbeitung
 
 Um personenbezogene Daten zu schützen, haben wir sowohl technische als auch organisatorische Maßnahmen umgesetzt.
