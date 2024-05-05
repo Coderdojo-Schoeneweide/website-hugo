@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section id="post">
+    <h1>{{ .Params.Title }}</h1>
+    <ul class="properties">
+        {{ with .Params.date }}
+        <li>
+            <img src="/images/calendar.svg" alt="Kalender Icon">
+            <span>Veröffentlicht: {{ .Format "02.01.2006" }}</span>
+        </li>
+        {{ end }}
+        {{ with .Params.authors }}
+        <li>
+            <img src="/images/user.svg" alt="Person Icon">
+            <span>
+          Verfasst von:
+          {{ range . }}
+            {{ . }}<span class="list-separator">,</span>
+          {{ end }}
+        </span>
+        </li>
+        {{ end }}
+        <li>
+            <img src="/images/clock.svg" alt="Uhr Icon">
+            <span>Lesedauer ca. {{ .ReadingTime }} Minute{{ if ne .ReadingTime 1}}n{{ end }}</span>
+        </li>
+    </ul>
+
+    <div id="blog-content">
+        {{ .Content }}
+    </div>
+
+    {{ with .Params.tags }}
+    <ul class="tags">
+        {{ range . }}
+        <li>#{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</section>
+<script src="/js/blog.js"></script>
+{{ end }}

@@ -1,6 +1,6 @@
-<li {{ if .story }}class="has-story" {{ end }}>
+<li>
   <div class="team-card">
-    <div class="team-image-container" style="background-image: url('{{.Site.BaseURL}}images/team/{{or .imagePath "img.png"}}');">
+    <div class="team-image-container" style="background-image: url('/images/team/{{or .imagePath "img.png"}}');">
     </div>
     <div class="team-info">
       <h4>{{ .name }}</h4>
