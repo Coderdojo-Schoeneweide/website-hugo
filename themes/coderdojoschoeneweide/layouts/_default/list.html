@@ -1,61 +1,16 @@
 {{ define "main" }}
-<section id="all-posts">
-    <h2>{{ .Title }}</h2>
-    {{ $readingTime := slice }}
-    {{ $tags := slice }}
-    {{ range .Pages }}
-    {{ if not (in $readingTime .ReadingTime) }}
-    {{ $readingTime = $readingTime | append .ReadingTime }}
-    {{ end }}
-    {{ range .Params.tags }}
-    {{ if not (in $tags .) }}
-    {{ $tags = $tags | append . }}
-    {{ end }}
-    {{ end }}
-    {{ end }}
-    <a href="#" id="filter-toggle">Filter <span>▸</span></a>
-    <div id="filter">
-        <label for="title-search-filter">
-            <span>Suche:</span>
-            <input type="search" id="title-search-filter" name="search-title" placeholder="Titel des Blogs"
-                   spellcheck="true"/>
-        </label>
-        <label for="reading-time-filter">
-            <span>Lesedauer:</span>
-            <select id="reading-time-filter">
-                <option value="">Alle</option>
-                {{ range sort $readingTime }}
-                <option value="{{ . }}">{{ . }}min</option>
-                {{ end }}
-            </select>
-        </label>
-        <label>
-            <span>Tags:</span>
-            <div id="tag-filters">
-                {{ range sort $tags }}
-                <label class="tags">
-                    <input type="checkbox" value="{{ . }}">
-                    #{{ . }}
-                </label>
-                {{ end }}
-            </div>
-        </label>
-    </div>
-    <ul id="results" class="post-list">
+<section class="all-workshops">
+    <h1>{{ .Title }}</h1>
+    <ul id="results">
         {{ range .Pages }}
-        <li id="result-item" data-readingtime="{{ .ReadingTime }}" data-tags="{{ .Params.tags }}"
-            data-title="{{ .Title }}">
-            <a href="{{ .Permalink }}">
-                <h3>{{ .Date.Format "02.01.2006" }} | {{ .Title }}</h3>
-                <p>Lesedauer: ca. {{ .ReadingTime }} Minute{{ if ne .ReadingTime 1 }}n{{ end }}</p>
-                <p> {{ .Summary }}</p>
-                {{ if .Truncated }}
-                <p class="ellipsis"> ... </p>
-                {{ end }}
+        <li>
+            <a href="{{ .RelPermalink }}">
+                <img src="{{ if .Params.image }}{{ (.Page.Resources.GetMatch .Params.image).RelPermalink }}{{ else }}/images/placeholder.svg{{ end }}"
+                     alt="parents thumbnail">
+                <div class="card-properties">
+                    <h2>{{ .Title }}</h2>
+                </div>
             </a>
-            {{ range .Params.tags }}
-            <span>#{{ . }}</span>
-            {{ end }}
         </li>
         {{ end }}
     </ul>

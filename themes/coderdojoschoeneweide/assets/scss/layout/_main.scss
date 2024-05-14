@@ -6,6 +6,14 @@ main {
     padding: $standard-padding 1.5rem;
   }
 
+  h1 {
+    text-align: center;
+  }
+
+  & #about > h1 {
+    text-align: left;
+  }
+
   .two-cols,
   .broad {
     padding: 0;
@@ -72,9 +80,9 @@ main {
   }
 
   #filter {
-    border: 1px solid $color-dark;
+    border: 0.5px solid;
     @include theme() {
-      border-color: theme-get("text-color");
+      border-color: theme-get("bg-offset-color");
     }
     height: auto;
     max-height: 0;
@@ -85,6 +93,7 @@ main {
     padding: 0 1rem;
 
     &.show {
+      border-width: 1px;
       max-height: 35rem; // Extend if needed (e.g. number of category tags increases). Remember to also increase height for mobile design.
       transition: max-height 200ms ease-in-out;
     }
@@ -119,10 +128,6 @@ main {
   }
 
   #all-posts, .all-workshops {
-    h2 {
-      text-align: center;
-    }
-
     a {
       text-decoration: none;
       color: inherit;
@@ -139,10 +144,10 @@ main {
       padding: 0;
 
       &:not(:first-child) {
-        border-top: 1px solid $color-main;
-        /*@include theme() {
-          border-color: theme-get("text-color");
-        }*/
+        border-top: 1px solid;
+        @include theme() {
+          border-color: theme-get("bg-offset-color");
+        }
       }
 
       a {
@@ -219,6 +224,12 @@ main {
         }
       }
     }
+  }
+
+  iframe {
+    border: none;
+    width: 100%;
+    aspect-ratio: 4 / 3;
   }
 }
 

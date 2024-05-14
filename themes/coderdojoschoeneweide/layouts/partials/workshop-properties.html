@@ -1,13 +1,13 @@
-	<p>
-		<img class="icon" src="{{ .Site.BaseURL}}images/clock.svg" alt="duration icon">
-		{{ .Params.duration }}
-	</p>
-	<p>
-		<img class="icon" src="{{ .Site.BaseURL}}images/user.svg" alt="age icon">
-		{{ .Params.age }}
-	</p>
-	<p>
-		{{ range .Params.tags }}
-		<span class="tag">#{{ . }}</span>
-		{{ end }}
-	</p>
+<p>
+    <img class="icon" src="/images/clock.svg" alt="duration icon">
+    {{ .Params.duration }}
+</p>
+<p>
+    <img class="icon" src="/images/user.svg" alt="age icon">
+    {{ .Params.age }}
+</p>
+<p>
+    {{ range .Params.tags }}
+    <span class="tag">#{{ . }}</span>
+    {{ end }}
+</p>

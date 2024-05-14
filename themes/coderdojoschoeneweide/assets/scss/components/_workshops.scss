@@ -43,17 +43,22 @@
   ul {
     list-style: none;
     padding: 0;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
   }
 
   li {
-    border: 1px solid #888888;
+    border: 1px solid;
+    @include theme() {
+      border-color: theme-get("bg-offset-color");
+    }
     border-radius: 5px;
-    max-width: calc(33% - 1rem);
-    margin: 0.5rem 0.5rem;
     overflow: hidden;
+  }
+
+  h2 {
+    font-size: 1.2em;
   }
 
   a {

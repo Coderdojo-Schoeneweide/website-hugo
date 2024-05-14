@@ -1,7 +1,16 @@
 ---
-layout: "impressum"
-admin: "Linda Fernsel"
-address: "-ZQUI201ZI00MHAvDHtuwvBH9MZTQV"
-email: "0KPWMVM4MQLMCJMZTQVFKWLMZLWRWCKWU"
-phone: "sswBtxxtsvytxyx"
+layout: "simple"
+title: "Impressum"
 ---
+
+Angaben gemäß § 5 TMG. Zum Anzeigen der Kontaktdaten muss JavaScript aktiviert sein.
+
+Ansprechpartnerin: Linda Fernsel  
+Anschrift: <span id="address"><button onclick="show('address', '-ZQUI201ZI00MHAvDHtuwvBH9MZTQV')">Zeige
+Anschrift</button></span>  
+Email: <span id="email"><button onclick="show('email', '0KPWMVM4MQLMCJMZTQVFKWLMZLWRWCKWU')">Zeige
+Mailadresse</button></span>  
+Telefon: <span id="phone"><button onclick="show('phone', 'sswBtxxtsvytxyx')">Zeige Telefonnummer</button></span>
+
+Einige Icons auf unserer Seite basieren auf den entsprechenden Solid-Icons von [Font Awesome](https://fontawesome.com)
+und sind unter [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) lizensiert.

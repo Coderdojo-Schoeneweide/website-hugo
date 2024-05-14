@@ -25,8 +25,8 @@ Außerdem verschicken wie circa einmal pro Monat einen E-Mail Newsletter mit den
 ## Wo und wann finden die Workshops statt?
 Die Workshops sind meistens Samstags von 11:00-13:00 Uhr.
 
-Bis auf wenige Ausnahmen finden die Workshops auf dem Gelände der Hochschule für Technik und Wirtschaft Berlin (HTW) statt.
-Wir treffen uns vor den Workshops unten beim Pförtner (bei der Information vor Gebäude B). Einen Lageplan findet ihr [hier](https://www.htw-berlin.de/campus/campus-wilhelminenhof/).
+Bis auf wenige Ausnahmen finden die Workshops in der Mittelpunktbibliothek "Alte Feuerwache" (Michael-Brückner-Straße 9, 12439 Berlin"), 
+im Raum "Wagenhalle" (direkt beim Eingang links) statt. 
 
 Unsere Lötworkshops finden im [xHain](https://x-hain.de/en/) in der Nähe der Warschauer Straße statt.
 
