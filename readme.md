@@ -51,7 +51,9 @@ The `archetypes` folder contains the template file for new subpages like blog-po
 * **js** contains Javascript files that are part of the theme, like obfuscate.js for deobfuscating the contact data in the imprint
 
 # How to develop locally
-Before developing for the first time you need to [install the extended version of the Hugo binary for your system](https://gohugo.io/getting-started/installing/) (hugo-extended: we need this because the regular version does not come with SCSS processing capabilities)
+Before developing for the first time you need to [install the extended version of the Hugo binary for your system](https://gohugo.io/getting-started/installing/) (hugo-extended: we need this because the regular version does not come with SCSS processing capabilities).
+
+**Do not edit the built website in the `public` directory which gets created automatically by Hugo. Changes in this directory will get overwritten on the next rebuild and are ignored by git.**
 
 * Clone this repository: `git clone https://github.com/Coderdojo-Schoeneweide/website-hugo.git`
 * Create a new git branch for developing your feature: `git checkout -b <branch_name>` (exceptions only for hotfixes!)
