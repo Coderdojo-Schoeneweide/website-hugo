@@ -19,13 +19,6 @@
   background: Medieninformatik
   story: Es macht mir Spaß, mein theoretische Wissen an der Webseite von CoderDojo ins Praktische umzusetzen. Ich hatte auf Facebook einen CoderDojo Post gesehen. Nach der Kontaktaufnahme dauerte es nicht lange, bis zu einem ersten Treffen mit dem Team.
 
-- name: Sonja
-  imagePath: sonja.webp
-  tasks: Mentoring, PR, Gestaltung
-  interests: Gesundheitsinformatik, Sprachen, Lernen
-  background: Fremdsprachen-korrespondentin, Angewandte Informatik
-  story: Was bringt einem Wissen, wenn man es nicht anwenden oder mit anderen teilen kann?
-
 - name: Dustin
   imagePath: dustin.webp
   tasks: Videoproduktion, Mentoring, sonstige Unterstützung
@@ -54,39 +47,11 @@
   background: Informations- und Kommunikationstechnik (Master), ehemaliger Jugendleiter, Skript- und Programmier-Kenntnisse
   story: Spielerisch und mit Neugier die Welt um uns herum zu erkunden ist das, was mich im Leben antreibt
 
-- name: Max
-  imagePath: max.webp
-  tasks: Finanzen, Material
-  interests: Game Design, Gameplay, Character & Storytelling, Game Based Learning; gerne auch als Workshop
-  background: Kenntnisse mit Finanzen & Buchhaltung, Erfahrungen bei Projekttagen mit Kindern von meinem FÖJ
-  story: If you can't believe in yourself believe in me, the one who believes in you. - Kamina
-
-- name: Maik
-  imagePath: maik.webp
-  tasks: Mentoring
-  interests: Mentoring, Umsetzung der Idee "Kids über Blender programmieren mit Python näher bringen", manchmal auch einfach nur Scratch
-  background: IT-Business Analyst, Autor, Karate + Aikido Trainer
-  story:
-
 - name: Sebastian
   imagePath: sebastian.webp
   tasks: Mentoring, Happiness
   interests: Nachhaltigkeit
   background: Medieninformatik (Master), VR/AR Game-Entwicklung
-  story:
-
-- name: Olli
-  imagePath: olli.webp
-  tasks: Webentwicklung
-  interests: Python, Data Science, Webentwicklung
-  background: Wirtschaftsinformatik (Master), NC-Technologe bei Siemens Energy
-  story:
-
-- name: Ibo
-  imagePath: ibo.jpg
-  tasks: Material, Analoge PR, HR
-  interests:
-  background:
   story:
 
 - name: Jacques
@@ -96,16 +61,30 @@
   background:
   story:
 
-- name: Jonas
-  imagePath: jonas.jpg
-  tasks: Webentwicklung
+- name: Anni
+  imagePath: anni.webp
+  tasks: Digitale PR
   interests:
   background:
   story:
 
-- name: Tony
-  imagePath: tony.jpg
-  tasks: Digitale PR
+- name: Andy
+  imagePath: andy.webp
+  tasks: Mentoring
+  interests:
+  background:
+  story:
+
+- name: Maite
+  imagePath: maite.webp
+  tasks: Workshops
+  interests:
+  background:
+  story:
+
+- name: Alexander
+  imagePath: alexander.webp
+  tasks: Workshops, Mentoring
   interests:
   background:
   story:
