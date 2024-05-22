@@ -17,4 +17,4 @@ Lernziele:
 * Teilnehmende können 3D-Modelle animieren
 
 Teilnehmende benötigen:
-* Computer mit Blender installiert
+* Computer mit Blender installiert.
