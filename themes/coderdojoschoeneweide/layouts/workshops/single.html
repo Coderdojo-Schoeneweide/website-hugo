@@ -13,4 +13,7 @@
 
     <p>{{ .Content }}</p>
 </section>
+<section class="accentuated">
+    {{ (.Parent.GetPage "common").Content }}
+</section>
 {{ end }}
