@@ -1,15 +1,15 @@
 - name: Bruno
   imagePath: bruno.webp
-  tasks: Workshopplanung, Mentoring, Material, Kooperationen
+  tasks: Workshops, Material
   interests: Musik
   background: Medieninformatik, Lehrbeauftragter an der HTW
   story: Über meine Arbeit bin ich total zufällig an eine Stelle als Tutor gekommen und seit dem interessiert an Education. Ich habe dann über die Hochschule vom CoderDojo erfahren und mitgemacht.
 
 - name: Linda
   imagePath: linda.webp
-  tasks: Projekt Management, Mentoring, HR, Networking, PR
+  tasks: Projektmanagement, People & Culture, Workshops
   interests: Scratch, Kreativität, Bildung, Software-Entwicklung
-  background: Medieninformatik, Wissenschaftlerin an der HTW
+  background: Medieninformatik, Softwareingenieurin bei einem Start Up
   story: 2014 habe ich von CoderDojo erfahren. Glücklicherweise gab es ein CoderDojo in Karlsruhe, dem ich mich anschließen konnte. Später ergab sich durch einen Kurs an der HTW Berlin die Chance, ein eigenes Dojo zu gründen!
 
 - name: Luis
@@ -21,14 +21,14 @@
 
 - name: Dustin
   imagePath: dustin.webp
-  tasks: Videoproduktion, Mentoring, sonstige Unterstützung
+  tasks: Videoproduktion, Workshops, Projektmanagement
   interests: zocken (analog & digital), kochen und backen, programmieren und basteln, Musik spielen und was noch so Spaß macht
   background: Angewandte Informatik
   story: Seit meiner Schulzeit bin ich aktiv dabei mein Wissen weiterzugeben. Und wo startet man am besten? Bei den Kindern!
 
 - name: Sahra
   imagePath: sahra.webp
-  tasks: Workshopgestaltung, Mentoring
+  tasks: Workshops, People & Culture
   interests: Workshopgestaltung, Diversitythemen, Mentoring
   background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
   story:
@@ -42,14 +42,14 @@
 
 - name: Ilja
   imagePath: ilja.webp
-  tasks: Mentoring, IT-Support
+  tasks: Workshops, Material
   interests: Didaktik, Pädagogik, Sozialwissenschaft und Technik, Ethik
   background: Informations- und Kommunikationstechnik (Master), ehemaliger Jugendleiter, Skript- und Programmier-Kenntnisse
   story: Spielerisch und mit Neugier die Welt um uns herum zu erkunden ist das, was mich im Leben antreibt
 
 - name: Sebastian
   imagePath: sebastian.webp
-  tasks: Mentoring, Happiness
+  tasks: Workshops, People & Culture, Finanzen
   interests: Nachhaltigkeit
   background: Medieninformatik (Master), VR/AR Game-Entwicklung
   story:
@@ -63,14 +63,14 @@
 
 - name: Anni
   imagePath: anni.webp
-  tasks: Digitale PR
+  tasks: PR
   interests:
   background:
   story:
 
 - name: Andy
   imagePath: andy.webp
-  tasks: Mentoring
+  tasks: Workshops
   interests:
   background:
   story:
@@ -84,7 +84,14 @@
 
 - name: Alexander
   imagePath: alexander.webp
-  tasks: Workshops, Mentoring
+  tasks: Workshops
+  interests:
+  background:
+  story:
+
+- name: Lisa
+  imagePath: lisa.webp
+  tasks: Workshops
   interests:
   background:
   story:
