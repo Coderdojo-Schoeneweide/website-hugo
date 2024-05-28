@@ -1,46 +1,50 @@
 <!DOCTYPE html>
 <!--suppress HtmlUnknownTarget -->
 <html lang="{{.Site.LanguageCode}}">
-{{ block "head.html" . }}
+  {{ block "head.html" . }}
 
-<head>
-  <title>{{ block "title" .}}{{ .Site.Title }}{{ end }}</title>
+  <head>
+    <title>{{ block "title" .}}{{ .Site.Title }}{{ end }}</title>
 
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  {{ $scss := resources.Get "/scss/style.scss" }}
-  {{ $style := $scss | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-  <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
-  <script src="/js/obfuscate.js"></script>
-  <script src="/js/color-theme-switch.js"></script>
-</head>
-{{ end }}
-
-<body>
-  {{ block "header.html" . }}
-  <header class="site-header wrapper">
-    <label id="switch" class="switch">
-      <span style="visibility: hidden">theme</span>
-      <input type="checkbox" id="slider" title="theme" />
-      <span class="slider round"></span>
-    </label>
-    <a class="site-title site-title-light" href="/">
-      <img class="site-logo" src="/images/logo.webp" alt="CoderDojo Schoeneweide Logo" />
-    </a>
-
-    <a class="site-title site-title-dark" href="/">
-      <img class="site-logo" src="/images/logo_dark.webp" alt="CoderDojo Schoeneweide Logo" />
-    </a>
-
-    {{ partial "main-menu.html" (dict "page" .) }}
-  </header>
+    {{ $scss := resources.Get "/scss/style.scss" }}
+    {{ $style := $scss | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
+    <script src="/js/obfuscate.js"></script>
+    <script src="/js/color-theme-switch.js"></script>
+  </head>
   {{ end }}
 
-  <main id="content" class="wrapper columns" aria-label="Content">
-    {{ block "main" . }}{{ end }}
-  </main>
+  <body>
+    {{ block "header.html" . }}
+    <header class="site-header wrapper">
+      <label id="switch" class="switch">
+        <span style="visibility: hidden;">theme</span>
+        <input type="checkbox" id="slider" title="theme" />
+        <span class="slider round"></span>
+      </label>
+      <a class="site-title site-title-light" href="/">
+        <img
+          class="site-logo"
+          src="/images/logo.webp"
+          alt="CoderDojo Schoeneweide Logo"
+        />
+      </a>
+
+      <a class="site-title site-title-dark" href="/">
+        <img class="site-logo" src="/images/logo_dark.webp" alt="CoderDojo Schoeneweide Logo" />
+      </a>
+
+      {{ partial "main-menu.html" (dict "page" .) }}
+    </header>
+    {{ end }}
+
+    <main id="content" class="wrapper columns" aria-label="Content">
+      {{ block "main" . }}{{ end }}
+    </main>
 
     {{ block "footer.html" . }}
     <footer class="wrapper">
