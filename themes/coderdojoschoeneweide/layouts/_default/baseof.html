@@ -49,8 +49,7 @@
 
     {{ block "footer.html" . }}
     <footer class="wrapper">
-        <p>Mit <3 gemacht vom CoderDojo Schöneweide Team</p>
-        <p>Auf GitHub gehostet</p>
+        {{ (.Site.GetPage "footer").Content }}
         {{ partial "footer-menu.html" }}
     </footer>
     {{ end }}
