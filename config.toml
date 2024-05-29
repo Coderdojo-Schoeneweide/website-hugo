@@ -3,6 +3,76 @@ languageCode = "de-de"
 title = "CoderDojo Schöneweide"
 theme = "coderdojoschoeneweide"
 
+defaultContentLanguage = 'ar'
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+  [languages.de]
+    contentDir = 'content'
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    title = 'Projekt Dokumentation'
+    weight = 1
+    [languages.de.params]
+      subtitle = 'Referenz, Tutorials und Erklärungen'
+
+  [languages.ar]
+    contentDir = 'content/ar'
+    disabled = false
+    languageCode = 'ar-YE'
+    languageDirection = 'rtl'
+    languageName = 'Arabisch'
+    title = 'CoderDojo Schöneweide'
+    weight = 3
+
+    [languages.ar.menus]
+    
+        [[languages.ar.menus.main]]
+    name = "الدوجو"
+    pageRef = "/"
+    weight = 10
+        [[languages.ar.menus.main]]
+    name = "ورش العمل"
+    pageRef = "/workshops"
+    weight = 20
+        [[languages.ar.menus.main]]
+    name = "المدونة"
+    pageRef = "/blog"
+    weight = 30
+        [[languages.ar.menus.main]]
+    name = "لأولياء الأمور"
+    pageRef = "/parents"
+    weight = 40
+        [[languages.ar.menus.main]]
+    name = "للمدارس"
+    pageRef = "/schools"
+    weight = 50
+        [[languages.ar.menus.main]]
+    name = "المشاريع"
+    pageRef = "/dojo-projects"
+    weight = 60
+        [[languages.ar.menus.main]]
+    name = "الرابطة"
+    pageRef = "/verein"
+    weight = 70
+    
+    [languages.ar.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
+      
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
+
 [[menu.main]]
   name = "Das Dojo"
   pageRef = "/"
