@@ -1,14 +1,12 @@
 <h2>Kontakt</h2>
 <ul class="social">
-    {{ range $.Site.Data.contact }}
-    {{ if ne .id "" }}
-    <li>
-        <a href="{{.href}}{{.id}}" target="_blank">
-            <svg viewBox="0 0 18 18">
-                <use xlink:href="/images/minima-social-icons.svg#{{.name}}"></use>
-            </svg>
-        </a>
-    </li>
-    {{ end }}
-    {{ end }}
+  {{ range $.Site.Data.contact }} {{ if ne .id "" }}
+  <li>
+    <a href="{{.href}}{{.id}}" target="_blank" title="{{.name}}">
+      <svg viewBox="0 0 18 18">
+        <use xlink:href="/images/minima-social-icons.svg#{{.name}}"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }} {{ end }}
 </ul>

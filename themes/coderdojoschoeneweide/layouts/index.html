@@ -1,44 +1,38 @@
-{{define "main"}}
-{{ with .Site.GetPage "/home" }}
+{{define "main"}} {{ with .Site.GetPage "/home" }}
 <section class="two-cols">
-    <main>
-        {{ range $index, $element := where .Pages "Params.position" "main" }}
-        <section id="{{ lower .File.BaseFileName }}">
-            {{ if eq $index 0 }}
-            <h1>{{ $element.Title }}</h1>
-            {{ else }}
-            <h2>{{ $element.Title }}</h2>
-            {{ end }}
-            <p> {{ $element.Content }}</p>
-        </section>
-        {{ end }}
-    </main>
-    <aside>
-        {{ range where .Pages "Params.position" "aside" }}
-        {{ $partialPath := printf "%s.html" (lower .Title) }}
-        {{ if templates.Exists ( printf "partials/%s" $partialPath ) }}
-        {{ partial $partialPath . }}
-        {{ else }}
-        <h2>{{ .Title }}</h2>
-        <p> {{ .Content }}</p>
-        {{ end }}
-        {{ end }}
-    </aside>
-</section>
-<section class="broad">
-    {{ range where .Pages "Params.position" "broad" }}
-    <section id="{{lower .File.BaseFileName}}">
-        <h2>{{ .Title }}</h2>
-        <p> {{ .Content }}</p>
-        {{ if eq .Title "Team" }}
-        <ul id="teamMemberList">
-            {{ range sort $.Site.Data.team "name" }}
-            {{ partial "team.html" . }}
-            {{ end }}
-        </ul>
-        {{ end }}
+  <div>
+    {{ range $index, $element := where .Pages "Params.position" "main" }}
+    <section id="{{ lower .File.BaseFileName }}">
+      {{ if eq $index 0 }}
+      <h1>{{ $element.Title }}</h1>
+      {{ else }}
+      <h2>{{ $element.Title }}</h2>
+      {{ end }}
+      <div>{{ $element.Content }}</div>
     </section>
     {{ end }}
+  </div>
+  <aside>
+    {{ range where .Pages "Params.position" "aside" }} {{ $partialPath := printf
+    "%s.html" (lower .Title) }} {{ if templates.Exists ( printf "partials/%s"
+    $partialPath ) }} {{ partial $partialPath . }} {{ else }}
+    <h2>{{ .Title }}</h2>
+    <div>{{ .Content }}</div>
+    {{ end }} {{ end }}
+  </aside>
 </section>
-{{ end }}
-{{ end }}
+<section class="broad">
+  {{ range where .Pages "Params.position" "broad" }}
+  <section id="{{lower .File.BaseFileName}}">
+    <h3>{{ .Title }}</h3>
+    <p>{{ .Content }}</p>
+    {{ if eq .Title "Team" }}
+    <ul id="teamMemberList">
+      {{ range sort $.Site.Data.team "name" }} {{ partial "team.html" . }} {{
+      end }}
+    </ul>
+    {{ end }}
+  </section>
+  {{ end }}
+</section>
+{{ end }} {{ end }}

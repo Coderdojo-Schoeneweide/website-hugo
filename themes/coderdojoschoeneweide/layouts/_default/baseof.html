@@ -1,60 +1,58 @@
 <!DOCTYPE html>
 <!--suppress HtmlUnknownTarget -->
 <html lang="{{.Site.LanguageCode}}">
-{{ block "head.html" . }}
-<head>
+  {{ block "head.html" . }}
+
+  <head>
     <title>{{ block "title" .}}{{ .Site.Title }}{{ end }}</title>
 
-    <meta charset="utf-8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     {{ $scss := resources.Get "/scss/style.scss" }}
     {{ $style := $scss | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}"/>
+    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
     <script src="/js/obfuscate.js"></script>
     <script src="/js/color-theme-switch.js"></script>
-</head>
-{{ end }}
-<body>
+  </head>
+  {{ end }}
+
+  <body>
     {{ block "header.html" . }}
-    <header class="site-header wrapper" role="banner">
-        <label id="switch" class="switch">
-            <input type="checkbox" id="slider"/>
-            <span class="slider round"></span>
-        </label>
-        <a class="site-title site-title-light" href="/">
-            <img
-                    class="site-logo"
-                    src="/images/logo.webp"
-                    alt="CoderDojo Schoeneweide Logo"
-            />
-        </a>
+    <header class="site-header wrapper">
+      <label id="switch" class="switch">
+        <span style="visibility: hidden;">theme</span>
+        <input type="checkbox" id="slider" title="theme" />
+        <span class="slider round"></span>
+      </label>
+      <a class="site-title site-title-light" href="/">
+        <img
+          class="site-logo"
+          src="/images/logo.webp"
+          alt="CoderDojo Schoeneweide Logo"
+        />
+      </a>
 
-        <a class="site-title site-title-dark" href="/">
-            <img
-                    class="site-logo"
-                    src="/images/logo_dark.webp"
-                    alt="CoderDojo Schoeneweide Logo"
-            />
-        </a>
+      <a class="site-title site-title-dark" href="/">
+        <img class="site-logo" src="/images/logo_dark.webp" alt="CoderDojo Schoeneweide Logo" />
+      </a>
 
-        {{ partial "main-menu.html" (dict "page" .) }}
+      {{ partial "main-menu.html" (dict "page" .) }}
     </header>
     {{ end }}
 
     <main id="content" class="wrapper columns" aria-label="Content">
-        {{ block "main" . }}{{ end }}
+      {{ block "main" . }}{{ end }}
     </main>
 
     {{ block "footer.html" . }}
     <footer class="wrapper">
-        <p>Mit <3 gemacht vom CoderDojo Schöneweide Team</p>
-        <p>Auf GitHub gehostet</p>
-        {{ partial "footer-menu.html" }}
+      {{ (.Site.GetPage "footer").Content }}
+      {{ partial "footer-menu.html" }}
     </footer>
     {{ end }}
     <script src="/js/filters.js"></script>
     <script src="/js/privacy-notice.js"></script>
-</body>
+  </body>
 </html>
