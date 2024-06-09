@@ -3,7 +3,8 @@ title: "Spenden"
 position: "aside"
 weight: 2
 ---
+Unterstütze die Arbeit des CoderDojo Schöneweide e.V. mit einer Spende an unser Vereinskonto:
 
-Du möchtest die Arbeit des CoderDojo Schöneweide unterstützen? 
-[Spende an den CoderDojo Deutschland e.V.](https://coderdojo-deutschland.de/spenden) 
-mit dem Verwendungszweck "Spende Schöneweide".
+IBAN: DE83 4306 0967 1323 6039 00
+
+BIC: GENODEM1GLS
