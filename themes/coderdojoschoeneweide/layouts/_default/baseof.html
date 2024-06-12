@@ -3,6 +3,31 @@
 <html lang="{{.Site.LanguageCode}}" dir="{{.Site.Language.LanguageDirection}}">
 {{ block "head.html" . }}
 <head>
+    <div class="abod-lang-2">
+        {{ range .Translations }}
+          {{ if eq .Lang "en" }}
+              {{/* <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" /> */}}
+              <li class="hover:bg-slate-300 p-2">
+                <a href="{{ .Permalink }}">
+                    <img src="https://cdn-icons-png.flaticon.com/32/8281/8281549.png" alt="  ">
+                    {{ "  " | .RenderString }} English</a>
+              </li>
+          {{ else if eq .Lang "de" }}
+              <li class="hover:bg-slate-300 p-2">
+                <a href="{{ .Permalink }}">
+                    <img src="https://cdn-icons-png.flaticon.com/32/5304/5304026.png" alt=" ">
+                    {{ "  " | .RenderString }} Deutsch</a>
+              </li>
+          {{ else if eq .Lang "ar" }}
+          <li class="hover:bg-slate-300 p-2">
+          <a href="{{ .Permalink }}">
+            <img src="https://cdn-icons-png.flaticon.com/32/317/317358.png" alt=" ">
+            {{ "  " | .RenderString }} العربية</a>
+          </li>
+          {{ end }}
+        {{ end }}
+      </div>
+      
     <title>{{ block "title" .}}{{ .Site.Title }}{{ end }}</title>
 
     <meta charset="utf-8"/>
