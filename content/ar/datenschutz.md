@@ -3,7 +3,7 @@ title: "Datenschutzerklärung"
 layout: "general"
 ---
 
-In dieser Datenschutzerklärung (Stand: 26.07.2023) erläutern wir basierend auf der 
+نوضح في سياسة الخصوصية هذه (اعتبارًا من 26/07/2023) استنادًا إلى 
 [Datenschutz-Grundverordnung (EU) 2016/679](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=312528560#d1e2269-1-1) 
 und anwendbaren nationalen Gesetzen, welche personenbezogenen Daten (kurz Daten) wir als 
 Verantwortliche – und die von uns beauftragten Auftragsverarbeiter:innen (z. B. Provider) – verarbeiten, 

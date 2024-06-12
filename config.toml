@@ -3,7 +3,7 @@ languageCode = "de-de"
 title = "CoderDojo Schöneweide"
 theme = "coderdojoschoeneweide"
 
-defaultContentLanguage = 'ar'
+defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
 
 [languages]
@@ -58,6 +58,14 @@ defaultContentLanguageInSubdir = true
     name = "الرابطة"
     pageRef = "/verein"
     weight = 70
+        [[languages.ar.menus.footer]]
+    name = "التحرير"
+    pageRef = "/impressum"
+    weight = 10
+        [[languages.ar.menus.footer]]
+    name = "الخصوصية"
+    url = "/datenschutz"
+    weight = 20
     
     [languages.ar.params]
       subtitle = 'Reference, Tutorials, and Explanations'
