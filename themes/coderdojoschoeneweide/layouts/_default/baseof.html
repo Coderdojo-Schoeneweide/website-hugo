@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <!--suppress HtmlUnknownTarget -->
-<html lang="{{.Site.LanguageCode}}">
-  {{ block "head.html" . }}
-
-  <head>
+<html lang="{{.Site.LanguageCode}}" dir="{{.Site.Language.LanguageDirection}}">
+{{ block "head.html" . }}
+<head>
     <title>{{ block "title" .}}{{ .Site.Title }}{{ end }}</title>
 
     <meta charset="utf-8" />

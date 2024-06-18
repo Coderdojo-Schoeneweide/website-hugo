@@ -5,7 +5,7 @@
   .icon {
     width: 1rem;
     height: 1rem;
-    margin-right: 0.3rem;
+    margin-inline-end: 0.3rem;
     @include theme() {
       filter: theme-get("icon-filter-color");
     }
