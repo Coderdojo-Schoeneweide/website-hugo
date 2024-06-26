@@ -116,7 +116,7 @@ defaultContentLanguageInSubdir = true
   weight = 10
 [[menu.footer]]
   name = "Datenschutz"
-  url = "/datenschutz"
+  pageRef = "/datenschutz"
   weight = 20
 
 
