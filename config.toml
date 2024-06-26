@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = true
     weight = 10
         [[languages.ar.menus.footer]]
     name = "الخصوصية"
-    url = "/datenschutz"
+    pageRef = "/datenschutz"
     weight = 20
     
     [languages.ar.params]
