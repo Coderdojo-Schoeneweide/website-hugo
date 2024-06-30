@@ -12,6 +12,7 @@
 	<meta name="keywords" content="CoderDojo Schöneweide, Programmieren für Kinder, kostenlose Workshops, Coden lernen, digitale Kompetenz, kreative Computer-Nutzung, Projektbasiertes Lernen, kostenlos, Treptow-Köpenick, Berlin" />
     {{ $scss := resources.Get "/scss/style.scss" }}
     {{ $style := $scss | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+	<link rel="canonical" href="{{ .Permalink }}" />
     <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
     <script src="/js/obfuscate.js"></script>
     <script src="/js/color-theme-switch.js"></script>
