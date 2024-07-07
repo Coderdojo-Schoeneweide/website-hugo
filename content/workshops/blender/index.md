@@ -1,6 +1,7 @@
 +++
 title = "3D-Kunst mit Blender"
-keywords = "test"
+description = "kurze Testbeschreibung"
+keywords = ["test, test2, test3"]
 duration = "2 Stunden"
 age = "9 - 17 Jahre"
 tags = ["blender", "3D", "animation"]
