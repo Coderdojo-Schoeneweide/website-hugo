@@ -1,5 +1,7 @@
 ---
 title: Unser erstes Präsenz-Dojo während der Corona-Pandemie - Ein How-To
+description: "Erfahre, wie wir unser erstes Präsenz-Dojo während der Corona-Pandemie organisiert haben! Entdecke die Herausforderungen, Lösungen und den Erfolg dieses besonderen Workshops im Freien mit Fokus auf Kinder- und Jugendschutz sowie Hygiene."
+keywords: ["Präsenz-Dojo", "Corona-Pandemie Workshop", "Kinder- und Jugendschutz", "Hygienekonzept Workshop", "Outdoor Workshop", "Jugendverein", "Dojo Organisation", "Workshop Hygienevorschriften", "Live Workshop", "Jugendarbeit Veranstaltung"]
 date: 2021-08-05T13:00:00+0100
 categories:
   - berichte

@@ -1,5 +1,7 @@
 ---
 title: Sommer, Sonne, Spiele! Ein Erlebnisbericht
+description: "Erfahre, wie unser Sommer-Workshop unter freiem Himmel verlief! Von kreativem Programmieren mit Scratch bis zur Abschlusspräsentation der Projekte - ein erlebnisreicher Tag voller Spaß und Innovation."
+keywords: ["Sommer Workshop", "Spiele programmieren", "Scratch Projekt", "Freiluft Programmieren", "Sommerferien Workshop", "Kinder Programmierprojekte", "Ferienerlebnisse teilen", "Live Workshop", "Picknick Atmosphäre", "Eltern Beteiligung"]
 date: 2021-08-05T13:00:00+0100
 categories:
   - berichte

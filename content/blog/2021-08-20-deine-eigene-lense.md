@@ -1,5 +1,7 @@
 ---
 title: Deine eigene Lense
+description: "Erfahre, wie Kinder und ihre Eltern im Workshop 'Deine eigene Lense' mit Pocket Code Foto-Filter programmieren lernten und kreative Ideen umsetzten. Eine spannende Entdeckungsreise in die Welt der mobilen App-Entwicklung!"
+keywords: ["Foto-Filter programmieren", "Pocket Code Workshop", "Kinder Programmierung", "Eltern-Kind Workshop", "kreative Foto-Filter", "Mobile App Entwicklung", "Spaß am Programmieren", "Workshop für Kinder", "App-Programmierung", "Projektpräsentation"]
 date: 2021-08-20T15:00:00+0100
 categories:
   - berichte

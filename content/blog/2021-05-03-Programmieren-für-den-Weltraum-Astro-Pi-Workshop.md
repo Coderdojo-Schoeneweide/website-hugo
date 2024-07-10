@@ -1,5 +1,7 @@
 ---
 title: Programmieren für den Weltraum - Astro Pi Workshop
+description: "Erlebe den Astro Pi Workshop, bei dem junge Entwickler Programme für die ISS schreiben! Erfahre, wie Luftfeuchtigkeit gemessen und an Astronaut übermittelt wird. Ein spannendes Projekt für Technikbegeisterte!"
+keywords: ["Astro Pi Workshop", "Luftfeuchtigkeitsmessung im Weltraum", "Weltraumtechnologie Projekte", "Emulator Astro Pi", "LED-Matrix Programmierung", "künstlerische Gestaltung in Technikprojekten", "Jugendtechnologie Workshops", "Weltraum Bildungsinitiativen", "Python"]
 date: 2021-05-03T19:24:46+02:00
 categories:
   - berichte

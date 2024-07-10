@@ -1,5 +1,7 @@
 ---
 title: Juni Workshop 2021
+description: "Tauche ein in den Juni Workshop 2021 mit spannenden Scratch-Projekten! Entdecke kreative Animationen und interaktive Spiele von Teilnehmer jeden Alters. Ein inspirierender Tag voller digitalem Theater und Weltraumabenteuern!"
+keywords: ["Juni Workshop 2021", "Scratch Workshop", "digitales Theater Scratch", "Spiele programmieren Scratch", "Lama Animationen", "Raketensteuerung Spiele", "Sommerferien Workshop", "kreatives Programmieren Kinder", "Scratch Projektideen", "Technologie Workshops Kinder"]
 date: 2021-06-28T13:00:00+0100
 categories:
   - berichte
