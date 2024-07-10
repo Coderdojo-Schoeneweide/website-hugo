@@ -10,26 +10,26 @@ tags:
 authors:
   - Marvin
 ---
-Im Rahmen der HTW bin ich auf das Projekt "CoderDojo Schöneweide" gestoßen und wollte mich an diesem Projekt beteiligen. Da meine Stärken eher im Bereich Design & Programmieren liegen, habe ich mich innerhalb des Dojos nach einer Tätigkeit alternativ zum Mentoring umgesehen. Ich wurde mit offenen Armen empfangen und fand mithilfe der anderen Mitglieder heraus, dass das Team noch jemanden sucht, der sich um das Corporate Design kümmert und dahingehend eine Überarbeitung des aktuellen Designs vornimmt.
+I came across the “CoderDojo Schöneweide” project at HTW and wanted to take part in it. As my strengths lie more in the area of design and programming, I looked for an alternative job to mentoring within the Dojo. I was welcomed with open arms and found out with the help of the other members that the team was still looking for someone to take care of the corporate design and revise the current design.
 
-### Was ist ein Corporate Design? {#corporate-design}
+### What is a corporate design? {#corporate-design}
 
-Unter einem Corporate Design versteht man im Allgemeinen das Erscheinungsbild eines Unternehmens oder Organisation. Die wichtigsten Merkmale dafür sind der Wiedererkennungswert und die Einheitlichkeit[^1](https://de.wikipedia.org/wiki/Corporate_Design). Beides wird durch ein vereinheitlichtes Design im Bezug auf die verwendeten Farben, das Logo, die Schriften, sowie Bild- und Textstile gewährleistet. Zu diesem Zweck wird ein Corporate Design Manual angelegt. Dabei handelt es sich um ein Dokument, das alle genannten Elemente vereint und beschreibt, wie diese anzuwenden sind. Das Manual steht dann für alle Mitglieder zur Verfügung und dient als Leitfaden bei der Gestaltung von digitalen und Printmedien.
+Corporate design generally refers to the appearance of a company or organization. The most important characteristics are recognition value and uniformity[^1](https://de.wikipedia.org/wiki/Corporate_Design). Both are ensured by a standardized design with regard to the colors used, the logo, the fonts, as well as image and text styles. A corporate design manual is created for this purpose. This is a document that combines all the elements mentioned and describes how they are to be used. The manual is then available to all members and serves as a guideline for the design of digital and print media.
 
-Zusammen und in ständiger Rücksprache haben wir eine neue Farbpalette erstellt, uns passende Schriftarten ausgesucht und uns gemeinsam an neuen Designs versucht. Das Ergebnis ist ein leserfreundliches und farbenfrohes Design, das sowohl Kinder und Jugendliche als auch Eltern ansprechen soll.
+Together and in constant consultation, we created a new color palette, selected suitable fonts and tried out new designs together. The result is a reader-friendly and colorful design that should appeal to children and young people as well as parents.
 
-### Neuer Look {#new-look}
+### New look {#new-look}
 
-Als Beispiel für den neuen Look stelle ich ein erstelltes Zertifikat vor, das alle neuen Elemente vereint und die zuvor genannten Änderungen perfekt beschreibt. Das Zertifikat an sich wird beim Abschließen eines Workshops an die Teilnehmenden als eine Art Belohnung verteilt und enthält daher ein Feld, wo ein Name eingetragen werden kann.
+As an example of the new look, I present a created certificate that combines all the new elements and perfectly describes the aforementioned changes. The certificate itself is distributed to participants at the end of a workshop as a kind of reward and therefore contains a field where a name can be entered.
 
-![](/images/cms/corporate_design_zertifikat_orange.png "Workshop-Abschluss-Zertifikat (orange)")
+![](/images/cms/corporate_design_zertifikat_orange.png "Final workshop certificate (orange)")
 
-![](/images/cms/corporate_design_zertifikat_gruen.png "Workshop-Abschluss-Zertifikat (grün)")
+![](/images/cms/corporate_design_zertifikat_gruen.png "Final workshop certificate (green)")
 
-Hier zu sehen sind zwei Varianten des Zertifikats: Eins in der Farbe Orange, unserer *primären* Hausfarbe. Das andere ist grün, eine unserer *sekundären* Hausfarben. Als Hausschrift haben wir uns auf Open Sans geeinigt, da es sich dabei um eine sehr lesbare und vielseitig einsetzbare Schriftart handelt. Da wir zeigen wollen, dass das CoderDojo Schöneweide eine Verbindung zur weltweiten CoderDojo-Community[^2](https://coderdojo.com/de-DE) hat, darf das typische abgewandelte Yin-Yang-Symbol in der oberen linken Ecke natürlich auch nicht fehlen.
+Here you can see two versions of the certificate: one in orange, our *primary* corporate color. The other is green, one of our *secondary* corporate colors. We chose Open Sans as our corporate font because it is a very legible and versatile font. As we want to show that CoderDojo Schöneweide has a connection to the global CoderDojo community[^2](https://coderdojo.com/de-DE), the typical modified yin-yang symbol in the top left-hand corner is of course a must.
 
-Alles in allem haben wir durch das Festlegen eines Corporate Designs gemeinsam eine eigene kleine Marke geschaffen, die hoffentlich großen Anklang bei den jungen Leser:innen finden wird.
+All in all, by defining a corporate design together, we have created our own little brand that will hopefully be well received by young readers.
 
 ![](/images/cms/corporate_design_ninjaicon.svg)
 
-Innerhalb des Wintersemesters habe ich sehr positive Erfahrung mit dem CoderDojo gemacht und kann jedem das zugehörige AWE wärmstens empfehlen. Es kann sich jedoch auch ehrenamtlich dort engagiert werden, denn es wird für jede:n der passende Platz gefunden.
+I had a very positive experience with the CoderDojo during the winter semester and can warmly recommend the associated AWE to everyone. However, you can also volunteer there, because there is a suitable place for everyone.

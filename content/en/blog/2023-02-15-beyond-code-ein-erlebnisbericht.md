@@ -13,39 +13,39 @@ authors:
   - Fenja
 draft: true
 ---
-Die erste Jugendkonferenz zum Thema: Digital Literacy, KI und digitale Verantwortung. Am 17. und 18. November haben sich jede Menge motivierte Interessierte getroffen, um gemeinsam zu diskutieren.
+The first youth conference on the topic of digital literacy, AI and digital responsibility. On November 17 and 18, a large number of motivated and interested people came together to discuss these topics.
 
-Angefangen hat die Veranstaltung mit einem offenen Willkommen inklusive vegetarischem und veganem Buffet. Während am Anfang noch die meisten Stehtische leer waren, füllte sich der Raum immer mehr, bis dann der Kick-Off startete.
+The event began with an open welcome including a vegetarian and vegan buffet. While most of the bar tables were empty at the beginning, the room filled up more and more until the kick-off began.
 
-![Kick-off der digital literacy Konferenz "Beyond Code"](/images/cms/beyondcode_welcome.jpeg "image: beyondcode welcome")
+![Kick-off of the digital literacy conference "Beyond Code"](/images/cms/beyondcode_welcome.jpeg "image: beyondcode welcome")
 
-Verschiedene Moderator:innen haben einen kurzen Teaser zu ihren Schwerpunkten gegeben. Mit dabei waren
+Various presenters gave a short teaser on their main topics. They included
 
-* Was bedeutet digital literacy konkret?
-* KI und Security
-* In welchen Bereichen ist KI sinnvoll und umsetzbar?
-* Bildung und Kommunikation in der Informatik
+* What does digital literacy mean in concrete terms?
+* AI and security
+* In which areas is AI useful and feasible?
+* Education and communication in computer science
 
-Und dann ging es los. In kleinen Gruppen, je nach Interesse 7 oder 20 Teilnehmende groß, wurden Informationen, Eindrücke, Ideen und Meinungen ausgetauscht. Als die Köpfe rauchten und die Münder fusselig geredet waren, ging es fließend zum Abendprogramm über. In ausgelassener Stimmung ist der Abend langsam ausgeklungen.
+And then it started. Information, impressions, ideas and opinions were exchanged in small groups of 7 or 20 participants, depending on their interests. Once heads were spinning and mouths were full, it was time for the evening program. The evening slowly faded away in a relaxed atmosphere.
 
-![Die schönen Pausen vom gemeinsam Diskutieren...](/images/cms/beyondcode_team2.jpeg "image: beyond code gruppenarbeit")
+![The nice breaks from discussing things together...](/images/cms/beyondcode_team2.jpeg "image: beyond code groupwork")
 
-Am nächsten Tag ging es dann zu einer ganz humanen Uhrzeit weiter. 5 Stunden Brainstorming, Diskussion und ganz viele Lösungsideen später schließlich noch die Frage: Wie präsentieren wir das, jetzt? Denn: Die Fragen und Lösungen, die auf dieser Konferenz entstanden, wurden direkt weiter an die Politik gereicht. Die Hoffnung besteht, dass wir wirklich was bewegen können!
+The next day we continued at a very humane time. After 5 hours of brainstorming, discussion and lots of ideas for solutions, the final question was: How do we present this now? After all, the questions and solutions that emerged at this conference were passed on directly to politicians. The hope is that we can really make a difference!
 
-Es sind die verschiedensten Präsentationen entstanden:
+A wide variety of presentations were created:
 
-Eine eher kontra-intuitive Darstellungsform auf einer Konferenz mit Thema digital literacy: drei große Plakate. Aber auch das ist schon ein Statement. Denn digital literacy beinhaltet ja auch zu wissen, wie digitale Präsentationen sinnvoll eingesetzt werden und wann vielleicht auch nicht. Um auf einen Blick zu sehen, welche verschiedene Wege für welche verschiedenen Akteure in die Zukunft gegangen werden können, waren Plakate eine gute Lösung.
+A rather counter-intuitive form of presentation at a conference on digital literacy: three large posters. But even that is a statement. After all, digital literacy also involves knowing how to use digital presentations sensibly and when not to use them. Posters were a good solution to see at a glance which different paths can be taken for which different players in the future.
 
-![Fishbowl zum Thema "Was kann KI?"](/images/cms/beyondcode_praesi2.jpeg "image: beyond code praesi 1")
+![Fishbowl on the topic “What can AI do?”](/images/cms/beyondcode_praesi2.jpeg "image: beyond code praesi 1")
 
-In einem großen Stand-Up haben ca. 14 Stimmen je ein Highlight herausgestellt, wo KI eine Verbesserung erzielen könnte und welchen Security-Issues wir gegenüberstehen. Anschließend gab es eine Fishbowl: Vier Stühle im Kreis, zwei davon von vornherein besetzt. Eine:r der im Kreis sitzenden startet mit einem 30 Sekunden langen Input. Wer was dazu sagen möchte, ist eingeladen, sich auf einen freien Stuhl zu setzen. Wer nichts mehr zu sagen hat, darf gerne den Platz im Kreis frei geben. Natürlich kam dabei auch zur Sprache, wie in der Dystopie die künstliche Intelligenz die Weltherrschaft an sich reist…
+In a large stand-up, around 14 voices each highlighted where AI could achieve an improvement and what security issues we are facing. This was followed by a fishbowl: four chairs in a circle, two of which were occupied from the outset. One of the people sitting in the circle starts with a 30-second input. Anyone who wants to say something is invited to sit on a free chair. Anyone who has nothing more to say is welcome to vacate their seat in the circle. Of course, we also talked about how artificial intelligence takes over the world in the dystopia...
 
-Gender und Diversity in der Informatik. Dieses so große Thema auf drei bis fünf wesentliche Punkte herunter zu brechen ist eine Herausforderung. Dabei finden natürlich auch längst nicht alle persönlichen Erfahrungen Raum. Trotzdem konnte die Taskforce sich schließlich einigen und sogar Handlungsempfehlungen formulieren.
+Gender and diversity in computer science. Breaking down this huge topic into three to five key points is a challenge. Of course, not all personal experiences are taken into account. Nevertheless, the task force was finally able to reach an agreement and even formulate recommendations for action.
 
-Nicht zuletzt das Stichwort Informatikbildung. Hier wurden verschiedene Alpakas präsentiert. Darunter die fiktiven Charaktere Peter, 45 Jahre alt, der in eine Position befördert wird, in der er auf einmal Softwarekenntnisse braucht, oder Julie, 16, im Informatikunterricht völlig unterfordert. Das Fazit: Es braucht ein breit aufgestelltes Bildungsangebot, um alle Charaktere mit den passenden Technikkenntnissen zu versorgen.
+Last but not least, the keyword was IT education. Various alpacas were presented here. These included the fictional characters Peter, 45 years old, who is promoted to a position in which he suddenly needs software skills, or Julie, 16, who is completely underchallenged in IT lessons. The conclusion: a broad-based educational program is needed to provide all the characters with the right technical skills.
 
-![Es braucht ein breit aufgestelltes Bildungsangebot](/images/cms/beyondcode_praesi3.jpeg "image: beyond code praesi 2")
+![A broad-based educational offering is needed](/images/cms/beyondcode_praesi3.jpeg "image: beyond code praesi 2")
 
-Und warum Alpakas? Diese in Dresden ausgerichtete Konferenz wurde hauptsächlich von Jugend Hackt organisiert. Sehr präsent ist dabei natürlich das bunte Maskottchen. Als Mentor:innen vom CoderDojo hat uns der Austausch sehr viel Spaß und neue Impulse gebracht und wir freuen uns, auch in Zukunft mit Jugend hackt in Kontakt zu bleiben.
+And why alpacas? This conference in Dresden was mainly organized by Jugend Hackt. The colorful mascot is of course very present. As mentors from CoderDojo, the exchange was a lot of fun and gave us new ideas, and we look forward to staying in touch with Jugend hackt in the future.
 
-![Wir hatten sehr viel Spaß, viele neue Ideen und freuen uns auf die nächste Veranstaltung!](/images/cms/beyondcode_bb.jpeg "image: beyond code Abschluss")
+![We had a lot of fun, lots of new ideas and are looking forward to the next event!](/images/cms/beyondcode_bb.jpeg "image: beyond code Abschluss")

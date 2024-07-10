@@ -8,18 +8,18 @@ tags:
 authors:
   - Sonja
 ---
-Programmieren ist ja schon ziemlich cool, aber bei den kalten Temperaturen frieren unsere Finger an den Tastaturen und wir suchen uns neue Herausforderungen. Zum Beispiel Löten. Dies wurde durch Kontakte zum xHain möglich und wir freuen uns über diese Zusammenarbeit, auch wenn wir dafür unseren gemütlichen Raum in Schöneweide verlassen mussten.
+Programming is already pretty cool, but in the cold temperatures our fingers freeze on the keyboards and we look for new challenges. For example, soldering. This was made possible by contacts at xHain and we are happy about this collaboration, even if we had to leave our cozy room in Schöneweide for it.
 
-Wie Programmierworkshops bei uns ablaufen, kennt ihr ja wahrscheinlich schon aus den anderen Blogartikeln. Wenn nicht, dann solltet ihr die unbedingt noch lesen! Aber zurück zum Löten. Die zehn freien Plätze waren schnell ausgebucht und acht glückliche Kinder haben es zu unserem Workshop geschafft. Die beiden, die es nicht geschafft haben, waren hoffentlich trotzdem nicht ganz so traurig …
+You probably already know how our programming workshops work from the other blog articles. If not, then you should definitely read them! But back to soldering. The ten free places were quickly booked up and eight lucky children made it to our workshop. The two who didn't make it were hopefully not quite so sad ...
 
-![](/images/cms/loetworkshop_the_team.png "allen geht ein Licht auf :)")
+![](/images/cms/loetworkshop_the_team.png "a light goes on for everyone :)")
 
-Was genau wurde nun gelötet? Tatsächlich konnten die Kids aus verschiedenen Kits wählen, die alle durch Batterien angesteuerte LEDs enthielten, aber unterschiedliche Dinge darstellten, darunter ein Schmetterling oder auch eine Katze. Zwei Kinder haben sich sogar an LED-Würfel gewagt, für die man äußerst ruhige Hände benötigt.
+So what exactly was soldered? In fact, the kids were able to choose from various kits, all of which contained battery-powered LEDs but depicted different things, including a butterfly or a cat. Two children even dared to try their hand at LED cubes, which require extremely steady hands.
 
-Das Ziel des Workshops war es, den Umgang mit Lötkolben kennenzulernen – das richtige Festhalten (nicht zu weit unten!), die Anwendung verschiedener Methoden, zum Beispiel mit oder ohne Pinzette, sowie letztendlich die LEDs zum Leuchten zu bringen. Diese Ziele wurden erreicht und noch mehr, denn auch die Augen unserer Schützlinge leuchteten mindestens genau so hell wie die LEDs ihrer Kunstwerke, die sie am Ende sogar mit nach Hause nehmen durften.
+The aim of the workshop was to learn how to use soldering irons - how to hold them properly (not too far down!), how to use different methods, for example with or without tweezers, and finally how to make the LEDs light up. These goals were achieved and even more, because the eyes of our protégés shone at least as brightly as the LEDs of their works of art, which they were even allowed to take home with them at the end.
 
-Ihr habt jetzt selbst Lust, an diesem Workshop teilzunehmen oder euer Kind hinzuschicken? Dann meldet euch für unseren Newsletter an oder behaltet unsere Socialmedia-Seiten im Auge, denn nächstes Jahr wird es wieder Lötworkshops im xHain geben. Natürlich kostenlos.
+Would you now like to take part in this workshop yourself or send your child? Then sign up for our newsletter or keep an eye on our social media pages, because next year there will be more soldering workshops at xHain. Free of charge, of course.
 
-Bis bald!
+See you soon!
 
-Euer CoderDojo-Team
+Your CoderDojo team

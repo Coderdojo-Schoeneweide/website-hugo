@@ -1,5 +1,5 @@
 ---
-title: Die Erfahrungen aus einem Semester beim CoderDojo Schöneweide
+title: Experiences from a semester at CoderDojo Schöneweide
 date: 2023-02-15T15:56:34.756Z
 categories:
   - Bericht
@@ -9,25 +9,25 @@ authors:
   - Karsten Fankhänel
 draft: false
 ---
-In den folgenden Zeilen möchte ich meine Eindrücke vom CoderDojo Schöneweide darstellen, welche ich über das Wintersemester 22/23 erhalten habe. 
-Ich selbst bin Student an der HTW und bin zum CoderDojo über die Auswahlliste der AWE Module der HTW gelangt. 
+In the following lines, I would like to share my impressions of CoderDojo Schöneweide, which I received during the winter semester 22/23.
+I myself am a student at the HTW and came to the CoderDojo via the selection list of the HTW's AWE modules.
 
-Meine ersten Eindrücke waren einige wirklich freundliche Menschen, welche enthusiastisch und mit Freude bei der Sache sind. 
-Neben der Arbeit an den wohl überlegten Workshops passiert hier viel hinter den Kulissen.
-Diese Eindrücke, welche ich hier schildern möchte, sind eben einige dieser verborgenen Aktivitäten, welche sich in schöne Erfahrungen für Kinder und auch Mitglieder des CoderDojos verwandeln. 
+My first impressions were of some really friendly people who are enthusiastic and enjoy what they do.
+As well as working on the well thought out workshops, there is a lot going on behind the scenes here.
+The impressions I want to share here are just some of those hidden activities that turn into wonderful experiences for children and CoderDojo members alike.
 
-Die Schulungen und Hilfestellungen von den erfahreneren Mitgliedern werden regelmäßig über Weiterbildungen und Leitfäden an die Neulinge weitergegeben. 
-Dies machte den Einstieg leicht und hinteließ auch ein positives Gefühl gut aufgenommen worden zu sein. 
-Gerade für die Zusammenarbeit sind die regelmäßigen Treffen eine wirklich hilfreiche Anlaufstelle.
+The training and support from the more experienced members is regularly passed on to the newcomers via further training and guidelines.
+This made it easy to get started and also left a positive feeling of having been well received.
+The regular meetings are a really helpful point of contact, especially when it comes to working together.
 
-Die Aufgabe, die dieses Semester von mir bearbeitet wurde, bezog sich auf ein Video in dem sich das CoderDojo selbst vorstellt. 
-Mein Beitrag war das Erstellen und Einsprechen des Textes für dieses Video. 
-Neben Spaß, den wir hatten, wurde mir bewusst wie oft ein Satz wiederholt werden muss, bis er so klingt wie gewünscht. 
+The assignment I was given this semester was for a video in which the CoderDojo introduces itself.
+My contribution was to create and record the text for this video.
+In addition to the fun we had, I realized how often a sentence has to be repeated until it sounds the way it should.
 
-Die Mitarbeit beim CoderDojo Schöneweide lässt sich empfehlen, wenn man sich selber Ziele setzt und an diesen festhält. 
-Die Möglichkeiten zu helfen sind so verschieden wie zahlreich. 
+Working at CoderDojo Schöneweide can be recommended if you set yourself goals and stick to them.
+The opportunities to help are as varied as they are numerous.
 
-Ich hoffe als Stimme beim CoderDojo Schöneweide eine Weile weiter zu bleiben und danke den Mitgliedern für die Möglichkeit mich selbst auszuprobieren.
+I hope to remain a voice at CoderDojo Schöneweide for a while and thank the members for giving me the opportunity to try things out for myself.
 
-Bleibt alle mit eurer Begeisterung dabei,
+Keep up your enthusiasm, everyone,
 Karsten

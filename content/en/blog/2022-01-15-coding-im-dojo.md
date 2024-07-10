@@ -13,23 +13,23 @@ authors:
   - Markus
   - Philipp
 ---
-Um gleich mit einem guten Auftakt ins neue Jahr zu starten fand am 15.01. das erste Coding im Dojo des Jahres statt. Wie bei jedem Coding im Dojo steht das Machen und die Kreativät im Fokus. Alle Teilnehmer:innen können mit eigenen Themen zu uns kommen und die Mentor:innen bemühen sich mit Rat und Tat eure Projekte zu fördern und euch beim Entwickeln und Tüfteln zu unterstützen 🧑‍🏫.
+To get the new year off to a good start, the first Coding im Dojo of the year took place on January 15. As with every Coding im Dojo, the focus is on making and creativity. All participants can come to us with their own topics and the mentors will endeavor to support your projects in word and deed and help you develop and tinker 🧑‍🏫.
 
-An diesem "Coding im Dojo" konnten die Kinder sowohl vor Ort oder auch Online über BigBlue-Button teilnehmen.
-Aufgrund der Erfahrungen unser Mentor:innen mit dem Tool lief die Integration der Online-Teilnehmer:innen auch völlig reibungslos ab.
+The children were able to take part in this “Coding in the Dojo” either on site or online via BigBlue-Button.
+Thanks to our mentors' experience with the tool, the integration of online participants went very smoothly.
 
-![](/images/cms/coding_im_dojo_22_01_15_mentor_innen.gif "Einführungspräsentation durch unsere Mentor:innen")
+![](/images/cms/coding_im_dojo_22_01_15_mentor_innen.gif "Introductory presentation by our mentors")
 
-Natürlich darf eine Einführung in die Thematik nicht fehlen, weshalb wir zu Beginn eines jeden Coding im Dojo immer mögliche Projektthemen vorstellen, die ihr euch dann gemeinsam mit uns anschauen könnt. So ist für jeden etwas dabei, ob ihr nun das erste Mal daran teilnehmt oder schon ein erfahrener Ninja seid 🥷.
+Of course, an introduction to the topic is essential, which is why we always present possible project topics at the beginning of each Coding in the Dojo, which you can then look at together with us. So there's something for everyone, whether you're taking part for the first time or are already an experienced ninja 🥷.
 
-![](/images/cms/coding_im_dojo_22_01_15_mbot.png "mBot zum Anfassen und Ausprobieren")
+![](/images/cms/coding_im_dojo_22_01_15_mbot.png "mBot for touching and trying out")
 
-Bei diesem Coding im Dojo reichten die Themen von der Programmierung eines selbstfahrenden mBot Roboters, der Entwicklung von Spielen und Rätseln in Scratch, über das Bauen von logischen Schaltungen in Minecraft, bis hin zum Programmieren eines eigenen Chat Bots für Discord. Somit wieder ein buntes Potpourri, wo für jeden das Passende dabei ist.
+At this Coding in the Dojo, the topics ranged from programming a self-propelled mBot robot, developing games and puzzles in Scratch, building logic circuits in Minecraft, to programming your own chat bot for Discord. Once again, a colorful potpourri with something for everyone.
 
-![](/images/cms/coding_im_dojo_22_01_15_projects.png "Die bearbeiteten Projekte: mBot, Scratch Spiel, Discord Chat Bot, Minecraft Redstone")
+![](/images/cms/coding_im_dojo_22_01_15_projects.png "The projects worked on: mBot, Scratch game, Discord Chat Bot, Minecraft Redstone")
 
-Am Ende durften alle nochmal ihre Ergebnisse präsentieren und damit auch gegebenfalls den anderen Teilnehmer:innen Anregungen geben.
+At the end, everyone was allowed to present their results again and give the other participants suggestions where appropriate.
 
-Schlussendlich war auch dieses Mal der Workshop vollgepackt mit Spaß, Neugierde und smarten Ideen. Egal wofür ihr euch interessiert, wenn ihr euch ebenfalls mehr mit der Welt der Informatik beschäftigen wollt, einfach mal bei einem Workshop dabei sein möchtet oder Hilfe bei eurer eigenen Umsetzung benötigt, ...
+In the end, the workshop was once again packed with fun, curiosity and smart ideas. No matter what you are interested in, if you also want to get more involved in the world of computer science, simply want to take part in a workshop or need help with your own implementation, ...
 
-![](/images/cms/coding_im_dojo_22_01_15_fenja.png "Wir freuen uns auf euch und eure Projekte ✌️")
+![](/images/cms/coding_im_dojo_22_01_15_fenja.png "We look forward to seeing you and your projects ✌️.")

@@ -1,5 +1,5 @@
 ---
-title: Sommer, Sonne, Spiele! Ein Erlebnisbericht
+title: Summer, sun, games! An experience report
 date: 2021-08-05T13:00:00+0100
 categories:
   - berichte
@@ -16,23 +16,23 @@ tags:
 authors:
   - Fenja
 ---
-Mitten in den Sommerferien hat am Donnerstag die Sonne zwar nur ab und zu durch die Wolken geschaut, Spaß am Spiele Programmieren gab es dafür ohne Ende.\
+In the middle of the summer vacations, the sun only peeked through the clouds from time to time on Thursday, but there was no end of fun programming games.\
 {{< figure width="90%" src="images/Picknick.jpeg" title="Programmieren unter freiem Himmel - ein erster Eindruck" >}}
 
-![](/images/cms/juli-workshop_picknick.jpeg "Programmieren unter freiem Himmel - ein erster Eindruck")
+![](/images/cms/juli-workshop_picknick.jpeg "Open-air programming - a first impression")
 
-Unter freiem Himmel in entspannter Picknick-Atmosphäre konnten sich alle Teilnehmende endlich mal persönlich austauschen. Erstmal kennenlernen war zwar etwas ungewohnt für alle, aber schließlich kam doch jede:r zu Wort (auch die Eltern! :)), um von seinen oder ihren Ferienerlebnissen zu erzählen. 
+Under the open sky in a relaxed picnic atmosphere, all participants were finally able to talk to each other in person. It was a bit unusual for everyone to get to know each other first, but eventually everyone had their say (including the parents! :)) to talk about their vacation experiences.
 
-Dann ging’s auch schon los an die Holztische, vor den Laptop und jede:r stürzte sich ins selbst Entwickeln mit Scratch. Während die teilnehmenden Kinder ihren kreativen Ideen freien Lauf ließen, hatten sie immer die Möglichkeit sich Hilfe und Anregungen von ihren Eltern, jüngeren Geschwistern oder den Mentor:innen zu holen.
+Then it was off to the wooden tables, in front of the laptops, and everyone threw themselves into developing with Scratch. While the participating children gave free rein to their creative ideas, they always had the opportunity to get help and suggestions from their parents, younger siblings or the mentors.
 
-|                                                                  |                                                              |                                                              |
-| ---------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](/images/cms/juli-workshop_weltraumkatze.png "Weltraumkatze") | ![](/images/cms/juli-workshop_beatboxing.png "Ball im Park") | ![](/images/cms/juli-workshop_panzer.png "Panzer-Labyrinth") |
+|                                                                 |                                                              |                                                              |
+| --------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](/images/cms/juli-workshop_weltraumkatze.png "Spacecat") | ![](/images/cms/juli-workshop_beatboxing.png "Ball in the park") | ![](/images/cms/juli-workshop_panzer.png "Tank labyrinth") |
 
-Auf diese Weise kamen die unterschiedlichsten Projekte zustande, von denen nicht alle wirklich was mit dem “perfekten Sommer” zu tun hatten. Das Video mit der Weltraumkatze, die mit der Erde kommuniziert, zum Beispiel, der Clip mit den zwei Menschen, die vor der Beatbox Ball spielen und das Panzer-Labyrinth.
+This resulted in a wide variety of projects, not all of which really had anything to do with the “perfect summer”. The video with the space cat communicating with the earth, for example, the clip with the two people playing ball in front of the beatbox and the tank maze.
 
-Um in der Abschlussrunde jedes Projekt vorstellen zu können, gab es einen großen Bildschirm, an dem jede:r sich getraut hat, die eigene Leistung zu präsentieren. Die Teilnehmenden haben hier auch begeistert die Chance genutzt, den Panzer selbst durch’s Labyrinth zu steuern. 
+In order to be able to present each project in the final round, there was a large screen on which everyone had the courage to present their own work. The participants also enthusiastically took the opportunity to steer the tank through the maze themselves. 
 
-![](/images/cms/juli-workshop_abschluss.jpeg "Abschlussrunde vor dem großen Bildschirm")
+![](/images/cms/juli-workshop_abschluss.jpeg "Final round in front of the big screen")
 
-Uns hat dieser live Workshop viel Spaß gebracht, wir konnten die Teilnehmenden insgesamt gut unterstützen und sind begeistert von den Ergebnissen! Wir freuen uns auf die nächste gemeinsame Programmier-Runde.
+We had a lot of fun at this live workshop, we were able to support the participants well overall and are delighted with the results! We look forward to the next round of programming together.

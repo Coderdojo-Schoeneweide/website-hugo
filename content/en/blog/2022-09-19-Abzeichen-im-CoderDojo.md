@@ -1,5 +1,5 @@
 ---
-title: Abzeichen im CoderDojo
+title: Badges in CoderDojo
 date: 2022-09-19T10:00:00+0100
 categories:
   - berichte
@@ -11,19 +11,19 @@ tags:
 authors:
   - Marlón
 ---
-Heutzutage findet man in vielen Lernplattformen oder Lern-Apps, Abzeichen oder Trophäen-Systeme. Sie sollen Lernbegeisterte wie zum Beispiel Kinder motivieren, um so Spaß und Lernfortschritte zu fördern. Ich habe mich der Frage gestellt, inwiefern Abzeichen und Trophäen-Systeme Kinder fördern können, programmieren zu lernen und wie diese den Spaß und die Eigenmotivation eines Kindes beeinflussen.
+Today you can find badges or trophy systems in many learning platforms or learning apps. They are designed to motivate learning enthusiasts such as children, for example, in order to promote fun and learning progress. I asked myself to what extent badges and trophy systems can encourage children to learn programming and how they influence a child's fun and self-motivation.
 
-![](/images/cms/abzeichen_im_dojo_research_badges_im_coderdojo_1.png "Abzeichen Forschung")
+![](/images/cms/abzeichen_im_dojo_research_badges_im_coderdojo_1.png "Research badge")
 
-Hierfür habe ich mich zunächst mit Forschungsarbeiten zum Thema „Verwendung von Abzeichen in der Bildung“ beschäftigt. Um meine Studie auf unseren CoderDojo und die Kinder zu beziehen, habe ich Erfahrungen aus unserem Coding im Dojo Workshop miteinbezogen.
-So stellte sich auch schnell heraus, dass sich Scratch als erste Umgebung für Überlegungen zur Gestaltung von Abzeichen eignet. Ich habe mir also die Funktionen von Scratch genauer angeschaut, um herauszufinden inwiefern Abzeichen hier eingebunden werden können. Herausgekommen ist zunächst eine riesiger Funktionsbaum – was man alles mit Scratch machen kann.
+To do this, I first looked at research on the use of badges in education. In order to relate my study to our CoderDojo and the children, I incorporated experiences from our Coding in the Dojo workshop.
+It quickly became clear that Scratch was a suitable initial environment for thinking about badge design. So I took a closer look at the functions of Scratch to find out to what extent badges can be integrated here. The result was a huge function tree - everything you can do with Scratch.
 
 ![Funktionsbaum von Scratch](/images/cms/abzeichen_im_dojo_research_badges_im_coderdojo_2.png)
 
-Wie man in dem Funktionsbaum erkennen kann, ist der Funktionsumfang von Scratch riesig. Insbesondere deswegen, weil sich die Codeblöcke in Scratch individuell kombinieren lassen, um zahlreiche Möglichkeiten zu erzeugen. 
-Das ist jedoch gleichzeitig eine Herausforderung für Abzeichen und Trophäen-Systeme, da bestimmte Voraussetzungen erfüllt werden müssen, um ein Abzeichen zu erhalten. Kinder würden also, anstatt die riesige Kombinationsmöglichkeit in Scratch auszuprobieren, eher vordefinierte Kombinationen nutzen, die mit Abzeichen honoriert werden.
+As you can see from the function tree, the range of functions in Scratch is huge. Especially because the code blocks in Scratch can be combined individually to create numerous possibilities.
+However, this is also a challenge for badges and trophy systems, as certain requirements must be met in order to receive a badge. So instead of trying out the huge combination possibilities in Scratch, children would rather use predefined combinations that are rewarded with badges.
 
-Als Ergebnis meiner kleinen Studie kam ich somit zu dem Entschluss, dass wir im CoderDojo zunächst keine Abzeichen oder Trophäen-Systeme im CoderDojo einführen sollten.
+As a result of my small study, I came to the conclusion that we should not introduce any badges or trophy systems in CoderDojo for the time being.
 
-Aus der Sicht des CoderDojos möchten wir Kinder fürs Programmieren begeistern, aber sie sollen aus eigener Motivation und Freude programmieren wollen und sich für die Themen interessieren. Abzeichen oder Trophäen-Systeme motivieren Kinder zunächst durch Belohnungen und Erfolge. So möchten wir aber, dass Kinder Spaß und Freude am Prozess des Programmierens haben und so durch das Programmieren an sich motiviert werden.
-Mir hat die kleine Studie gezeigt, dass sich Kinder am ehesten fürs Programmieren begeistern lassen, wenn man ihnen zeigt, was man alles mit Programmieren machen kann. So können Kinder selbst neugierig auf Programmieren und Computer werden.
+From CoderDojo's point of view, we want to get children excited about programming, but they should want to program out of their own motivation and enjoyment and be interested in the topics. Badges or trophy systems initially motivate children through rewards and successes. However, we want children to have fun and enjoy the process of programming and thus be motivated by the programming itself.
+The small study showed me that children are most likely to get excited about programming if you show them what you can do with programming. In this way, children can become curious about programming and computers themselves.

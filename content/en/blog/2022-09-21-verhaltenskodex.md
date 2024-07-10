@@ -1,25 +1,26 @@
 ---
-title: "Unser Verhaltenskodex"
+title: "Our code of conduct"
 date: 2022-09-21T17:15:11+02:00
 categories: [berichte]
 tags: [verhaltenskodex, code of conduct, happiness]
 authors: [Luis]
 ---
 
-Wir haben uns in letzter Zeit ein paar Gedanken darüber gemacht, wie wir unser gemeinsames Miteinander im Team des
-CoderDojo sowie in Workshops und anderen von uns ausgerichteten Veranstaltungen gestalten wollen. Das Ergebnis davon
-haben wir in unserem neuen Verhaltenskodex (englisch: Code of Conduct) festgehalten!
+We have recently given some thought to how we want to organize our cooperation in the team of the
+CoderDojo team as well as in workshops and other events we organize. The result of this
+have been recorded in our new Code of Conduct!
 
-Unser Verhaltenskodex besteht aus drei Teilen: Allgemeine Verhaltensgrundsätze, Verhalten gegenüber Teamkolleg:innen und
-Verhalten gegenüber Kindern und Jugendlichen. Der allgemeine Teil definiert Regelungen, die wir uns im Umgang
-untereinander wünschen. Dazu gehört zum Beispiel respektvolles Verhalten, ein konstruktiver Umgang mit Fehlern und
-Diversität in Wort und Tat. Im Team-Part legen wir besonders Wert auf klare und offene Kommunikation untereinander sowie
-selbstständiges Arbeiten. In der Arbeit mit Kindern und Jugendlichen ist uns ein verantwortungsvoller Umgang besonders
-wichtig. Wir wollen die Rechte der Kinder und Jugendlichen achten und ihre individuellen Grenzen respektieren. Außerdem
-wollen wir als positive Vorbilder dienen und sie in ihrer Entwicklung fördern.
+Our Code of Conduct consists of three parts: General principles of conduct, conduct towards team colleagues and
+Behavior towards children and young people. The general part defines rules that we would like to see in our dealings
+with each other. This includes, for example, respectful behavior, dealing constructively with mistakes and
+diversity in word and deed. In the team part, we place particular emphasis on clear and open communication with each other and
+independent work. When working with children and young people, a responsible approach is particularly important to us.
+important to us. We want to respect the rights of children and young people and their individual boundaries. Furthermore
+we want to serve as positive role models and encourage them in their development.
 
-Mit diesem Kodex erhoffen wir uns, unser gemeinschaftliches Miteinander für alle angenehm zu gestalten und unsere Events
-zu einem tollen Erlebnis zu machen.
+With this code, we hope to make our communal interaction pleasant for everyone and to make our events a great experience.
+a great experience.
 
-Falls ihr gerne einmal in die vollständige Fassung des Kodex schauen möchtet, findet ihr diesen nun natürlich auch
-[hier auf unserer Website](/docs/code-of-conduct.pdf).
+If you would like to have a look at the full version of the code of conduct, you can now of course also find it
+[here on our website](/docs/code-of-conduct.pdf).
+

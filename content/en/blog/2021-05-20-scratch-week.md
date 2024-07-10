@@ -13,30 +13,30 @@ tags:
 authors:
   - Bruno
 ---
-Pünktlich zur [Scratch Week](https://sip.scratch.mit.edu/scratchweek/) haben wir am 20.05.2021 einen Workshop durchgeführt, bei
-dem Kinder mithilfe von Scratch eigene Projekte verwirklichen konnten. Teilgenommen haben 8 Schüler:innen unterschiedlichen Alters
-sowie 4 Mentor:innen, die den Workshop organisiert und geleitet haben. Das Thema des Workshops war "Magical Arcade", also "Magische Spielhalle".
-Ein Thema an dem sich die Kinder orientieren konnten und das sehr viel Spielraum für Ideen gab.
+Just in time for [Scratch Week](https://sip.scratch.mit.edu/scratchweek/), we held a workshop on 20.05.2021 in which
+where children could realize their own projects with the help of Scratch. 8 pupils of different ages took part
+and 4 mentors who organized and led the workshop. The theme of the workshop was “Magical Arcade”.
+A theme that the children could use as a guide and that gave them plenty of scope for ideas.
 
-![](/images/cms/scratch-week_moinmoin.png "\"Moin Moin\" sagt der Käfer")
+![](/images/cms/scratch-week_moinmoin.png "\“Moin Moin\” says the beetle")
 
-Zu Beginn des Workshops stellten sich die Mentor:innen vor, damit die Teilnehmer:innen wussten wen man fragen konnte, falls etwas unklar sein sollte.
-Anschließend wurden zwei Gruppen gebildet. In den Gruppen ging es erst mal darum, sich gegenseitig kennenzulernen. Interessant wurde der Workshop gerade
-dadurch, dass Teilnehmer:innen mit unterschiedlichem Vorwissen teilnahmen. Einige hatten schon viele Projekte gemacht und kannten sich sehr gut mit Scratch aus,
-während Andere zum ersten mal dabei waren. Bevor es dann endlich los gehen sollte, gab es noch eine kurze Einführung in Scratch, sodass sich alle grundlegend
-orientieren konnten.
+At the beginning of the workshop, the mentors introduced themselves so that the participants knew who to ask if anything was unclear.
+Two groups were then formed. The first thing the groups did was to get to know each other. The workshop was particularly interesting
+by the fact that the participants had different levels of prior knowledge. Some had already done many projects and were very familiar with Scratch,
+while others were taking part for the first time. Before we finally got started, there was a short introduction to Scratch so that everyone could get their bearings.
+orientation.
 
-![](/images/cms/scratch-week_merlin.png "Merlins Mission")
+![](/images/cms/scratch-week_merlin.png "Merlin's mission")
 
-Die Ansätze der Teilnehmer:innen waren unterschiedlichster Natur. Es gab kurze Geschichten, in denen Fabelwesen sich kennenlernten oder in denen man den Alltag
-einer richtigen Hexe miterleben konnte, genauso wie kleine Spiele, in denen Magier gegen Drachen kämpften oder Raumschiffe Asteroiden ausweichen mussten.
+The participants' approaches were very diverse. There were short stories in which mythical creatures got to know each other or in which you could experience the everyday life
+of a real witch, as well as small games in which magicians fought dragons or spaceships had to avoid asteroids.
 
-![](/images/cms/scratch-week_lilly.png "Die Hexe Lilly")
+![](/images/cms/scratch-week_lilly.png "Lilly the witch")
 
-Gegen Ende des Workshops versammelten wir uns noch einmal in einer großen Runde und zeigten uns gegenseitig unsere Projekte. Wirklich gefreut hat uns wie die
-Teilnehmer:innen auf die Ergebnisse der anderen reagierten. Gerade den Teilnehmer:innen, die noch nicht so viel Erfahrung mit Scratch hatten wurde Mut gemacht.
+Towards the end of the workshop, we gathered again in a large group and showed each other our projects. We were really pleased with how the
+participants reacted to each other's results. Especially the participants who didn't have much experience with Scratch were encouraged.
 
-![](/images/cms/scratch-week_raumschiff.png "Das Raumschiff Spiel")
+![](/images/cms/scratch-week_raumschiff.png "The spaceship game")
 
-Wir hatten im Vorfeld überlegt, ob wir eine kurze Evaluationsfrage stellen, die sich dann aber erübrigte, da die Kinder von sich aus schon meinten, dass es ihnen
-Spaß gemacht hatte. Das hat uns natürlich sehr gefreut.
+We had considered asking a short evaluation question beforehand, but this was not necessary as the children said that they had enjoyed it.
+had enjoyed it. Of course, we were very pleased about that.

@@ -1,5 +1,5 @@
 ---
-title: Deine eigene Lense
+title: Your own lens
 date: 2021-08-20T15:00:00+0100
 categories:
   - berichte
@@ -12,24 +12,24 @@ tags:
 authors:
   - Lara
 ---
-Am Freitag, 20.08.2021, haben drei Mentor:innen einen Workshop zum Thema "Deine eigene Lense" durchgeführt. 
-Am Workshop nahmen vier Kinder und ihre Eltern teil.
+On Friday, 20.08.2021, three mentors held a workshop on the topic of “Your own Lense”.
+Four children and their parents took part in the workshop.
 
 ![](/images/cms/deine-eigene-lense_foto1.jpg)
 
-Bei unserem Workshop war die Idee, dass die Kinder mit der App "Pocket Code" ihre eigenen Foto-Filter programmieren und dabei Spaß haben. 
-Am Anfang haben wir eine kleine Vorstellungsrunde gemacht, um warm zu werden. Dann haben wir ein Spiel gespielt, in dem wir Mentor:innen in 
-jeder Runde ein Thema vorgegeben haben, und die Kinder dann dazu passend in kurzer Zeit einen Foto-Filter auf Papier entworfen haben.
+The idea for our workshop was for the children to program their own photo filters with the “Pocket Code” app and have fun doing so.
+At the beginning, we did a short round of introductions to warm up. Then we played a game in which we mentors set a topic for each round.
+each round, and the children then designed a matching photo filter on paper in a short space of time.
 
 ![](/images/cms/deine-eigene-lense_foto2.jpg)
 
-Nachdem die Kinder vier verschiedene Filter-Ideen gemalt hatten, ging es mit der Programmierung los. Wir haben Anleitungen verteilt, wie man
-einen eigenen Filter mit Pocket Code programmieren kann. Die Kinder hatten die Möglichkeit, der Anleitung zu folgen, aber sich auch selbst
-auszuprobieren. Die Mentor:innen haben die Kinder und ihre Eltern dabei unterstützt und motiviert.
+After the children had drawn four different filter ideas, we started with the programming. We handed out instructions on how to program
+program your own filter with Pocket Code. The children had the opportunity to follow the instructions, but also to try it out for themselves.
+try it out for themselves. The mentors supported and motivated the children and their parents.
 
 ![](/images/cms/deine-eigene-lense_foto3.jpg)
 
-Am Ende hatten wir die "Show Time", bei der alle Mentor:innen, Kinder und Eltern die Möglichkeit hatten, ihre Projekt vorzustellen und auch zu 
-sagen, was gut lief und was hätte besser sein können.
+At the end, we had “show time”, where all mentors, children and parents had the opportunity to present their project and also to say what went well and what could have been better.
+what went well and what could have been better.
 
-Die Übersicht über die Inhalte dieses Workshops und die Anleitungen für iOS und Android sind unter [workshops > Foto-Filter-App](https://coderdojo-schoeneweide.github.io/workshops/pocketcode-gesichtserkennung/) zu finden.
+The overview of the contents of this workshop and the instructions for iOS and Android can be found at [workshops > Photo filter app](https://coderdojo-schoeneweide.github.io/workshops/pocketcode-gesichtserkennung/) zu finden.

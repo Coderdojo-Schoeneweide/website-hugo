@@ -1,5 +1,5 @@
 ---
-title: FEZ Phänomenien Workshop
+title: FEZ Phenomena Workshop
 date: 2021-10-25T22:24:46+02:00
 categories:
   - berichte
@@ -16,32 +16,33 @@ tags:
 authors:
   - Dominic
 ---
-Es sind Herbstferien in Berlin und das FEZ Berlin lud Kinder und deren Familien ein um zu Staunen, zu Forschen und zu 
-Spielen. Langweilig sollten die Herbstferien nicht sein. Auch wir vom CoderDojo Schöneweide waren mit 2 ehrenamtlich 
-veranstalteten Workshops vor Ort. Unsere tatkräftigen Mentor:innen spielten und programmierten zusammen mit den Kindern 
-kleine quirlige Dash Roboter, die man mit einem Tablet bedienen konnte.
+
+It's the fall vacations in Berlin and the FEZ Berlin invited children and their families to marvel, explore and play.
+play. The fall vacations were not supposed to be boring. We from CoderDojo Schöneweide were also there with 2 voluntary
+organized workshops on site. Our energetic mentors played and programmed together with the children
+small, lively Dash robots that could be operated with a tablet.
 
 ![](/images/cms/fez-phaenomenien-workshop_img0.jpg)
 
-Bei beiden Workshops gab es insgesamt 5 verschiedene Challenges (dt. Herausforderungen) zu bewältigen. Die Kinder 
-bekamen ein Klemmbrett mit einem Blatt Papier in die Hand gedrückt, auf dem die 5 verschiedenen Challenges abgebildet 
-waren. Für jede Challenge gab es 2 Aufgaben. Die kleinen Teilnehmenden bekamen pro absolvierter Aufgabe einen farbigen 
-Sticker - einen fürs Mitmachen und einen fürs Programmieren.
+There were a total of 5 different challenges to overcome at both workshops. The children
+were given a clipboard with a sheet of paper on which the 5 different challenges were illustrated.
+were shown. There were 2 tasks for each challenge. The young participants received a colored sticker for each completed task
+sticker for each completed task - one for taking part and one for programming.
 
 ![](/images/cms/fez-phaenomenien-workshop_img1.png)
 
-Zunächst aber konnten sich die Kinder etwas ausprobieren, die Steuerung mit den Dash Robotern üben und natürlich 
-auch mit den Robotern spielen. Die Mentor:innen bauten verschiedene Stationen für die Roboter auf wie beispielsweise 
-ein Fußballfeld, ein Labyrinth und vieles mehr.
+First, however, the children were able to try things out, practise controlling the Dash robots and of course
+also play with the robots. The mentors set up various stations for the robots, such as a football pitch, a maze and much more.
+a soccer field, a labyrinth and much more.
 
-Schnell packte die Kinder die Sammellust und sie wollten alle Sticker bekommen, die es pro Aufgabe zu gewinnen gab. 
-Kinder unterschiedlichen Alters versuchten ihr Glück, die kleinen Roboter zusammen mit einem:r Mentor:in zu 
-programmieren, was manchmal gar nicht so einfach war. Aber als Team meisterten fast alle Teilnehmenden die Challenges 
-und bekamen alle Sticker! Bravo!
+The children quickly got into the spirit of collecting and wanted to get all the stickers that were up for grabs for each task.
+Children of different ages tried their luck at programming the little robots together with a mentor.
+which was sometimes not so easy. But as a team, almost all participants mastered the challenges
+and got all the stickers! Bravo!
 
-Insgesamt herrschte eine entspannte, schöne und spielerische Atmosphäre. Die Kinder hatten sehr viel Spaß und die 
-Eltern konnte etwas entspannen und Fragen an die Mentor:innen stellen. Wir vom CoderDojo Schöneweide finden, dass beide 
-Workshops ein voller Erfolg waren und wir freuen uns, bald mal wieder im FEZ Berlin vertreten zu sein. Unser Dank geht 
-auch an das FEZ Berlin als diejenigen, die uns die Dash Roboter sowie die Tablets zur Verfügung stellten!
+Overall, the atmosphere was relaxed, fun and playful. The children had a lot of fun and the
+parents could relax a bit and ask questions to the mentors. We at CoderDojo Schöneweide think that both workshops
+workshops were a complete success and we look forward to being represented at the FEZ Berlin again soon. Our thanks also go
+also to FEZ Berlin for providing us with the Dash robots and tablets!
 
 ![](/images/cms/fez-phaenomenien-workshop_img2.png)

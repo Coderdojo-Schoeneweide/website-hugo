@@ -1,5 +1,5 @@
 ---
-title: Zwischen Käfern und Bauklötzen Workshop
+title: Between beetles and building blocks workshop
 date: 2021-11-24T13:00:00+0100
 categories:
   - berichte
@@ -14,28 +14,28 @@ tags:
 authors:
   - Dominic
 ---
-Wir, das CoderDojo Schöneweide, veranstalteten am 20.11.21 einen ehrenamtlichen Workshop an der HTW Berlin auf dem Campus Wilhelminenhof. 
+We, the CoderDojo Schöneweide, organized a voluntary workshop on 20.11.21 at the HTW Berlin on the Wilhelminenhof campus.
 
-Unter dem Motto “Zwischen Käfern und Bauklötzen” halfen uns unser Mariechenkäfer Kara und unsere Klemmbausteinfigur Robot Karol, die Welt der Programmierung und der Algorithmen zu verstehen. Kara und Robot Karol sind Programmierumgebungen, designt für Kinder und Jugendliche.
+Under the motto “Between Beetles and Building Blocks”, our little ladybird Kara and our brick figure Robot Karol helped us to understand the world of programming and algorithms. Kara and Robot Karol are programming environments designed for children and young people.
 
-Nach einer kurzen Einführung in Kara konnten die Kinder das Programm selbstständig kennenlernen und bedienen. Mariechenkäfer Kara kann beispielsweise Pilze verschieben oder sich auf Kleeblättern hinsetzen und diese an anderen Stellen absetzen.
+After a brief introduction to Kara, the children were able to get to know and operate the program independently. For example, Kara the ladybird can move mushrooms or sit on clover leaves and place them in other places.
 
 ![](/images/cms/zwischen-kaefern-und-blaukloetzen-workshop_dojosw_kara.jpg)
 
-Großes Interesse löste auch Robot Karol aus, mit dem die Kinder anhand von vordefinierten Anweisungen und Kontrollstrukturen die Klemmbausteinfigur bewegen konnten. Beispielsweise kann Robot Karol so programmiert werden, dass er verschiedenfarbige Ziegelsteine hinlegt und darauf läuft. Auch kann er sich im Kreis drehen oder durch ein selbst erstelltes Labyrinth laufen - vieles ist möglich und der Fantasie sind kaum Grenzen gesetzt!
+Robot Karol, with which the children were able to move the brick figure using predefined instructions and control structures, also aroused great interest. For example, Robot Karol can be programmed to lay down different colored bricks and walk on them. He can also turn in circles or run through a self-created maze - many things are possible and there are hardly any limits to the imagination!
 
 ![](/images/cms/zwischen-kaefern-und-blaukloetzen-workshop_dojosw_karol.jpg)
 
-Glücklicherweise waren genug unserer Mentor:innen vor Ort, sodass jedes Kind seine:n eigene:n Mentor:in zur Seite hatte. Denn die Kinder hatten sehr viele interessante und spannende Ideen, die sie umsetzen wollten.
+Fortunately, there were enough of our mentors on site so that each child had their own mentor. The children had lots of interesting and exciting ideas that they wanted to put into practice.
 
 ![](/images/cms/zwischen-kaefern-und-blaukloetzen-workshop_dojosw_mentor1.jpg)
 
 ![](/images/cms/zwischen-kaefern-und-blaukloetzen-workshop_dojosw_mentor2.jpg)
 
-Die zwei Stunden vergingen wie im Fluge und die Kinder setzten spannende kleine Projekte um. Gegen Ende des Workshops gab es eine kurze Showtime, bei der die Kinder ihre Projekte vorstellen konnten.
+The two hours flew by and the children created exciting little projects. Towards the end of the workshop, there was a short showtime where the children were able to present their projects.
 
-Zum Schluss gab es noch ein kleines Quiz! Wir lieben Quizze! Unsere Mentor:innen stellten Fragen und die Kinder hatten dann die Möglichkeit, ihr erlerntes Wissen im Workshop unter Beweis zu stellen. Und was sollen wir sagen? Keine Frage war für unsere jungen Teilnehmer:innen herausfordernd genug! Alle Fragen wurden fix beantwortet.
+At the end there was a little quiz! We love quizzes! Our mentors asked questions and the children then had the opportunity to put the knowledge they had acquired in the workshop to the test. And what can we say? No question was challenging enough for our young participants! All questions were answered quickly.
 
 ![](/images/cms/zwischen-kaefern-und-blaukloetzen-workshop_dojosw_quiz.jpg)
 
-Wir vom CoderDojo Schöneweide hatten sehr viel Spaß und wir freuen uns, euch bald wieder in einem unserer Workshops zu begrüßen und zu unterstützen!
+We from CoderDojo Schöneweide had a lot of fun and we look forward to welcoming and supporting you again soon in one of our workshops!

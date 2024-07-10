@@ -1,5 +1,5 @@
 ---
-title: Programmieren für den Weltraum - Astro Pi Workshop
+title: Programming for Space - Astro Pi Workshop
 date: 2021-05-03T19:24:46+02:00
 categories:
   - berichte
@@ -12,35 +12,35 @@ tags:
 authors:
   - Luis
 ---
-Der Weltraum, unendliche Weiten. Wir schreiben das Jahr 2021. Dies sind die Abenteuer junger Entwickler:innen, 
-die gemeinsam Programme schreiben, um die Arbeit der Besatzung der Internationalen Raumstation ISS zu unterstützen. 
-Dies ist Astro Pi Mission Zero!
+Space, infinite expanses. The year is 2021, and these are the adventures of young developers
+who write programs together to support the work of the crew of the International Space Station ISS.
+This is Astro Pi Mission Zero!
 
-Das Ziel des Workshops war die Entwicklung eines Programms zum Messen der aktuellen Luftfeuchtigkeit an Bord der ISS 
-und das anschließende Mitteilen dieser an die Astronaut:innen in einer personalisierten Nachricht. Hierfür kommt auf 
-der ISS ein sogenannter Astro Pi zum Einsatz: Ein kleiner Computer mit diversen Sensoren zur Messung des aktuellen 
-Raumklimas in Form von Temperatur, Luftfeuchtigkeit und Luftdruck sowie einer LED-Matrix bestehend aus acht mal acht 
-LEDs, die individuell angesteuert werden können. Um das Programm jedoch auch lokal testen zu können, haben wir einen 
-Emulator verwendet, der die Funktionalität des Astro Pis auf einer Website nachbildet.
+The aim of the workshop was to develop a program to measure the current humidity on board the ISS
+and then communicating this to the astronauts in a personalized message. For this purpose
+Astro Pi is used on the ISS for this purpose: a small computer with various sensors to measure the current
+temperature, humidity and air pressure as well as an LED matrix consisting of eight by eight LEDs that can be individually controlled.
+LEDs that can be controlled individually. However, in order to be able to test the program locally, we used an emulator
+emulator that simulates the functionality of the Astro Pi on a website.
 
-![Astro Pi zeigt einen Wassertropfen an](/images/cms/programmieren-für-den-weltraum-astro-pi-workshop_droplet.png)
+![Astro Pi shows a drop of water](/images/cms/programmieren-für-den-weltraum-astro-pi-workshop_droplet.png)
 
-Wir begannen unser Projekt mit ein paar einfachen Textausgaben auf der LED-Matrix in verschiedenen Farben und 
-verschiedenen Abspielgeschwindigkeiten, um uns mit der ungewohnten Anzeige, die etwas an alte Displays aus 
-Straßenbahnen erinnert, vertraut zu machen. Anschließend beschäftigten wir uns dann mit dem Auslesen des Sensors für 
-die Luftfeuchtigkeit. Um den Wert vom Sensor im Text verwenden zu können, mussten wir ihn zuvor noch auf eine 
-sinnvolle Anzahl an Nachkommastellen runden. Da die LED-Matrix uns auch die Möglichkeit bot, kleine Bilder anzuzeigen, 
-ließen wir den aktuellen Wert der Luftfeuchtigkeit zu guter letzt noch als passende Grafik visualisieren. Hier war 
-auch ein bisschen künstlerische Kreativität gefragt! Unsere Nachwuchs-Entwickler:innen ließen sich davon jedoch nicht 
-abschrecken und erstellten munter Bilder von Raumschiffen und Wassertropfen sowie verschiedene bunte Farbverläufe:
+We started our project with a few simple text outputs on the LED matrix in different colors and at different playback speeds.
+different colors and different playback speeds to familiarize ourselves with the unfamiliar display, which is somewhat reminiscent of old
+displays from old streetcars. We then moved on to reading out the sensor for humidity.
+humidity sensor. In order to be able to use the value from the sensor in the text, we first had to reduce it to a reasonable number of decimal places.
+to a sensible number of decimal places. As the LED matrix also gave us the option of displaying small images,
+we finally visualized the current humidity value as a suitable graphic. Here we needed
+a bit of artistic creativity was required! However, our young developers were not deterred by this and
+and cheerfully created images of spaceships and water droplets as well as various colorful gradients:
 
-![Astro Pi zeigt einen Fisch an](/images/cms/programmieren-für-den-weltraum-astro-pi-workshop_fish.png)
+![Astro Pi shows a fish](/images/cms/programmieren-für-den-weltraum-astro-pi-workshop_fish.png)
 
-Nachdem diese erste Entwicklungsphase abgeschlossen war, bekamen wir Besuch von einem CoderDojo aus Südafrika. Wir 
-tauschten uns über unseren bisherigen Fortschritt aus und die Mentees bekamen in kleinen Gruppen die Möglichkeit, 
-sich gegenseitig ihre Projekte vorzustellen. Anschließend wurden verschiedene Elemente aus allen Programmen der 
-Gruppe kombiniert und zu einem vollständigen Programm zusammengefasst. Nachdem so jede Gruppe eine individuelle 
-Lösung für das Projekt Astro Pi erstellt hatte, wurden die Programme eingeschickt und werden nun im Mai auf die ISS 
-hochgeladen und dort ausgeführt!
+After this first development phase was completed, we received a visit from a CoderDojo from South Africa. We
+discussed our progress so far and the mentees were given the opportunity to present their projects to each other in small groups,
+to present their projects to each other. Afterwards, various elements from all of the group's programs were
+group were combined to create a complete program. After each group had created an individual
+solution for the Astro Pi project, the programs were sent in and will now be uploaded to the ISS in May and executed there!
+in May and executed there!
 
-![Astro Pi zeigt einen Regenbogeb an](/images/cms/programmieren-für-den-weltraum-astro-pi-workshop_rainbow.png)
+![Astro Pi shows a rainbow](/images/cms/programmieren-für-den-weltraum-astro-pi-workshop_rainbow.png)

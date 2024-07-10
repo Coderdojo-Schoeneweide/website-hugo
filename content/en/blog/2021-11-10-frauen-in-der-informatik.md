@@ -1,85 +1,83 @@
 ---
-title:  "Frauen in der Informatik"
+title:  "Women in computer science"
 date:   2022-01-05T13:00:00+0100
 categories: [berichte]
 tags: [programmieren, informatik, frauen]
 authors: [Helene, Darlyn]
 ---
 
-Die Informatik hat ihren Ursprung bereits im 19. Jahrhundert. Begründerin dieser Wissenschaft und erste Programmiererin 
-war Ada Lovelace mit ihrem Algorithmus zum Berechnen von Bernoulli-Zahlen mit der Analytical Engine-Rechenmaschine.
-Von Beginn des Computers bis in die 1980er Jahre galt Programmieren als „typischer Frauenberuf“. Der erste elektronische
-Computer wurde 1942 übrigens zu Kriegszwecken im Auftrag der US-Armee benutzt.
-Besonders im zweiten Weltkrieg programmierten ausschließlich Frauen und das ist mittlerweile kaum zu glauben, da die 
-Informatik-Branche heutzutage nur noch einen sehr geringen Frauenanteil hat. Damals war der Ruf einer Programmiererin 
-nicht so besonders oder herausragend wie heute, sondern eher der einer modernen Sekretärin.
+Computer science has its origins in the 19th century. The founder of this science and the first female programmer
+was Ada Lovelace with her algorithm for calculating Bernoulli numbers with the Analytical Engine calculating machine.
+From the beginning of the computer until the 1980s, programming was considered a “typical female profession”. The first electronic
+computer was used in 1942 for war purposes on behalf of the US Army.
+Especially during the Second World War, only women did programming, which is now hard to believe, as the
+computer science industry today only has a very small proportion of women. Back then, the reputation of a female programmer
+was not as special or outstanding as it is today, but rather that of a modern secretary.
 
-Grace Hopper, eine Admiralin der US-Navy, setzte mit ihrer Arbeit am ersten vollelektronischen Rechner Mark I bzw. ASCC
-(Automatic Sequence Controller Calculator) einen Meilenstein der Programmiersprache. Sie hat 1952 den ersten Compiler
-(A-0) entwickelt und mit der Programmiersprache FLOW-MATIC und dem zugehörigen Compiler (1957) wesentliche Vorarbeiten 
-zur Entwicklung der Programmiersprache COBOL geleistet. Weltweite Anerkennung erlangte sie mit der Programmiersprache 
-COBOL („Common Business Oriented Language“). Diese entstand in der Frühzeit der Computerentwicklung, Ende der 
-1950er-Jahre und wird bis heute verwendet. Der Stil dieser Programmiersprache ist stark an die natürliche Sprache 
-angelehnt und dient vor allem der Programmierung kaufmännischer Anwendungen. Der US-Computer „ENIAC“, der zur Berechnung
-von ballistischen Tabellen genutzt wurde, wurde auch von sechs Frauen in den 1940er Jahren programmiert. Kathleen 
-McNulty Mauchly Antonelli, Jean Bartik, Frances Elizabeth „Betty“ Holberton, Marlyn Meltzer, Frances Spence und Ruth 
-Teitelbaum waren ab diesen Zeitpunkt als ENIAC-Frauen bekannt und wurden 1997 in die Women in Technology International
-(WITI) Hall of Fame aufgenommen. Sie waren in Aberdeen an unterschiedlichen Rechenmaschinen und in Leitungsfunktionen 
-beschäftigt gewesen. Die Frauen erhielten spezielle Einführungskurse in den gesamten Aufbau des ENIAC sowie in den 
-Umgang mit den IBM-Lochkartengeräten zur Ein/Ausgabe. Weiterhin lernten sie eine Blockdiagrammschreibweise kennen, in 
-der die jeweiligen Programme beschrieben werden sollten. Da es keinerlei Handbücher gab, mussten sie Schaltpläne der 
-Anlage lesen. Ihre Programmierdozenten waren die ENIAC-Entwickler selbst. Ebenfalls den Damen der Schöpfung zu verdanken, 
-ist die erste Landung eines Menschen auf dem Mond. Dies konnte unter anderem nur durch Programme von Entwicklerinnen wie
-Katherine Johnson oder Margaret Hamilton möglich werden. Johnson berechnete die Flugbahn der Apollo-11-Mission, Hamilton
-schrieb die Apollo-Flugsoftware. Sie gelten auch als "Apollos Frauen - Heldinnen im Hintergrund der Mondlandung".
-
-Im Jahre 1983 waren laut der US-amerikanischen National Science Foundation 37 Prozent aller IT-Studierenden in den
-Vereinigten Staaten weiblich, heute sind in den USA weniger als 20 Prozent der Absolventen in der Informatik weiblich.
-Insbesondere in den 1980er Jahren wurden viele Spiele besonders für Männer und den typischen Stereotyp-Nerd hergestellt.
-Dementsprechend kauften Familien auch eher ihren Söhnen als Töchtern Computer und „Nerdsein“ wurde somit zur Männersache.
-Doch wie sieht es heutzutage bei den weiblichen Vertreterinnen der Informatik aus?
-
+Grace Hopper, an admiral in the US Navy, set a milestone with her work on the first fully electronic calculator Mark I or ASCC
+(Automatic Sequence Controller Calculator), she set a milestone in programming language. In 1952, she developed the first compiler
+(A-0) in 1952 and, with the FLOW-MATIC programming language and the associated compiler (1957), made significant contributions to the development of the
+for the development of the COBOL programming language. She achieved worldwide recognition with the programming language
+COBOL (“Common Business Oriented Language”). This was created in the early days of computer development, at the end of the
+1950s and is still used today. The style of this programming language is strongly based on natural language
+and is primarily used for programming commercial applications. The US computer “ENIAC”, which was used to calculate ballistic
+ballistic tables, was also programmed by six women in the 1940s. Kathleen
+McNulty Mauchly Antonelli, Jean Bartik, Frances Elizabeth “Betty” Holberton, Marlyn Meltzer, Frances Spence and Ruth
+Teitelbaum were known as ENIAC women from this point on and were inducted into the Women in Technology International
+(WITI) Hall of Fame in 1997. They had been employed in Aberdeen at various computing machines and in management functions.
+had been employed in Aberdeen. The women received special introductory courses on the entire structure of the ENIAC as well as on the
+handling the IBM punched card devices for input/output. Furthermore, they were introduced to a block diagram notation method in
+in which the respective programs were to be described. As there were no manuals, they had to read the circuit diagrams of the
+read circuit diagrams of the system. Their programming instructors were the ENIAC developers themselves. Also thanks to the ladies of creation,
+the first landing of a man on the moon. This was only possible thanks to programs by female developers such as
+Katherine Johnson and Margaret Hamilton. Johnson calculated the flight path of the Apollo 11 mission, Hamilton
+wrote the Apollo flight software. They are also known as “Apollo's women - heroines behind the moon landing”.
+In 1983, according to the US National Science Foundation, 37 percent of all IT students in the United States were female.
+Today, less than 20 percent of computer science graduates in the USA are female.
+In the 1980s in particular, many games were made especially for men and the typical stereotype nerd.
+Accordingly, families were more likely to buy computers for their sons than daughters and “being a nerd” became a male thing.
+But what about the female representatives of computer science today?
 
 
-Nach dem historischen Rückblick schauen wir uns nun drei aktuelle Größen der Informatik genauer an:
+
+After the historical review, we now take a closer look at three current greats in computer science:
 
 ## Jade Raymond
 
-Jade Raymond steht wie keine andere für die Gaming Branche und hat im März 2021 das Independent-Entwicklerstudio Haven 
-gegründet.
-Die Kanadierin wurde am 28. August 1975 in Montreal geboren. In ihrer Kindheit und Jugend entwickelte sich bei ihr das 
-Interesse an Computern und insbesondere an Computerspielen. Aus diesem Hobby entstand der Wunsch selber in dieser 
-Branche tätig zu werden und  so absolvierte sie ihr Informatikstudium an der McGill Universität. Nachdem Jade Raymond 
-ihr Studium erfolgreich abgeschlossen hatte, startete sie ihre Karriere bei Sony Online Entertainment und arbeitete dort 
-als Programmiererin. Sie wirkte damals an den online Versionen von Titeln wie „Jeopardy!“ und „Trivial Pursuit“ mit. Das 
-erste Mal als Produzentin wurde sie bei „The Sims Online“ tätig. Nach ihrem Wechsel zu Ubisoft Montreal wurde sie 
-Produzentin von „Assassins Creed“ und erlangte somit auch in der Gaming Szene immer mehr Bekanntheit.
+Jade Raymond stands for the gaming industry like no other and founded the independent developer studio Haven in March 2021.
+was founded.
+The Canadian was born in Montreal on August 28, 1975. During her childhood and youth, she developed an interest
+interest in computers and computer games in particular. This hobby gave rise to the desire to work in this
+and so she completed her degree in computer science at McGill University. After Jade Raymond
+successfully completed her studies, she started her career at Sony Online Entertainment, where she worked as a programmer.
+as a programmer. At the time, she worked on the online versions of titles such as “Jeopardy!” and “Trivial Pursuit”. The
+first time she worked as a producer was on “The Sims Online”. After moving to Ubisoft Montreal, she became
+producer of “Assassins Creed” and became increasingly well-known in the gaming scene.
 
 
 
 ## Marissa Mayer
 
-Marissa Mayer wurde 2008 vom Wirtschaftsmagazin Fortune zu den 50 mächtigsten Frauen der Welt und 2009 den 
-„10 Tech Leaders of Future“ gezählt.
-Die US-Amerikanerin wurde am 30. Mai 1975 in Wisconsin geboren. Schon als Kind interessierte sich sehr für 
-naturwissenschaftliche Fächer. Sie studierte an der Stanford University und arbeitete nach ihrem Studium für das Research 
-Lab UBS. Im Jahr 1999 begann als Programmiererin und 20. Mitarbeiter:in bei Google. Dort arbeitet u.a. an Diensten wie 
-Google Search, Google Maps und Google Mail. Des Weiteren arbeitete sie bei Google in der Produktentwicklung mit Schwerpunkt 
-Google Search und wurde Vice Präsidentin. Nebenbei unterrichtete Marissa Mayer an der Stanford University Programmierung. 
-Im Jahr 2009 erhielt sie die Ehrendoktorwürde im Fachgebiet Programmierung. Schließlich wurde sie 2012 vorsitzende 
-Geschäftsführerin von Yahoo.
+Marissa Mayer was named one of the 50 most powerful women in the world by the business magazine Fortune in 2008 and one of the
+“10 Tech Leaders of Future”.
+The US-American was born on May 30, 1975 in Wisconsin. Even as a child, she was very interested in
+scientific subjects. She studied at Stanford University and worked for the UBS Research Lab after graduating.
+UBS research lab. In 1999, she joined Google as a programmer and 20th employee. There she works on services such as
+Google Search, Google Maps and Google Mail. She also worked at Google in product development with a focus on
+Google Search and became Vice President. Marissa Mayer also taught programming at Stanford University.
+In 2009, she received an honorary doctorate in programming. Finally, in 2012, she became the
+Managing Director of Yahoo.
 
-“You can be good at technology and like fashion and art. You can be good at technology and be a jock. You can be good at
-technology and be a mom. You can do it your way, on your terms.“
-
+"You can be good at technology and like fashion and art. You can be good at technology and be a jock. You can be good at
+technology and be a mom. You can do it your way, on your terms."
 
 
 ## Ina Schieferdecker
 
-Ina Schieferdecker ist Gründungsdirektorin des Weizenbaum-Instituts für die vernetzte Gesellschaft und Leiterin der 
-Abteilung „Forschung für Digitalisierung und Innovation“ im Bundesministerium für Bildung und Forschung. Die 
-Berlinerin wurde am 18. März 1967 geboren und hat in ihrer Jugend begonnen mit ersten kleineren Programmen zu experimentieren. 
-Nach ihrem Abitur studierte sie mathematische Informatik an der Humboldt-Universität Berlin. Danach forschte Ina Schieferdecker
-am International Computer Science Institute in den USA und am CRIM in Kanada. Anschließend arbeitete sie am Fraunhofer-Institut 
-für Offene Kommunikationssysteme. Ab 2003 lehrte die selbst an der Technischen Universität Berlin und leitete später die 
-dortige Fachgruppe zur Modellbasierten Entwicklung und Qualitätssicherung von softwarebasierten Systemen.
+Ina Schieferdecker is the founding director of the Weizenbaum Institute for the Networked Society and head of the
+Department “Research for Digitalization and Innovation” at the Federal Ministry of Education and Research. The
+Berlin native was born on March 18, 1967 and began experimenting with her first small programs in her youth.
+After graduating from high school, she studied mathematical computer science at the Humboldt University of Berlin. Ina Schieferdecker then carried out research
+at the International Computer Science Institute in the USA and at CRIM in Canada. She then worked at the Fraunhofer Institute
+for Open Communication Systems. From 2003, she taught at the Technical University of Berlin and later headed the
+and later headed the specialist group there for model-based development and quality assurance of software-based systems.

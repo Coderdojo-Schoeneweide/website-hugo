@@ -1,5 +1,5 @@
 ---
-title: Sagen Workshop an der Grundschule Karlshorst
+title: Myth Workshop at Karlshorst Elementary School
 date: 2023-06-16T09:25:19.056Z
 categories:
   - berichte
@@ -12,24 +12,23 @@ authors:
   - Lukas
 draft: false
 ---
-Am 17.05.2023 und 24.05.2023 waren wir an der Grundschule Karlshorst und haben zusammen mit den Schüler*innen der 6. Klasse einen Scratch Workshop zum Thema Sagen veranstaltet. 
+On 17.05.2023 and 24.05.2023 we were at the Karlshorst elementary school and organized a Scratch workshop on the topic of sagas together with the 6th grade students.
 
-Am 17.05. ging es nach einer kurzen Vorstellung direkt mit dem Roboter-Spiel los. Die Schüler*innen standen vor der schwierigen Aufgabe, unseren Roboter Ilja so zu programmieren, dass er seinen Hunger nach Toast mit Peanutbutter stillen kann. Dazu waren viele Zwischenschritte, wie das Auspacken des Toasts und das Messer in die Peanutbutter stecken, notwendig. Letzteres sorgte dafür, dass das Messer mit dem Knauf voran im Peanutbutterglas landete. Am Ende hat Ilja, nach erfolgreicher Programmierung, aber noch den Toast essen können.
+On May 17th, after a short introduction, we started directly with the robot game. The pupils were faced with the difficult task of programming our robot Ilja so that he could satisfy his hunger for toast with peanut butter. This required many intermediate steps, such as unwrapping the toast and inserting the knife into the peanut butter. The latter ensured that the knife ended up knob first in the jar of peanut butter. In the end, however, Ilya was still able to eat the toast after successful programming.
 
-Nach einer kurzen Vorstellung von Scratch legten die Schüler*innen direkt mit der Animation von eigenen Ideen und Vorstellungen los. Für manche waren es die ersten Erfahrungen mit Scratch, andere hatten schon vor dem Workshop mit Scratch programmiert.
+After a brief introduction to Scratch, the students got straight down to animating their own ideas and concepts. For some, it was their first experience with Scratch, while others had already programmed with Scratch before the workshop.
 
-![](/images/cms/gskarlshorst_sagen_workshop1.png "Sagen-Workshop 1")
+![](/images/cms/gskarlshorst_sagen_workshop1.png "Myth-Workshop 1")
 
-Die Zeit verging wie im Flug und am Ende präsentierten die Schüler*innen ihre Programme der Klasse.
+The time flew by and at the end the students presented their programs to the class.
 
-In Vorbereitung auf den zweiten Teil des Workshops hatten die Schüler*innen sich die Sage des König Midas ausgewählt und in 13 Abschnitte aufgeteilt. Außerdem haben sie die in der Erzählung vorkommenden Figuren, Requisiten und Hintergründe gezeichnet.
+In preparation for the second part of the workshop, the pupils had chosen the legend of King Midas and divided it into 13 sections. They also drew the characters, props and backgrounds that appear in the story.
 
-Am 24.05. hatten die Schüler*innen das Ziel, die Midas Sage in Scratch zu animieren. Nach der Begrüßung bildeten sich die Gruppen, die jeweils einen Teil der Sage animierten. 
+On May 24, the students had the goal of animating the Midas saga in Scratch. After the welcome, the groups were formed, each animating a part of the saga.
+![](/images/cms/gskarlshorst_sagen_workshop2.jpg "Myth-Workshop 2")
 
-![](/images/cms/gskarlshorst_sagen_workshop2.jpg "Sagen-Workshop 2")
+The self-painted figures, props and backgrounds were used for this. At the end there was another showtime in which all the groups presented their results. After putting all the sections together, a complete animation of the Midas saga was created.
 
-Dafür wurden die selbst gemalten Figuren, Requisiten und Hintergründe verwendet. Am Ende gab es wieder eine Showtime, in der alle Gruppen ihre Ergebnisse präsentierten. Nach dem Zusammenfügen aller Abschnitte ist eine komplette Animation der Midas Sage entstanden.
+![](/images/cms/gskarlshorst_sagen_workshop3.png "Midas Myth")
 
-![](/images/cms/gskarlshorst_sagen_workshop3.png "Midas Sage")
-
-Wir hatten alle sehr viel Spaß und die Sage hatte durch die selbstgezeichneten Motive auch noch eine individuelle Note.
+We all had a lot of fun and the saga also had an individual touch thanks to the self-drawn motifs.

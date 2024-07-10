@@ -1,5 +1,5 @@
 ---
-title: Unser erstes Präsenz-Dojo während der Corona-Pandemie - Ein How-To
+title: Our first presence dojo during the Corona pandemic - A how-to
 date: 2021-08-05T13:00:00+0100
 categories:
   - berichte
@@ -13,25 +13,23 @@ tags:
 authors:
   - Fenja
 ---
-Zwei Wochen vor unserem Juli-Workshop kam die Idee auf, dass es ggf. möglich ist, diesen live und outdoor zu veranstalten. Begeistert von dem Ansatz ging es aber erstmal daran, herauszufinden, welche Rahmenbedingungen gelten. Der organisatorische Aufwand ließ sich schließlich erstaunlich gut in 2 Wochen stemmen:  
+Two weeks before our July workshop, the idea came up that it might be possible to hold it live and outdoors. Enthusiastic about the idea, we first had to find out which framework conditions applied. In the end, the organizational effort was surprisingly easy to manage in 2 weeks:
 
-1. *Die Location*\
-   Im Schatten der Ende Juli schon wieder steigenden Zahlen war “draußen aber trotzdem Stromzugang” ein relevanter Schlüsselpunkt. Zufällig und spontan sind wir auf unserer Suche auf Sebastian von Remili, bzw. Einhorn gGmbH gestoßen, der sehr entgegenkommend war. Dafür nochmal ein herzliches Dankeschön! Hoffentlich können auch zukünftige Workshops unter Absprache in der Hasselwerderstr. 22A stattfinden. 
+1. *The location*\
+   In the shadow of the rising numbers at the end of July, “outside but still with access to electricity” was a relevant key point. By chance and spontaneously, we came across Sebastian from Remili, or Einhorn gGmbH, who was very accommodating. Thank you very much for that! Hopefully future workshops can also take place at Hasselwerderstr. 22A by arrangement.
 
    ![](/images/cms/erster-live-workshop_location.jpg)
-2. *Kinder- und Jugendschutzplan*\
-   Kinder- und Jugendschutz ist ein wichtiger Aspekt bei der Arbeit mit Schüler:innen. Der CoderDojo Deutschland e.V., in dem wir als CoderDojo Schöneweide Mitglied sind, arbeitet kontinuierlich an wichtigen Aspekten des Kinder- und Jugendschutzes der deutschen CoderDojos. Auch auf weltweiter Ebene gibt es entsprechende Leitfäden, nach denen wir uns richten.
-3. *[Hygienekonzept](https://coderdojo-schoeneweide.github.io/docs/hygienekonzept.pdf)*\
-   Abgesehen davon, dass sich die Hygienevorschriften mit den wechselnden Covid-19 Infektionszahlen ständig ändern, hatten wir bisher noch nicht einmal ein Muster, an dem wir uns orientieren konnten. Das ist jetzt anders! Mit Unterstützung unseres Versicherungsberaters und den Internetseiten des Landesjugendrings Berlins ist ein ausführliches Hygienekonzept entstanden, das regelmäßig an die aktuell gültigen Maßnahmen angepasst werden kann.
-4. *Material*\
-   Was wir online nicht zu Verfügung stellen können: Einen PC. Bei einem live Treffen hingegen möchten wir die Chance nutzen auch Kindern und Jugendlichen die Teilnahme zu ermöglichen, die weder eigenen Laptop noch eigenes Smartphone besitzen. Da der CoderDojo Schöneweide ausschließlich ehrenamtlich funktioniert, war bei diesem ersten Präsenz-Dojo die Auswahl allerdings auf das begrenzt, was die anwesenden Mentor:innen übrig hatten. Langfristig arbeiten wir noch an einer besseren Lösung. Außerdem hatten wir an diesem Donnerstag das Glück, dass Bruno einen großen Bildschirm mitbringen konnte, sodass die Ergebnisse der ganzen Gruppe gezeigt werden konnten.
-
+2. *Child and youth protection plan*\
+   Child and youth protection is an important aspect of working with students. CoderDojo Deutschland e.V., of which we as CoderDojo Schöneweide are a member, is continuously working on important aspects of child and youth protection for German CoderDojos. There are also corresponding guidelines at a global level, which we follow.
+3. *[Hygiene concept](https://coderdojo-schoeneweide.github.io/docs/hygienekonzept.pdf)*\
+   Apart from the fact that hygiene regulations are constantly changing with the changing Covid-19 infection figures, we didn't even have a pattern to guide us until now. That's different now! With the support of our insurance consultant and the website of the Landesjugendring Berlin, a detailed hygiene concept has been created that can be regularly adapted to the currently valid measures.
+4. material
+   What we cannot provide online: A PC. At a live meeting, however, we would like to take the opportunity to enable children and young people who do not have their own laptop or smartphone to participate. Since CoderDojo Schöneweide is run entirely on a voluntary basis, the selection at this first live dojo was limited to what the mentors present had to offer. We are still working on a better solution in the long term. On this Thursday, we were also lucky that Bruno was able to bring along a large screen so that the results could be shown to the whole group.
    ![](/images/cms/erster-live-workshop_pc-drawing.jpg)
-5. *Infrastruktur*\
-   Viel braucht es gar nicht. Toiletten sind sinnvoll. Stromanschlüsse (inklusive Verteilerleisten), da wir beim Programmieren auf elektrische Geräte angewiesen sind. Für alle Fälle sollte auch ein Erste-Hilfe-Koffer vor Ort sein. Insbesondere Internet ist kein Muss. Jeder kann Offline entwickeln und dann via USB-Stick seine Ergebnisse teilen.
+5. *Infrastructure*\
+   It doesn't take much. Toilets are useful. Power connections (including distribution boards), as we rely on electrical devices for programming. There should also be a first aid kit on site just in case. Internet in particular is not a must. Everyone can develop offline and then share their results via USB stick.
 6. *Snacks & Drinks*\
-   Gute Laune ist der wichtigste Grundpfeiler zum Erfolg! Und was kann die Laune besser retten als ausreichend Wasser und Gummibärchen? Uns ist wichtig, dass der Spaß an der Sache im Vordergrund steht.
-
+   A good mood is the most important cornerstone of success! And what can put you in a better mood than plenty of water and jelly babies? It is important to us that the focus is on having fun.
    ![](/images/cms/erster-live-workshop_snacks.jpg)
 
-Wie sah denn das nun in der Praxis aus? Unser erstes Präsenz-Dojo war ein voller Erfolg. Einen ausführlichen Erlebnisbericht findet ihr [hier](https://coderdojo-schoeneweide.github.io/blog/2021-07-29-juli-workshop/).
+So what did this look like in practice? Our first presence dojo was a complete success. You can find a detailed experience report [here](https://coderdojo-schoeneweide.github.io/blog/2021-07-29-juli-workshop/).

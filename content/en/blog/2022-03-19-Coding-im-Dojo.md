@@ -1,5 +1,5 @@
 ---
-title: Coding im März
+title: Coding in March
 date: 2022-03-19T21:00:00+0100
 categories:
   - berichte
@@ -14,16 +14,16 @@ tags:
 authors:
   - Fenja
 ---
-Trotz des schönen Wetters haben wir diesen Samstag Vormittag indoor verbracht. Diesmal sind wir ganz ohne Vorstellungsrunde direkt in unsere Projekte eingestiegen. Fast fertige Spiele wurden um neue Spielelemente erweitert. Gerade gedachte Spiele wurden neu angefangen. 
+Despite the beautiful weather, we spent this Saturday morning indoors. This time we got straight into our projects without any introductions. New game elements were added to almost finished games. Games that had just been thought up were started again.
 
 ![](/images/cms/coding_im_dojo_workinprogress.png)
 
-Wer bestimmte Spielmechaniken umsetzen möchte, findet mit Scratch genauso die perfekte Grundlage, wie Designer:innen, die ihr Augenmerk auf Charakterbildung legen oder zukünftige Autor:innen, die spielerisch ihre Geschichte erzählen. Das größte Projekt - ein Discord Chat Bot - läuft in Python. 
+If you want to implement certain game mechanics, Scratch is the perfect foundation, just like designers who focus on character development or future authors who want to tell their story in a playful way. The biggest project - a Discord chat bot - runs in Python.
 
-Das beste an unserem Treffen: Alle haben die Chance zu sehen, woran andere arbeiten! Da kommt der Austausch ganz von alleine. Welche Geschichte erzählst du? Was malst du da? Schließlich, nach der Abschlusspräsentation, "kann ich auch nochmal spielen?"
+The best thing about our meeting: Everyone has the chance to see what others are working on! The exchange comes naturally. What story are you telling? What are you drawing? Finally, after the final presentation, “can I play again?”
 
 ![](/images/cms/coding_im_dojo_praesi.jpeg)
 
-Für die einen waren die zwei Stunden genau richtig, andere hätten gerne noch mehr Zeit gehabt. Gut, dass wir uns nächsten Monat wieder zum Coding im Dojo treffen können. :)
+For some, the two hours were just right, others would have liked even more time. It's good that we can meet again next month for coding in the dojo. :)
 
 ![](/images/cms/coding_im_dojo_schluss.jpeg)

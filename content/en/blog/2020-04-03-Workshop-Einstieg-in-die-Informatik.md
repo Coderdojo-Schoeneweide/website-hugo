@@ -1,39 +1,39 @@
 ---
-title:  "Einstieg in die Informatik für Grundschüler*innen - Auch ohne Computer kann man viel lernen!"
-date:   2020-04-03T13:51:00+0100
-categories: [berichte]
+title: “Introduction to computer science for primary school pupils - you can learn a lot even without a computer!”
+date: 2020-04-03T13:51:00+0100
+categories: [reports]
 tags: [workshop, einstieg, unplugged, spiel, grundschule, programmieren, scratch, motoren]
 authors: [Linda]
 ---
-Wie sage ich einem Roboter, wie er sich ein Brötchen schmiert, im Park Müll beiseite räumt oder einen Luftballon fängt?
-Das konnte am 5. März 2020 eine sechste Klasse der Grundschule an der Wuhlheide bei unserem Workshop zum Einstieg in die
-Programmierung an der HTW herausfinden. Eine der wichtigsten Erkenntnisse aus diesem Workshop war sicherlich:
-Informatische Bildung geht mit analogen Spielen auch ohne teure technische Ausstattung!
+How do I tell a robot how to make a sandwich, clear garbage in the park or catch a balloon?
+On March 5, 2020, a sixth grade class from the Grundschule an der Wuhlheide was able to find out at our introductory programming workshop at HTW.
+programming at the HTW. One of the most important findings from this workshop was certainly
+Computer science education is possible with analog games even without expensive technical equipment!
 
-Da die Teilnehmer:innen keine Vorkenntnisse in Informatik hatten, begann der Workshop mit einer Einführung.
-Dabei haben wir überlegt, was Computer überhaupt sind, und wo überall ein Computer drin steckt.
-Es folgte ein kleines Experiment: Eine unserer Mentorinnen spielte einen Roboter, der von den Teilnehmer:innen
-Befehle entgegennahm. Ziel war es, eine Käsestulle zuzubereiten. Wenn dann die Butter auf der Unterseite des Brötchens
-verteilt wurde, statt auf der aufgeschnittenen Seite, sorgte dass nicht nur für Spaß, sondern auch die Erkenntniss,
-dass man bei Computerbefehlen wirklich ganz genau sein muss, denn der Computer macht genau das, was man befiehlt.
+As the participants had no prior knowledge of computer science, the workshop began with an introduction.
+We considered what computers actually are and where a computer can be found.
+This was followed by a small experiment: one of our mentors played a robot that took commands from the participants.
+commands from the participants. The aim was to prepare a cheese sandwich. If the butter was then spread on the underside of the roll
+instead of on the sliced side, it was not only fun, but also made the participants realize
+that you really have to be very precise with computer commands, because the computer does exactly what you tell it to do.
 
-Mit diesem ersten Aha-Moment im Gepäck nahmen die Teilnehmer:innen die nächste Herausforderung an:
-Im Rahmen eines von uns erstellten Brettspiels wurden Roboter durch einen Park manövriert um Müll aufzusammeln.
-Nebenbei verinnerlichten die Teilnehmer:innen grundlegende Programmierprinzipien: Befehlsfolgen, Schleifen,
-Parameter und Bedingungen kennenlernen. Mit diesem Wissen schaffte es am Ende sogar einige Teilnehmer:innen,
-einen einfachen Algorithmus zum automatischen Finden des Pfades durch den Park zu programmieren.
-Das Brettspiel findet ihr unter [Müll im Park.pdf](https://coderdojo-schoeneweide.github.io/docs/spiel-muell-im-park.pdf)
-zum selber basteln.
+With this first aha moment in their luggage, the participants took on the next challenge:
+As part of a board game we created, robots were maneuvered through a park to collect garbage.
+Along the way, the participants internalized basic programming principles: Instruction sequences, loops,
+parameters and conditions. With this knowledge, some of the participants even managed to
+to program a simple algorithm to automatically find the path through the park.
+You can find the board game at [Müll im Park.pdf](https://coderdojo-schoeneweide.github.io/docs/spiel-muell-im-park.pdf)
+to build it yourself.
 
-Nicht nur analog, sondern auch digital wurde programmiert. Teilnehmer:innen lernten, wie Servomotoren für
-Roboterbewegungen funktionieren und konnten einen von Studierenden der HTW konzipierten Miniaturkran zusammenbauen,
-den sie auch sogleich programmieren durften. Weiterhin konnten Teilnehmer:innen unsere kleinen Programmierrätsel lösen:
-In der Programmiersprache Scratch wurden Befehle so zusammengesteckt, dass ein Roboter einen Luftballon fangen konnte.
-Die Rätsel sind übrigens auf der [Scratch-Webseite](https://scratch.mit.edu/studios/25883413/) zu finden. Einfach ein Rätsel auswählen und
-dann auf “Schau hinein” klicken - dann kann der Programmcode bearbeitet werden.
+Programming was not only analog, but also digital. Participants learned how servomotors for robot movements
+servo motors for robot movements work and were able to assemble a miniature crane designed by HTW students,
+which they were also allowed to program straight away. Participants were also able to solve our small programming puzzles:
+In the Scratch programming language, commands were put together so that a robot could catch a balloon.
+The puzzles can be found on the [Scratch website](https://scratch.mit.edu/studios/25883413/). Simply select a puzzle and
+then click on “Look inside” - then the program code can be edited.
 
-Das CoderDojo Schöneweide hat sich im Oktober 2020 an der HTW gegründet und gehört zum [CoderDojo Deutschland e.V.](https://coderdojo-deutschland.de/).
-Wir sind ein Team von neun Studierenden und haben es uns zum Ziel gemacht, Kindern und Jugendlichen kostenlos beim
-Programmieren-Lernen zu unterstützen. Dabei setzen wir auf Interessen-basiertes, spielerisches Lernen in Gruppen
-und einen hohen Betreuungsschlüssel. Gerne beraten wir auch Lehrkräfte aller Fächer, wie Informatik in ihren
-Unterricht mit oder ohne Technik einbezogen werden kann.
+CoderDojo Schöneweide was founded at HTW in October 2020 and is part of [CoderDojo Deutschland e.V.](https://coderdojo-deutschland.de/).
+We are a team of nine students and have made it our goal to help children and young people learn to program free of charge.
+learning programming free of charge. In doing so, we focus on interest-based, playful learning in groups
+and a high supervision ratio. We are also happy to advise teachers of all subjects on how computer science can be
+lessons with or without technology.
