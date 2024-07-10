@@ -25,19 +25,19 @@
                   {{/* <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" /> */}}
                   <li class="hover:bg-slate-300 p-2">
                     <a href="{{ .Permalink }}">
-                        <img src="https://cdn-icons-png.flaticon.com/32/8281/8281549.png" alt="  ">
+                        <img src="/images/flags/usa.png" alt="  ">
                         {{ "  " | .RenderString }} English</a>
                   </li>
               {{ else if eq .Lang "de" }}
                   <li class="hover:bg-slate-300 p-2">
                     <a href="{{ .Permalink }}">
-                        <img src="https://cdn-icons-png.flaticon.com/32/5304/5304026.png" alt=" ">
+                        <img src="/images/flags/deutschland.png" alt=" ">
                         {{ "  " | .RenderString }} Deutsch</a>
                   </li>
               {{ else if eq .Lang "ar" }}
               <li class="hover:bg-slate-300 p-2">
               <a href="{{ .Permalink }}">
-                <img src="https://cdn-icons-png.flaticon.com/32/317/317358.png" alt=" ">
+                <img src="/images/flags/jemen.png" alt=" ">
                 {{ "  " | .RenderString }} العربية</a>
               </li>
               {{ end }}
