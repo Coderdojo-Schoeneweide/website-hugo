@@ -39,3 +39,8 @@
 </section>
 <script src="/js/blog.js"></script>
 {{ end }}
+
+{{ define "meta" }}
+    <meta name="description" content="{{ .Description }}" />
+    <meta name="keywords" content="{{ range $index, $element := .Params.keywords }}{{ if $index }}, {{ end }}{{ $element }}{{ end }}" />
+{{ end }}

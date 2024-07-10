@@ -1,5 +1,7 @@
 ---
 title: "Figma Prototyping Workshop: Adventskalender-App"
+description: "Entdecke unseren Figma Prototyping Workshop, bei dem Kinder im Alter von 6 bis 12 Jahren ihre eigenen Adventskalender-Apps gestalten. Lerne, wie digitale Kreativität und Design-Software wie Figma genutzt werden, um spielerisch Programmierkenntnisse zu vermitteln. Sieh dir die beeindruckenden Ergebnisse unserer Teilnehmer an und erfahre mehr über zukünftige Workshops!"
+keywords: ["Figma Workshop", "Prototyping für Kinder", "Adventskalender App", "Design-Workshops für Kinder", "Kreatives Coding", "Kinder programmieren", "Figma Prototyping", "Adventskalender Design", "Digitale Kreativität", "Programmieren lernen"]
 date: 2023-01-25T16:27:22+01:00
 categories: [berichte]
 tags: [workshop, figma, design, advent]
