@@ -19,10 +19,9 @@
 <body>
     {{ block "header.html" . }}
     <header class="site-header wrapper" role="banner">
-        <div class="abod-lang-2">
+        <div class="abod-lang">
             {{ range .Translations }}
               {{ if eq .Lang "en" }}
-                  {{/* <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" /> */}}
                   <li class="hover:bg-slate-300 p-2">
                     <a href="{{ .Permalink }}">
                         <img src="/images/flags/usa.png" alt="  ">
