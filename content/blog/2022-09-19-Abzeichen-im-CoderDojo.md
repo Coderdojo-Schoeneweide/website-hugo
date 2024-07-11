@@ -1,5 +1,7 @@
 ---
 title: Abzeichen im CoderDojo
+description: "Erfahre mehr über Abzeichen und Trophäen-Systeme im CoderDojo. Wie motivieren sie Kinder zum Programmieren? Entdecke unsere Erkenntnisse aus der Forschung."
+keywords: ["Abzeichen Trophäen-System", "Programmieren motivieren", "Scratch Umgebung", "Kinder programmieren lernen", "Eigenmotivation", "Coding im CoderDojo", "Forschungsarbeiten Bildung", "Spaß am Programmieren", "Kinderinteressen", "Computerbegeisterung"]
 date: 2022-09-19T10:00:00+0100
 categories:
   - berichte

@@ -1,5 +1,7 @@
 ---
 title: Löt Workshop
+description: "Entdecke unseren spannenden Löt Workshop mit CoderDojo. Erfahre, wie Kinder mit Batterie-LED Kits und ruhiger Hand tolle Kunstwerke schaffen und neue Fertigkeiten erlernen."
+keywords: ["Löt Workshop CoderDojo", "Lötkolben verwenden", "LED Kits Kinder", "Batteriebetriebene LEDs", "Workshop Kinder", "xHain Kooperation", "kostenloser Workshop", "Elektronik basteln", "Programmierworkshop CoderDojo", "Newsletter CoderDojo"]
 date: 2022-11-09T16:54:20+01:00
 categories:
   - berichte
