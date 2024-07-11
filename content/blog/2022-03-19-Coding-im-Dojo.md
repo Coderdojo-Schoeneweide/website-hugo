@@ -1,5 +1,7 @@
 ---
 title: Coding im März
+description: "Entdecke Coding im März beim CoderDojo: Von Scratch-Spielen bis Python Discord Bots. Tauche ein in kreative Projekte und erlebe den Austausch!"
+keywords: ["Coding im März", "Scratch Spiele", "Python Discord Bot", "Programmieren Workshop", "kreative Projekte", "Austausch", "CoderDojo", "Spielelemente"]
 date: 2022-03-19T21:00:00+0100
 categories:
   - berichte

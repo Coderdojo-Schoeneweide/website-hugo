@@ -1,5 +1,7 @@
 ---
 title: CoderDojo Schöneweide - Corporate Design
+description: "Erfahre mehr über das Corporate Design des CoderDojo Schöneweide. Gestalte mit uns eine kinderfreundliche Marke!"
+keywords: ["CoderDojo Corporate Design", "Farbpalette", "Schriftarten", "Design Manual", "kinderfreundlich", "Jugendliche", "Community", "Workshop"]
 date: 2022-01-31T21:00:00+0100
 categories:
   - berichte

@@ -1,5 +1,7 @@
 ---
 title: "Neues Format: Coding im Dojo"
+description: "Das erste 'Coding im Dojo' des Jahres fand am 15.01. statt, mit kreativen Projekten und Unterstützung durch Mentoren vor Ort und online."
+keywords: ["Coding Workshop", "Programmieren für Kinder", "Scratch", "Discord Chat Bot", "mBot Roboter", "Minecraft Schaltungen", "Online Coding", "Coding im Dojo"]
 date: 2022-01-15T13:00:00+0100
 categories:
   - berichte

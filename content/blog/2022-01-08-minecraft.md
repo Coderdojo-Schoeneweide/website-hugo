@@ -1,5 +1,7 @@
 ---
 title: Minecraft Workshop
+description: "Im Minecraft Redstone Workshop am 08.01.22 lernten Kinder im CoderDojo spielerisch das Bauen von Schaltungen und meisterten spannende Challenges."
+keywords: ["Minecraft Workshop", "Minecraft Redstone", "Kinder programmieren", "HTW Berlin", "Schaltkreise bauen", "Redstone Schaltungen", "Minecraft Challenges", "Coding Workshop", "CoderDojo Schöneweide"]
 date: 2022-01-09T13:00:00+0100
 categories:
   - berichte
