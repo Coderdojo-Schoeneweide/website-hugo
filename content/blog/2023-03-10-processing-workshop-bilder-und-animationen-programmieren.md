@@ -1,5 +1,7 @@
 ---
 title: "Processing Workshop: Bilder und Animationen Programmieren"
+description: "Processing Workshop: Kinder ab 12 Jahren entdecken Programmieren mit Text. Bilder und Animationen selbst erstellen und dabei spielerisch Programmierfähigkeiten entwickeln!"
+keywords: ["Processing Workshop", "Programmieren", "Kinder", "Bilder", "Animationen", "RGB-System", "Farblehre", "Coding", "Workshops", "Processing"]
 date: 2023-03-10T11:33:14.520Z
 categories:
   - berichte

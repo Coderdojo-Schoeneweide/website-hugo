@@ -1,5 +1,7 @@
 ---
 title: "Dezember-Workshop: Animationen mit Scratch"
+description: "Erlebe den Dezember-Workshop 'Es spricht!' und lerne Animationen mit Scratch. Teilnehmende animieren Strichfiguren."
+keywords: ["Dezember-Workshop", "Scratch Animation", "Es spricht", "Programmieren", "Kinder Workshop", "Animation lernen", "Strichfiguren", "CoderDojo Schöneweide", "Präsenz-Workshop"]
 date: 2022-11-27T00:00:00+0100
 categories:
   - berichte

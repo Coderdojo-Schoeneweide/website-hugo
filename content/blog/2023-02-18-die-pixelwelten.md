@@ -1,5 +1,7 @@
 ---
 title: FEZ - Die Pixelwelten Februar 23
+description: "Pixelwelten im FEZ: VR-Brillen basteln, PixelArt und DashBot-Roboter-Wettkämpfe. Workshops, Herausforderungen und jede Menge Spaß für Kids!"
+keywords: ["FEZ", "Pixelwelten", "VR-Brille", "PixelArt", "DashBots", "Workshops", "Roboter", "Programmieren", "Spiele", "Event"]
 date: 2023-02-27T17:10:49.941Z
 categories:
   - berichte
