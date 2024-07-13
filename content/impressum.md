@@ -1,6 +1,8 @@
 ---
 layout: "simple"
 title: "Impressum"
+description: "Erfahre mehr über das Impressum des CoderDojo Schöneweide. Hier findest du rechtliche Informationen zur Organisation und Kontaktmöglichkeiten."
+keywords: ["Impressum CoderDojo Schöneweide", "Kontakt CoderDojo Schöneweide", "rechtliche Informationen", "Kontaktadresse", "Verantwortlichkeit", "Impressumspflicht"]
 ---
 
 Angaben gemäß § 5 TMG. Zum Anzeigen der Kontaktdaten muss JavaScript aktiviert sein.
