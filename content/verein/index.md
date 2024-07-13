@@ -1,5 +1,7 @@
 ---
 title: "Verein"
+description: "Erfahren Sie mehr über den CoderDojo Schöneweide: ein eingetragener Verein mit dem Ziel der digitalen Bildung für Kinder und Jugendliche."
+keywords: ["CoderDojo Schöneweide", "eingetragener Verein", "Gemeinnützigkeit", "Mitgliedschaft", "Satzung", "Jahresberichte", "digitale Bildung", "Kinder", "Jugendliche", "Förderung"]
 ---
 
 Das CoderDojo Schöneweide ist ein eingetragener Verein. Die Gemeinnützigkeit folgt noch.
