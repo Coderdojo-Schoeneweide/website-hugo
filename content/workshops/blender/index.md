@@ -1,7 +1,7 @@
 +++
 title = "3D-Kunst mit Blender"
-description = "kurze Testbeschreibung"
-keywords = ["test, test2, test3"]
+description = "Lernen Sie im Workshop '3D-Kunst mit Blender' 3D-Modelle zu erstellen und zu animieren. Keine Vorkenntnisse nötig. Für Kinder und Jugendliche von 9 bis 17 Jahren."
+keywords = ["3D-Kunst", "Blender", "3D-Modelle", "Animation", "Kinderworkshop", "Jugendworkshop", "3D-Design", "Anfänger", "Programmieren für Kinder", "Workshop für Jugendliche"]
 duration = "2 Stunden"
 age = "9 - 17 Jahre"
 tags = ["blender", "3D", "animation"]

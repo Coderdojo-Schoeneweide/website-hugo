@@ -1,5 +1,7 @@
 +++
 title = "Dashbot Workshop"
+description = "Im Dashbot-Workshop lernen Kinder im Alter von 7-17 spielerisch das Steuern und Programmieren von Dash Robotern durch spannende Challenges. Keine Vorkenntnisse notwendig."
+keywords = ["Dashbot", "Roboter", "Programmieren", "Kinderworkshop", "Spielerisches Lernen", "Technikworkshop", "Steuerung", "Wonder App", "Challenges"]
 image = "images/dashbots.png"
 duration = "2 Stunden"
 age = "7 - 17 Jahre"
