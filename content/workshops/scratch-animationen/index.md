@@ -1,5 +1,7 @@
 +++
 title = "Storyboarding und Animationen mit Scratch"
+description = "Im Workshop 'Storyboarding und Animationen mit Scratch' entdecken Jugendliche die Welt der Animation. Keine Vorkenntnisse erforderlich!"
+keywords = ["Scratch", "Animation", "Storyboarding", "Jugendliche", "Workshop", "Grafikdesign", "Kreativität fördern", "Scratch Programmierung", "Online Workshop"]
 image = "storyboard.png"
 duration = "4 Stunden"
 age = "8 - 17 Jahre"

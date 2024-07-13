@@ -1,5 +1,7 @@
 +++
 title = "Processing"
+description = "Im Workshop 'Processing' lernen Jugendliche, Bilder und Animationen mit Java und Processing zu erstellen. Keine Vorkenntnisse notwendig. Kreativ programmieren leicht gemacht."
+keywords = ["Processing", "Java", "Animation", "Programmieren lernen", "Kinder", "Jugendliche", "Bilder generieren", "Einsteiger-Workshop", "Processing IDE"]
 duration = "2 Stunden"
 age = "12 - 17 Jahre"
 tags = ["processing", "java", "animation"]

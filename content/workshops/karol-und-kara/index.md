@@ -1,5 +1,7 @@
 +++
 title = "Zwischen Marienkäfern und Bauklötzen"
+description = "Im Workshop 'Zwischen Käfern und Bauklötzen' lernen Kinder und Jugendliche spielerisch Programmieren und Algorithmen mit Marienkäfer Kara und Robot Karol. Keine Vorkenntnisse nötig."
+keywords = ["Algorithmus", "Automaten", "Kara", "Karol", "Programmieren", "Kinder", "Jugendliche", "Technikworkshop", "Bildung", "Einführung in Programmierung"]
 duration = "2 Stunden"
 age = "7 - 17 Jahre"
 tags = ["algorithmus", "automaten", "kara", "karol"]

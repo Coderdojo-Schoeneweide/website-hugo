@@ -1,5 +1,7 @@
 +++
 title = "Haustier-App"
+description = "Im Workshop 'Haustier-App' programmieren Kinder und Jugendliche ein digitales Haustier mit OctoStudio. Lerne App-Entwicklung und erweitere deine App. Keine Vorkenntnisse nötig."
+keywords = ["Haustier-App", "OctoStudio", "App-Entwicklung", "Kinder", "Jugendliche", "Technikworkshop", "Programmieren lernen", "Digitale Haustiere", "Bildung", "Einsteiger-Workshop"]
 duration = "1,5 Stunden"
 age = "7 - 17 Jahre"
 tags = ["octostudio", "app"]

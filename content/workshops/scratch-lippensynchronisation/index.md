@@ -1,5 +1,7 @@
 +++
 title = "Es spricht!"
+description = "Im Workshop 'Es spricht!' lernen Jugendliche mit Scratch, wie sie flüssige Animationen und Lippensynchronisation für digitale Figuren gestalten können."
+keywords = ["Scratch", "Animation", "Lippensynchronisation", "Jugendliche", "Digitale Animation", "Flüssige Animation", "Tonaufnahmen", "Grafikdesign", "Online Workshop"]
 image = "lippensynchronisation.png"
 duration = "2 Stunden"
 age = "10 - 17 Jahre"

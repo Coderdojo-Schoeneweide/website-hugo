@@ -1,5 +1,7 @@
 +++
 title = "Foto-Filter-App"
+description = "Im Workshop 'Foto-Filter-App' lernen Jugendliche, wie sie mit PocketCode kreative Foto-Filter entwickeln können. Programmieren lernen leicht gemacht. Keine Vorkenntnisse nötig."
+keywords = ["Foto-Filter-App", "PocketCode", "App-Entwicklung", "Kinder", "Jugendliche", "Programmieren lernen", "Foto-Filter", "Gesichtserkennung", "Bildung", "Einsteiger-Workshop"]
 duration = "1,5 Stunden"
 age = "10 - 17 Jahre"
 tags = ["pocketcode", "app"]
