@@ -1,124 +1,168 @@
-baseURL = "https://coderdojo-schoeneweide.github.io/"
-languageCode = "de-de"
-title = "CoderDojo Schöneweide"
-theme = "coderdojoschoeneweide"
+  baseURL = "https://coderdojo-schoeneweide.github.io/"
+  languageCode = "de-de"
+  title = "CoderDojo Schöneweide"
+  theme = "coderdojoschoeneweide"
 
-defaultContentLanguage = 'de'
-defaultContentLanguageInSubdir = true
+  defaultContentLanguage = 'de'
+  defaultContentLanguageInSubdir = true
 
-[languages]
+  [languages]
 
-  [languages.de]
-    contentDir = 'content'
-    disabled = false
-    languageCode = 'de-DE'
-    languageDirection = 'ltr'
-    languageName = 'Deutsch'
-    title = 'Projekt Dokumentation'
-    weight = 1
-    [languages.de.params]
-      subtitle = 'Referenz, Tutorials und Erklärungen'
+    [languages.ar]
+      contentDir = 'content/ar'
+      disabled = false
+      languageCode = 'ar-YE'
+      languageDirection = 'rtl'
+      languageName = 'Arabisch'
+      title = 'CoderDojo Schöneweide'
+      weight = 3
 
-  [languages.ar]
-    contentDir = 'content/ar'
-    disabled = false
-    languageCode = 'ar-YE'
-    languageDirection = 'rtl'
-    languageName = 'Arabisch'
-    title = 'CoderDojo Schöneweide'
-    weight = 3
-
-    [languages.ar.menus]
-    
-        [[languages.ar.menus.main]]
-    name = "الدوجو"
-    pageRef = "/"
-    weight = 10
-        [[languages.ar.menus.main]]
-    name = "ورش العمل"
-    pageRef = "/workshops"
-    weight = 20
-        [[languages.ar.menus.main]]
-    name = "المدونة"
-    pageRef = "/blog"
-    weight = 30
-        [[languages.ar.menus.main]]
-    name = "لأولياء الأمور"
-    pageRef = "/parents"
-    weight = 40
-        [[languages.ar.menus.main]]
-    name = "للمدارس"
-    pageRef = "/schools"
-    weight = 50
-        [[languages.ar.menus.main]]
-    name = "المشاريع"
-    pageRef = "/dojo-projects"
-    weight = 60
-        [[languages.ar.menus.main]]
-    name = "الرابطة"
-    pageRef = "/verein"
-    weight = 70
-        [[languages.ar.menus.footer]]
-    name = "التحرير"
-    pageRef = "/impressum"
-    weight = 10
-        [[languages.ar.menus.footer]]
-    name = "الخصوصية"
-    pageRef = "/datenschutz"
-    weight = 20
-    
-    [languages.ar.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+      [languages.ar.menus]
       
+          [[languages.ar.menus.main]]
+      name = "الدوجو"
+      pageRef = "/"
+      weight = 10
+          [[languages.ar.menus.main]]
+      name = "ورش العمل"
+      pageRef = "/workshops"
+      weight = 20
+          [[languages.ar.menus.main]]
+      name = "المدونة"
+      pageRef = "/blog"
+      weight = 30
+          [[languages.ar.menus.main]]
+      name = "لأولياء الأمور"
+      pageRef = "/parents"
+      weight = 40
+          [[languages.ar.menus.main]]
+      name = "للمدارس"
+      pageRef = "/schools"
+      weight = 50
+          [[languages.ar.menus.main]]
+      name = "المشاريع"
+      pageRef = "/dojo-projects"
+      weight = 60
+          [[languages.ar.menus.main]]
+      name = "الرابطة"
+      pageRef = "/verein"
+      weight = 70
+          [[languages.ar.menus.footer]]
+      name = "التحرير"
+      pageRef = "/impressum"
+      weight = 10
+          [[languages.ar.menus.footer]]
+      name = "الخصوصية"
+      pageRef = "/datenschutz"
+      weight = 20
+      
+      [languages.ar.params]
+        subtitle = 'Reference, Tutorials, and Explanations'
+        
   [languages.en]
-    contentDir = 'content/en'
-    disabled = false
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Project Documentation'
-    weight = 2
-    [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+  contentDir = 'content/en'
+  disabled = false
+  languageCode = 'en-US'
+  languageDirection = 'ltr'
+  languageName = 'English'
+  title = 'CoderDojo Schöneweide'
+  weight = 2
 
-[[menu.main]]
-  name = "Das Dojo"
+  [languages.en.menus]
+  [[languages.en.menus.main]]
+  name = "This Dojo"
   pageRef = "/"
   weight = 10
-[[menu.main]]
+
+  [[languages.en.menus.main]]
   name = "Workshops"
   pageRef = "/workshops"
   weight = 20
-[[menu.main]]
+
+  [[languages.en.menus.main]]
   name = "Blog"
   pageRef = "/blog"
   weight = 30
-[[menu.main]]
-  name = "Für Eltern"
+
+  [[languages.en.menus.main]]
+  name = "For Parents"
   pageRef = "/parents"
   weight = 40
-[[menu.main]]
-  name = "Für Schulen"
+
+  [[languages.en.menus.main]]
+  name = "For Schools"
   pageRef = "/schools"
   weight = 50
-[[menu.main]]
-  name = "Projekte"
+
+  [[languages.en.menus.main]]
+  name = "Projects"
   pageRef = "/dojo-projects"
   weight = 60
-[[menu.main]]
-  name = "Verein"
+
+  [[languages.en.menus.main]]
+  name = "Association"
   pageRef = "/verein"
   weight = 70
 
-[[menu.footer]]
-  name = "Impressum"
+  [[languages.en.menus.footer]]
+  name = "Legal Notice"
   pageRef = "/impressum"
   weight = 10
-[[menu.footer]]
-  name = "Datenschutz"
-  pageRef = "/datenschutz"
+  [[menu.footer]]
+  name = "Privacy"
+  url = "/datenschutz"
   weight = 20
 
 
-[markup.goldmark.renderer]
-unsafe = true # Allow HTML in md files
+  [languages.de]
+      contentDir = 'content'
+      disabled = false
+      languageCode = 'de-DE'
+      languageDirection = 'ltr'
+      languageName = 'Deutsch'
+      title = 'Projekt Dokumentation'
+      weight = 1
+      [languages.de.params]
+        subtitle = 'Referenz, Tutorials und Erklärungen'
+        
+  [[menu.main]]
+    name = "Das Dojo"
+    pageRef = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Workshops"
+    pageRef = "/workshops"
+    weight = 20
+  [[menu.main]]
+    name = "Blog"
+    pageRef = "/blog"
+    weight = 30
+  [[menu.main]]
+    name = "Für Eltern"
+    pageRef = "/parents"
+    weight = 40
+  [[menu.main]]
+    name = "Für Schulen"
+    pageRef = "/schools"
+    weight = 50
+  [[menu.main]]
+    name = "Projekte"
+    pageRef = "/dojo-projects"
+    weight = 60
+  [[menu.main]]
+    name = "Verein"
+    pageRef = "/verein"
+    weight = 70
+
+  [[menu.footer]]
+    name = "Impressum"
+    pageRef = "/impressum"
+    weight = 10
+  [[menu.footer]]
+    name = "Datenschutz"
+    pageRef = "/datenschutz"
+    weight = 20
+
+
+  [markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
