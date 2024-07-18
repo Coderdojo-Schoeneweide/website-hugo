@@ -20,29 +20,25 @@
   <body>
     {{ block "header.html" . }}
     <header class="site-header wrapper" role="banner">
-        <div class="abod-lang">
             {{ range .Translations }}
               {{ if eq .Lang "en" }}
-                  <li class="hover:bg-slate-300 p-2">
                     <a href="{{ .Permalink }}">
                         <img src="/images/flags/usa.png" alt="  ">
                         {{ "  " | .RenderString }} English</a>
                   </li>
               {{ else if eq .Lang "de" }}
-                  <li class="hover:bg-slate-300 p-2">
                     <a href="{{ .Permalink }}">
                         <img src="/images/flags/deutschland.png" alt=" ">
                         {{ "  " | .RenderString }} Deutsch</a>
                   </li>
               {{ else if eq .Lang "ar" }}
-              <li class="hover:bg-slate-300 p-2">
               <a href="{{ .Permalink }}">
                 <img src="/images/flags/jemen.png" alt=" ">
                 {{ "  " | .RenderString }} العربية</a>
               </li>
               {{ end }}
             {{ end }}
-          </div>
+
         <label id="switch" class="switch">
             <input type="checkbox" id="slider"/>
             <span class="slider round"></span>
