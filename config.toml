@@ -120,7 +120,7 @@
       languageCode = 'de-DE'
       languageDirection = 'ltr'
       languageName = 'Deutsch'
-      title = 'Projekt Dokumentation'
+      title = 'CoderDojo Schöneweide'
       weight = 1
       [languages.de.params]
         subtitle = 'Referenz, Tutorials und Erklärungen'
