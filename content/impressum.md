@@ -14,3 +14,5 @@ Telefon: <span id="phone"><button onclick="show('phone', 'sswBtxxtsvytxyx')">Zei
 
 Einige Icons auf unserer Seite basieren auf den entsprechenden Solid-Icons von [Font Awesome](https://fontawesome.com)
 und sind unter [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) lizensiert.
+
+Die Flaggen-Icons auf unserer Seite stammen von [Flaticon](https://www.flaticon.com/) und werden gemäß den Flaticon-Lizenzbedingungen verwendet.
