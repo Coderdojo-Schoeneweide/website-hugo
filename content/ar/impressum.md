@@ -12,3 +12,5 @@ title: "جهة التحرير"
 
 تستند بعض الأيقونات على موقعنا على أيقونات سوليد من [Font Awesome](https://fontawesome.com)
 ومرخصة بموجب [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+
+ أيقونات الأعلام على موقعنا من Flaticon وتُستخدم وفقاً لشروط ترخيص [Flaticon](https://www.flaticon.com/).
