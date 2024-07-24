@@ -1,5 +1,7 @@
 +++
 title = "mBot-Hindernisparkour"
+description = "Im Workshop 'mBot Hindernisparkour' programmieren Kinder und Jugendliche einen mBot, um einen Parkour zu meistern. Teamwettbewerb mit Linien- und Abstandssensoren. Keine Vorkenntnisse nötig."
+keywords = ["mBot", "mBlock", "Hindernisparkour", "Sensoren", "Programmieren", "Kinder", "Jugendliche", "Technikworkshop", "Bildung", "Teamwettbewerb", "Einführung in Robotik"]
 duration = "3 Stunden"
 age = "10 - 14 Jahre"
 tags = ["mbot", "mblock", "sensoren"]

@@ -1,5 +1,7 @@
 +++
 title = "Was ist das CoderDojo? - Für Eltern"
+description = "Erfahren Sie mehr über das CoderDojo Schöneweide, wo Kinder und Jugendliche spielerisch das Programmieren lernen können. Hier finden Sie alle wichtigen Informationen für Eltern."
+keywords = ["CoderDojo für Eltern", "Programmieren lernen Kinder", "Workshops Kinder Berlin", "Elterninformation CoderDojo Schöneweide", "Spielerisches Lernen", "Social Media Ankündigungen", "Newsletter Workshops", "Mittelpunktbibliothek Ortsname", "Lötworkshops Ortsname", "Studierendeninitiative HTW Berlin"]
 image = "faq_eltern.png"
 +++
 

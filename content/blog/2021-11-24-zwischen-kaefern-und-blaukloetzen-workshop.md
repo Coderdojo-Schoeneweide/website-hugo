@@ -1,5 +1,7 @@
 ---
 title: Zwischen Käfern und Bauklötzen Workshop
+description: "Erlebe den Workshop 'Zwischen Käfern und Bauklötzen' und entdecke mit Kara und Robot Karol die Welt der Programmierung für Kinder und Jugendliche."
+keywords: ["Kara Programmierung", "Robot Karol", "Kinder Workshop", "Programmieren lernen", "Algorithmen", "HTW Workshop", "Coding für Kinder", "Mariechenkäfer Kara", "Klemmbausteinfigur", "Programmierumgebungen"]
 date: 2021-11-24T13:00:00+0100
 categories:
   - berichte

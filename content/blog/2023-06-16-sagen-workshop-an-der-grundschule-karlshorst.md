@@ -1,5 +1,7 @@
 ---
 title: Sagen Workshop an der Grundschule Karlshorst
+description: "Scratch Workshop an der Grundschule Karlshorst: 6. Klässler programmieren und animieren die Sage von König Midas. Kreatives Lernen mit selbstgemalten Figuren!"
+keywords: ["Scratch Workshop", "Grundschule Karlshorst", "Programmieren", "6. Klasse", "König Midas", "Animation", "Sagen", "Kinder", "Coding", "Schülerprojekte"]
 date: 2023-06-16T09:25:19.056Z
 categories:
   - berichte

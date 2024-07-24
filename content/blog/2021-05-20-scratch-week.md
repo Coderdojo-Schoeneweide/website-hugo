@@ -1,5 +1,7 @@
 ---
 title: Scratch Week 2021
+description: "Erlebe die kreative Vielfalt der Scratch Week 2021! Kinder gestalten eigene Projekte rund um das Thema 'Magical Arcade' und entdecken die Welt der Programmierung mit Scratch. Ein inspirierender Workshop für junge Entwickler!"
+keywords: ["Scratch Week 2021", "Scratch Workshop Kinder", "Magical Arcade Projekte", "Kreativität mit Scratch", "Spiele programmieren Scratch", "Jugendliche Programmierprojekte", "Scratch für Anfänger", "kostenlose Technologie Workshops", "Scratch Programmierung Kinder", "kreative Ideen Spieleentwicklung"]
 date: 2021-05-20T13:00:00+0100
 categories:
   - berichte

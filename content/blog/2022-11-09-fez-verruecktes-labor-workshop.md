@@ -1,5 +1,7 @@
 ---
 title: FEZ Verrücktes Labor Workshop
+description: "Erlebe den FEZ Verrücktes Labor Workshop mit Dashbots. Kinder lernen spielerisch Programmieren und sammeln bunte Sticker als Erinnerungen. Jetzt mehr erfahren!"
+keywords: ["FEZ Workshop", "Dashbot", "Programmieren lernen", "Kinder Roboter", "Experimentieren", "Kinder Workshop", "Sticker Belohnung", "Kreativität fördern", "Mentor Betreuung", "CoderDojo Schöneweide"]
 date: 2022-11-09T17:27:09+01:00
 categories:
   - berichte

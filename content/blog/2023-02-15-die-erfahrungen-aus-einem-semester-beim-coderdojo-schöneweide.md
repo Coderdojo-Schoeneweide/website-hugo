@@ -1,5 +1,7 @@
 ---
 title: Die Erfahrungen aus einem Semester beim CoderDojo Schöneweide
+description: "Erfahrungsbericht über ein Semester beim CoderDojo Schöneweide: Schulungen, Zusammenarbeit und Freude an kreativen Projekten. Einblicke und Tipps für neue Mitglieder."
+keywords: ["Erfahrungsbericht", "CoderDojo Schöneweide", "Wintersemester", "HTW Berlin", "Schulungen", "Zusammenarbeit", "Workshops", "Videoerstellung", "Mitglieder", "Begeisterung"]
 date: 2023-02-15T15:56:34.756Z
 categories:
   - Bericht

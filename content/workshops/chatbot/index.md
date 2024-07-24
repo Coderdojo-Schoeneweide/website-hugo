@@ -1,5 +1,7 @@
 +++
 title = "Hallo Bot, wie gehts?"
+description = "Lernen Sie im Workshop 'Hallo Bot, wie gehts?' Chatbots mit Scratch oder Python zu programmieren. Keine Vorkenntnisse nötig. Für Kinder und Jugendliche von 10 bis 17 Jahren."
+keywords = ["Chatbots", "Scratch", "Python", "KI", "Kinderworkshop", "Jugendworkshop", "Programmieren lernen", "Anfänger", "Online-Workshop", "User-Input"] 
 image = "chatbot.png"
 duration = "1,5 Stunden"
 age = "10 - 17 Jahre"

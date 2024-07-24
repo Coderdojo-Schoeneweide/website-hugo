@@ -1,5 +1,7 @@
 ---
 title: Gruselparty zum 10. Geburtstag vom CoderDojo
+description: "Feiere mit uns den 2. Geburtstag von CoderDojo Schöneweide mit einer Gruselparty und Scratch-Programmierung an der HTW Berlin."
+keywords: ["Gruselparty Workshop", "10-jähriges Jubiläum", "HTW Berlin", "Halloween Programmieren", "Scratch für Kinder", "ehrenamtlicher Workshop", "CoderDojo Geburtstag", "kreatives Programmieren", "Kinder und Eltern", "Halloween"]
 date: 2021-11-01T13:00:00+0100
 categories:
   - berichte

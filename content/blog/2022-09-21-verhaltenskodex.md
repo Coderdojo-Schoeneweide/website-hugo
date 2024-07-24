@@ -1,5 +1,7 @@
 ---
 title: "Unser Verhaltenskodex"
+description: "Erfahre mehr über unseren neuen Verhaltenskodex im CoderDojo. Entdecke unsere Grundsätze für respektvolles Miteinander und verantwortungsvolle Arbeit mit Kindern."
+keywords: ["Verhaltenskodex CoderDojo", "Code of Conduct", "Teamgrundsätze", "respektvolles Verhalten", "Kommunikation im Team", "Arbeit mit Kindern", "Jugendschutz", "positive Vorbilder", "Entwicklungsförderung", "Veranstaltungen CoderDojo"]
 date: 2022-09-21T17:15:11+02:00
 categories: [berichte]
 tags: [verhaltenskodex, code of conduct, happiness]

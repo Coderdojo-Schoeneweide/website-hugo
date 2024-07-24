@@ -1,5 +1,7 @@
 +++
 title = "Dramas mit Lamas"
+description = "Im Workshop 'Dramas mit Lamas' lernen Kinder, wie sie mit Scratch interaktive Theaterstücke gestalten, indem sie Figuren sprechen lassen und deren Dialoge synchronisieren."
+keywords = ["Scratch", "Animation", "Theaterstücke", "Kinder", "Interaktion", "Sprechblasen", "Online Workshop", "Synchronisation"]
 image = "theaterstueck.png"
 duration = "1,5 Stunden"
 age = "7 - 13 Jahre"

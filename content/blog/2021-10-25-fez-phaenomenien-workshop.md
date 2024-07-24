@@ -1,5 +1,7 @@
 ---
 title: FEZ Phänomenien Workshop
+description: "Entdecke unseren FEZ Phänomenien Workshop in den Herbstferien, wo Kinder spielerisch Dash Roboter programmierten und spannende Challenges meisterten."
+keywords: ["FEZ Phänomenien Workshop", "Herbstferien Berlin", "Dash Roboter", "Programmieren für Kinder", "ehrenamtliche Workshops", "Kinder und Familien", "interaktive Challenges", "Tablet-Steuerung", "spielerisches Lernen", "Erfolg im Team"]
 date: 2021-10-25T22:24:46+02:00
 categories:
   - berichte

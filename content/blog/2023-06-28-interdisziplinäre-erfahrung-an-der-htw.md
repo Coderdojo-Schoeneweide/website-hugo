@@ -1,5 +1,7 @@
 ---
 title: Interdisziplinäre Erfahrung an der HTW
+description: "Erfahrungsbericht eines ehemaligen Mitglieds im CoderDojo Schöneweide an der HTW Berlin. Einblicke in Videoproduktion und Team-Happiness. Spannende interdisziplinäre Zusammenarbeit."
+keywords: ["Erfahrungsbericht", "CoderDojo Schöneweide", "HTW Berlin", "Wirtschaftskommunikation", "Videoproduktion", "Team Happiness", "Programmierung", "Kinder", "AWE Modul", "Interdisziplinär"]
 date: 2023-06-28T14:53:49.073Z
 categories:
   - berichte

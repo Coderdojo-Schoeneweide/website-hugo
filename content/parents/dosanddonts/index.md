@@ -1,5 +1,7 @@
 +++
 title = "How to: Kind betreuen beim Workshop"
+description = "Erfahre, wie du dein Kind optimal beim Workshop unterstützen kannst. Spaß am Lernen steht im Fokus."
+keywords = ["Kind unterstützen", "Lernweise Kind", "Spaß am Lernen", "gezielte Fragen stellen", "Fehler machen dürfen"]
 image = "dosanddonts.png"
 +++
 

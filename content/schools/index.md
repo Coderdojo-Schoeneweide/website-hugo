@@ -1,5 +1,7 @@
 ---
 title: Die digitale Welt ist überall - Computer in jedem Unterrichtsfach kreativ einsetzen. Unser Angebot für Schulen und Lehrkräfte.
+description: "Entdecken Sie unser Angebot für Schulen und Lehrkräfte: Workshops und Schulinternen Fortbildungen zur kreativen Nutzung digitaler Technologien im Unterricht."
+keywords: ["CoderDojo Schöneweide Schulen", "digitale Bildung", "Workshops", "Fortbildungen", "Schulklassen", "Lehrkräfte", "Programmierung", "Unterricht", "Technologie", "Schule"]
 ---
 Die digitale Welt ist überall. Wir wollen, dass Kinder und Jugendliche in dieser digitalen Welt
 nicht nur konsumieren, sondern diese Welt auch gestalten können.

@@ -1,5 +1,7 @@
 +++
 title = "Digitale Grußkarten basteln"
+description = "Im Online-Workshop 'Digitale Grußkarten basteln' lernen Jugendliche mit Scratch Animationen für einzigartige digitale Grußkarten zu erstellen."
+keywords = ["Scratch", "Animation", "Grußkarten", "Design", "Jugendliche", "Kreativität", "Online Workshop", "Grafikdesign", "Scratch Programmierung"]
 image = "grusskarte.png"
 duration = "1,5 Stunden"
 age = "7 - 17 Jahre"

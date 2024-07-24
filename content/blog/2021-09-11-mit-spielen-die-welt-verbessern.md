@@ -1,5 +1,7 @@
 ---
 title: Mit Spielen die Welt verbessern
+description: "Erfahre, wie wir mit unserem ehrenamtlichen Workshop 'Mit Spielen die Welt verbessern' bei den Treptow-Köpenicker Freiwilligentagen spielerisch gesellschaftliche Themen angegangen sind."
+keywords: ["Spiele Welt verbessern", "ehrenamtlicher Workshop", "Treptow-Köpenicker Freiwilligentage", "gesellschaftliche Themen", "Programmieren lernen", "Prototypen entwickeln", "soziale Spiele", "kreative Ideen umsetzen", "Workshop für Kinder", "Team-Spiele"]
 date: 2021-09-11T15:00:00+0100
 categories:
   - berichte

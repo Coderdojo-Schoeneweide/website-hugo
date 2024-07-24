@@ -1,5 +1,7 @@
 ---
 title:  "Einstieg in die Informatik für Grundschüler*innen - Auch ohne Computer kann man viel lernen!"
+description: "Entdecke spielerisches Lernen mit unserem Workshop zur Informatik für Grundschüler*innen. Von analogen Spielen bis hin zur Programmierung von Miniaturkränen - hier lernen Kinder die Grundlagen der Technik kennen."
+keywords: ["Informatik Grundschüler Workshop", "analoge Spiele Informatik", "Grundlagen Technik Kinder", "Programmierung Brettspiele", "Servomotoren für Kinder erklärt", "Scratch Programmierübungen", "kostenlose Kinderworkshops Informatik", "spielerisches Lernen", "Programmierprinzipien für Kinder", "Informatik für Grundschulen"]
 date:   2020-04-03T13:51:00+0100
 categories: [berichte]
 tags: [workshop, einstieg, unplugged, spiel, grundschule, programmieren, scratch, motoren]

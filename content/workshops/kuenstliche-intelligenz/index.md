@@ -1,5 +1,7 @@
 +++
 title = "Künstliche Intelligenz"
+description = "Im Workshop 'Künstliche Intelligenz' lernen Kinder und Jugendliche, wie KI funktioniert und trainiert wird. Keine Vorkenntnisse nötig."
+keywords = ["Künstliche Intelligenz", "KI", "Maschinelles Lernen", "Kinder", "Jugendliche", "Technikworkshop", "Bildung", "Einführung in KI", "Scratch", "Programmieren"]
 duration = "2 Stunden"
 age = "7 - 17 Jahre"
 tags = ["ki"]

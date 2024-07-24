@@ -1,5 +1,7 @@
 +++
 title = "Mit Spielen die Welt verbessern"
+description = "Erlernen Sie im Workshop 'Mit Spielen die Welt verbessern' die Grundlagen des Game Designs und setzen Sie Spielideen mit Scratch um. Für Kinder und Jugendliche von 10 bis 17 Jahren."
+keywords = ["Game Design", "Scratch", "Spiele entwickeln", "Kinderworkshop", "Jugendworkshop", "Programmieren lernen", "Online-Workshop", "Spielekonzepte", "Gesellschaft verbessern", "Anfänger"]
 image = "computerspiele-und-gesellschaft.png"
 duration = "1,5 Stunden"
 age = "10 - 17 Jahre"

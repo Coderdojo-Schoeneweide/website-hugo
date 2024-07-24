@@ -1,5 +1,7 @@
 ---
 title:  "Spiele Selber Machen - Unser erster Online-Workshop"
+description: "Entdecke die Welt des Spieldesigns mit unserem Online-Workshop! Von der Ideenfindung über Prototyping mit Scratch bis hin zur User-Motivation - hier lernen Kinder und Jugendliche, wie man eigene Spiele kreiert."
+keywords: ["Spiele selber machen Workshop", "Spieldesign für Kinder", "Online Workshop Scratch", "Spieleprototypen erstellen", "User-Motivation in Spielen", "Scratch für Spieleentwicklung", "kreative Spielideen Kinder", "Online Lernen für Kinder", "kostenlose Spieldesign Workshops", "künstlerische Aspekte Spiele"]
 date:   2020-09-08T13:31:00+0100
 categories: [berichte]
 tags: [workshop, einstieg, spiel, grundschule, programmieren, scratch, design]

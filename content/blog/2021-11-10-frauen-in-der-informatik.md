@@ -1,5 +1,7 @@
 ---
 title:  "Frauen in der Informatik"
+description: "Erfahre mehr über die bedeutenden Frauen in der Geschichte der Informatik und ihre herausragenden Leistungen von Ada Lovelace bis zu Jade Raymond."
+keywords: ["Frauen in Informatik", "Ada Lovelace", "Grace Hopper", "ENIAC Frauen", "Jade Raymond", "Marissa Mayer", "Ina Schieferdecker", "Programmierung Geschichte", "Informatik Pionierinnen", "Computer Wissenschaft"]
 date:   2022-01-05T13:00:00+0100
 categories: [berichte]
 tags: [programmieren, informatik, frauen]

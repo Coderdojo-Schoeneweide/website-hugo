@@ -1,5 +1,7 @@
 ---
 title: Beyond Code - Ein Erlebnisbericht
+description: "Erlebe 'Beyond Code', die erste Jugendkonferenz zu Digital Literacy, KI und digitale Verantwortung. Diskutiert, präsentiert und bewegt gemeinsam die Zukunft."
+keywords: ["Digital Literacy", "KI", "Jugendkonferenz", "digitale Verantwortung", "Coding", "CoderDojo", "Jugend hackt", "Bildung", "KI und Security", "Informatik"]
 date: 2023-02-21T17:27:45.868Z
 categories:
   - berichte

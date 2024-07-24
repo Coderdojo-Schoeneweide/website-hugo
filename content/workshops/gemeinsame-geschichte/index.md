@@ -1,5 +1,7 @@
 +++
 title = "Gemeinsame Geschichte"
+description = "Im Workshop 'Gemeinsame Geschichte' lernen Kinder ab 11 Jahren die Grundlagen des Programmierens mit Scratch und erstellen gemeinsam eine animierte Geschichte. Keine Vorkenntnisse nötig."
+keywords = ["Scratch", "Programmieren", "Kinderworkshop", "Algorithmisches Denken", "Animation", "Geschichten", "Kreativität", "Teamarbeit", "Bildung", "Technikworkshop"]
 image = "geschichte.png"
 duration = "4 Stunden"
 age = "Ab 11 Jahren"

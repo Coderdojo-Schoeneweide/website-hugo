@@ -1,5 +1,7 @@
 +++
 title = "Kreativ programmieren mit Godot"
+description = "Im Workshop 'Kreativ programmieren mit Godot' lernen Jugendliche und Lehrpersonen die Grundlagen des Game Designs und erstellen ihr eigenes 'Platformer'-Spiel. Keine Vorkenntnisse nötig."
+keywords = ["Godot", "Spielentwicklung", "Game Design", "Platformer", "Jugendliche", "Lehrpersonen", "Programmieren", "Kreativität", "Technikworkshop", "Bildung"]
 image = "godot.png"
 duration = "4 Stunden"
 age = "Ab 14 Jahren"

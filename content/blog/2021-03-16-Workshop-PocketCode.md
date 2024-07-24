@@ -1,5 +1,7 @@
 ---
 title:  "Foto-Filter mit PocketCode - Ein Workshop mit kein Abseits e.V."
+description: "Entdecke kreative Foto-Filter mit unserem PocketCode Workshop! Lerne, wie man intelligente Filter programmiert und teile deine kreativen Ideen. Ideal für alle, die gerne mit Technologie experimentieren!"
+keywords: ["PocketCode Workshop", "Foto-Filter programmieren", "intelligente Filter Apps", "Mobile App Programmierung", "kreative Technologie Workshops", "Bildungsgerechtigkeit Initiative", "technische Workshops für Kinder", "Smartphone Programmierung", "kostenlose Bildungsinitiativen", "Dojo für Kinder"]
 date:   2021-03-16T15:10:00+0100
 categories: [berichte]
 tags: [workshop, einstieg, app, verein, programmieren, pocketcode, design]

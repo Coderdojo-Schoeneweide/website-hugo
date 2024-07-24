@@ -1,5 +1,7 @@
 +++
 title = "Astro Pi - Code im Weltraum"
+description = "Im Workshop 'Astro Pi - Code im Weltraum' schreiben Jugendliche Python-Programme für die ISS. Keine Vorkenntnisse nötig. Erlebe Technologie im Weltraum!"
+keywords = ["Astro Pi", "Python", "ISS", "Sense HAT", "Weltraumprogrammierung", "Jugendliche", "Online Workshop", "Technologie im Weltraum", "Python Programmierung"]
 duration = "3 Stunden"
 age = "10 - 14 Jahre"
 tags = ["python", "sensoren"]

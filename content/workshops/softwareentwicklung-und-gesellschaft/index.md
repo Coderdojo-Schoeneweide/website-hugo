@@ -1,5 +1,7 @@
 +++
 title = "Als Softwareentwickler:in die Welt verbessern"
+description = "Im Workshop 'Als Softwareentwickler die Welt verbessern' lernen Jugendliche, wie Software gesellschaftliche Themen beeinflusst und entwickeln eigene Ideen mit Scratch."
+keywords = ["Software", "Softwareentwickler", "Gesellschaft", "Klimaschutz", "Gleichberechtigung", "Scratch", "Online Workshop"]
 image = "softwareentwicklung-und-gesellschaft.png"
 duration = "1,5 Stunden"
 age = "10 - 17 Jahre"

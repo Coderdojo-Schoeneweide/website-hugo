@@ -1,5 +1,7 @@
 +++
 title = "Ein Musikvideo animieren"
+description = "Im Workshop 'Ein Musikvideo animieren' lernen Kinder mit Scratch, wie sie Figuren und Kostüme für ihre eigenen Musikvideos gestalten und animieren können."
+keywords = ["Scratch", "Animation", "Musikvideo", "Kinder", "Digitale Animation", "Bewegungssteuerung", "Kostümwechsel", "Online Workshop"]
 image = "musikvideo.png"
 duration = "1,5 Stunden"
 age = "7 - 13 Jahre"

@@ -1,5 +1,7 @@
 ---
 title: "Figma Prototyping Workshop: Adventskalender-App"
+description: "Erlebe kreatives Lernen mit unserem Figma Prototyping Workshop für Kinder. Gestalte deinen eigenen Adventskalender und entdecke spielerisch die Welt des Designs. Jetzt mehr erfahren!"
+keywords: ["Figma Workshop", "Prototyping für Kinder", "Adventskalender App", "Design-Workshops für Kinder", "Kreatives Coding", "Kinder programmieren", "Figma Prototyping", "Adventskalender Design", "Digitale Kreativität", "Programmieren lernen"]
 date: 2023-01-25T16:27:22+01:00
 categories: [berichte]
 tags: [workshop, figma, design, advent]
