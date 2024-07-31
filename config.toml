@@ -164,7 +164,7 @@ pageRef = "/verein"
 weight = 70
 [[menu.main]]
 name = "Team"
-pageRef = "/"
+pageRef = "/team"
 weight = 80
 
 [[menu.footer]]
