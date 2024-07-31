@@ -47,6 +47,10 @@ weight = 60
 name = "الرابطة"
 pageRef = "/verein"
 weight = 70
+[[languages.ar.menus.main]]
+name = "الفريق"
+pageRef = "/team"
+weight = 80
 [[languages.ar.menus.footer]]
 name = "التحرير"
 pageRef = "/impressum"
@@ -104,6 +108,11 @@ name = "Association"
 pageRef = "/verein"
 weight = 70
 
+[[languages.en.menus.main]]
+name = "Team"
+pageRef = "/team"
+weight = 80
+
 [[languages.en.menus.footer]]
 name = "Legal Notice"
 pageRef = "/impressum"
@@ -153,6 +162,10 @@ weight = 60
 name = "Verein"
 pageRef = "/verein"
 weight = 70
+[[menu.main]]
+name = "Team"
+pageRef = "/"
+weight = 80
 
 [[menu.footer]]
 name = "Impressum"
