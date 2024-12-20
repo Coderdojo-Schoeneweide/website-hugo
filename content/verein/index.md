@@ -4,7 +4,7 @@ description: "Erfahren Sie mehr über den CoderDojo Schöneweide: ein eingetrage
 keywords: ["CoderDojo Schöneweide", "eingetragener Verein", "Gemeinnützigkeit", "Mitgliedschaft", "Satzung", "Jahresberichte", "digitale Bildung", "Kinder", "Jugendliche", "Förderung"]
 ---
 
-Das CoderDojo Schöneweide ist ein eingetragener Verein. Die Gemeinnützigkeit folgt noch.
+Das CoderDojo Schöneweide ist ein eingetragener, gemeinnütziger Verein.
 Wir sind außerdem Mitgliedsdojo im [CoderDojo Deutschland e.V.](https://coderdojo-deutschland.de/).
 
 ### Mitgliedschaft
@@ -15,5 +15,6 @@ Der Austritt erfolgt ebenfalls formlos per Mail.
 * [Satzung](/docs/verein/satzung.pdf)
 
 ### Jahresberichte
+* [2024](/docs/verein/Jahresbericht2024.pdf)
 * [2023](/docs/verein/Jahresbericht2023.pdf)
 * [2022](/docs/verein/Jahresbericht2022.pdf)
