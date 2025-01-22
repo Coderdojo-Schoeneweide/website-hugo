@@ -4,7 +4,7 @@ position: "main"
 weight: 2
 ---
 
-Events take place twice a month, on Saturdays from 11:00 am to 1:00 pm at the HTW in Schöneweide (Wilhelminenhofstr. 75A, 12459 Berlin). Typically, there is one workshop and a "Coding in the Dojo" session. No prior knowledge is required!
+Events take place twice a month, on Saturdays from 11:00 am to 1:00 pm at the HTW in Schöneweide (Michael-Brückner-Straße 9, 12439 Berlin). Typically, there is one workshop and a "Coding in the Dojo" session. No prior knowledge is required!
 
 **Workshops** | Gain insight into a specific topic from the digital world.
 

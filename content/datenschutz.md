@@ -119,6 +119,14 @@ insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet GitHub sog
 relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert,
 verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission.
 
+## Open street map
+OpenStreetMap (OSM) ist ein Open-Source-Kartenprojekt, das detaillierte und genaue geografische Daten bereitstellt. Wir nutzen OSM, um unseren Unternehmensstandort in einem IFrame auf unserer Website einzubetten und Ihnen klare und präzise Karteninformationen über unseren Standort anzubieten.
+
+Datenerfassung
+Wenn Sie mit dem IFrame interagieren, der OSM-Daten verwendet, können folgende Arten von Informationen gesammelt werden:
+- Standortdaten: Beim Betrachten der eingebetteten Karte werden keine persönlichen Standortdaten von Ihnen erfasst.
+- Nutzungsdaten: Allgemeine Daten über die Nutzung des IFrames, wie die Anzahl der Ansichten, Interaktionen und Klicks, können zu Analysezwecken erfasst werden.
+
 ### Cookies
 
 Auf unserer Website verwenden wir keine Cookies. Wenn Sie mit uns über andere Webseiten (z.B. Social Media)
