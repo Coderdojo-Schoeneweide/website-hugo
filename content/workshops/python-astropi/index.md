@@ -6,7 +6,7 @@ duration = "3 Stunden"
 age = "10 - 14 Jahre"
 tags = ["python", "sensoren"]
 image = "astro-pi.png"
-weight = 6
+weight = 1
 +++
 
 Im Online-Workshop "Astro Pi - Code im Weltraum" im Rahmen des 

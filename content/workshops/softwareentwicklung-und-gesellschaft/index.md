@@ -6,7 +6,7 @@ image = "softwareentwicklung-und-gesellschaft.png"
 duration = "1,5 Stunden"
 age = "10 - 17 Jahre"
 tags = ["software", "design", "scratch"]
-weight = 18
+weight = 2
 +++
 
 Im Online-Workshop "Als Softwareentwickler:in die Welt verbessern" erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Softwareentwickler:in.

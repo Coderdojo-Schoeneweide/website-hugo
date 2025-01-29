@@ -7,7 +7,7 @@ duration = "4 Stunden"
 age = "8 - 17 Jahre"
 tags = ["scratch", "animation"]
 prevKnowledge = "Keine Vorkenntnisse notwendig"
-weight = 13
+weight = 4
 +++
 
 In diesem Workshop konzipieren die Teilnehmenden Animationen zu Themen, die sie im Alltag 

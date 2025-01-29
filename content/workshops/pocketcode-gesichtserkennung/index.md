@@ -6,7 +6,7 @@ duration = "1,5 Stunden"
 age = "10 - 17 Jahre"
 tags = ["pocketcode", "app"]
 image = "filter.png"
-weight = 7
+weight = 3
 +++
 
 Im Online-Workshop "Foto-Filter-App" erhalten die Teilnehmenden einen Einblick darin, 

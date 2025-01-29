@@ -6,7 +6,7 @@ image = "musikvideo.png"
 duration = "1,5 Stunden"
 age = "7 - 13 Jahre"
 tags = ["scratch", "animation"]
-weight = 16
+weight = 3
 +++
 
 Im Online-Workshop "Ein Musikvideo animieren" erhalten die Teilnehmenden einen Einblick darin, 

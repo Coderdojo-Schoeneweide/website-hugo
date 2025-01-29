@@ -6,7 +6,7 @@ image = "computerspiele-und-gesellschaft.png"
 duration = "1,5 Stunden"
 age = "10 - 17 Jahre"
 tags = ["spiel", "design", "scratch"]
-weight = 6
+weight = 3
 +++
 
 Im Online-Workshop "Mit Spielen die Welt verbessern" erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.

@@ -6,7 +6,7 @@ image = "lippensynchronisation.png"
 duration = "2 Stunden"
 age = "10 - 17 Jahre"
 tags = ["scratch", "animation"]
-weight = 15
+weight = 2
 +++
 
 Im Workshop "Es spricht!" erhalten die Teilnehmenden einen Einblick darin, 
