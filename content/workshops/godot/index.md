@@ -6,6 +6,7 @@ image = "godot.png"
 duration = "4 Stunden"
 age = "Ab 14 Jahren"
 tags = ["spiel", "design", "godot"]
+weight = 1
 +++
 
 Der Workshop "Kreativ programmieren mit Godot" richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen. 

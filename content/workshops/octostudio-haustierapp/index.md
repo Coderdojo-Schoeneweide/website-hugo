@@ -6,6 +6,7 @@ duration = "1,5 Stunden"
 age = "7 - 17 Jahre"
 tags = ["octostudio", "app"]
 image = "octostudio.png"
+weight = 2
 +++
 
 Im Workshop "Haustier-App" erhalten die Teilnehmenden einen Einblick darin, 

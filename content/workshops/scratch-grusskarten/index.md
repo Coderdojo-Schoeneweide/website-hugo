@@ -6,6 +6,7 @@ image = "grusskarte.png"
 duration = "1,5 Stunden"
 age = "7 - 17 Jahre"
 tags = ["scratch", "animation", "design"]
+weight = 4
 +++
 
 Im Online-Workshop "Digitale Grußkarten basteln" erhalten die Teilnehmenden einen Einblick darin, 
