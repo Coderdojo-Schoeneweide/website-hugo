@@ -7,6 +7,7 @@ age = "9 - 17 Jahre"
 tags = ["blender", "3D", "animation"]
 image = "blender.jpg"
 prevKnowledge = "Keine Vorkenntnisse notwendig"
+weight = 1
 +++
 
 Im Workshop "3D-Kunst mit Blender" lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können. 

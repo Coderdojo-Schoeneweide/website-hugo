@@ -6,6 +6,7 @@ image = "theaterstueck.png"
 duration = "1,5 Stunden"
 age = "7 - 13 Jahre"
 tags = ["scratch", "animation"]
+weight = 17
 +++
 
 Im Online-Workshop "Dramas mit Lamas" erhalten die Teilnehmenden einen Einblick darin, 

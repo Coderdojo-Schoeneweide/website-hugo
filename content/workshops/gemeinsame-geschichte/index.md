@@ -6,6 +6,7 @@ image = "geschichte.png"
 duration = "4 Stunden"
 age = "Ab 11 Jahren"
 tags = ["scratch", "animation"]
+weight = 12
 +++
 
 Im Workshop "Gemeinsame Geschichte" lernen die Teilnehmenden zunächst, was Programmieren

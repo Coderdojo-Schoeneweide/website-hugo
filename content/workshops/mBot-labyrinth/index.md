@@ -7,6 +7,7 @@ age = "10 - 14 Jahre"
 tags = ["mbot", "mblock", "sensoren"]
 image = "mbot.png"
 prevKnowledge = "Grundlegende Vorkenntnisse in Scratch sind von Vorteil"
+weight = 10
 +++
 
 Im Online-Workshop "mBot Hindernisparkour" steuern die Teilnehmenden einen mBot durch einen Hindernisparkour. 

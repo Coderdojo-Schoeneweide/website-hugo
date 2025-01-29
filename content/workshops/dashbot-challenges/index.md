@@ -6,6 +6,7 @@ image = "images/dashbots.png"
 duration = "2 Stunden"
 age = "7 - 17 Jahre"
 tags = ["dashbot"]
+weight = 4
 +++
 
 Beim Challenges-Workshop mit den Dash Robotern durchspielen die Teilnehmenden unterschiedliche Aufgabestellungen und lernen
