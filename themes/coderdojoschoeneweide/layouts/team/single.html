@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="broad">
+  <section id="{{lower .File.BaseFileName}}">
+    <h3>{{ .Title }}</h3>
+    <p>{{ .Content }}</p>
+    <p>Hallo Test</p>
+    <ul id="teamMemberList">
+      {{ range sort $.Site.Data.team "name" }} {{ partial "team.html" . }} {{
+      end }}
+    </ul>
+  </section>
+</section>
+{{ end }}
