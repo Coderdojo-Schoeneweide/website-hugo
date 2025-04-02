@@ -11,9 +11,14 @@
   display: inline-block;
   width: 100%;
 
-  &:hover {
+  &:hover:not([disabled]) {
     cursor: pointer;
     opacity: 0.8;
+  }
+
+  &[disabled] {
+    background-color: lighten($color-main, 15%);
+    cursor: not-allowed;
   }
 }
 
