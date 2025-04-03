@@ -1,97 +1,75 @@
 - name: Bruno
   imagePath: bruno.webp
-  tasks: Workshops, Material
-  interests: Musik
-  background: Medieninformatik, Lehrbeauftragter an der HTW
-  story: Über meine Arbeit bin ich total zufällig an eine Stelle als Tutor gekommen und seit dem interessiert an Education. Ich habe dann über die Hochschule vom CoderDojo erfahren und mitgemacht.
+  tasks: Ansprechperson für Workshops
 
 - name: Linda
   imagePath: linda.webp
-  tasks: Projektmanagement, People & Culture, Workshops
-  interests: Scratch, Kreativität, Bildung, Software-Entwicklung
-  background: Medieninformatik, Softwareingenieurin bei einem Start Up
-  story: 2014 habe ich von CoderDojo erfahren. Glücklicherweise gab es ein CoderDojo in Karlsruhe, dem ich mich anschließen konnte. Später ergab sich durch einen Kurs an der HTW Berlin die Chance, ein eigenes Dojo zu gründen!
+  tasks: Ansprechperson für PR
 
 - name: Luis
   imagePath: luis.webp
-  tasks: Webentwicklung
-  interests: Game Development, Webentwicklung, Lesen
-  background: Medieninformatik
-  story: Es macht mir Spaß, mein theoretische Wissen an der Webseite von CoderDojo ins Praktische umzusetzen. Ich hatte auf Facebook einen CoderDojo Post gesehen. Nach der Kontaktaufnahme dauerte es nicht lange, bis zu einem ersten Treffen mit dem Team.
+  tasks: Ansprechperson für die Webseite
 
 - name: Dustin
   imagePath: dustin.webp
-  tasks: Videoproduktion, Workshops, Projektmanagement
-  interests: zocken (analog & digital), kochen und backen, programmieren und basteln, Musik spielen und was noch so Spaß macht
-  background: Angewandte Informatik
-  story: Seit meiner Schulzeit bin ich aktiv dabei mein Wissen weiterzugeben. Und wo startet man am besten? Bei den Kindern!
+  tasks: Videoproduktion, Workshops
 
 - name: Sahra
   imagePath: sahra.webp
-  tasks: Workshops, People & Culture
-  interests: Workshopgestaltung, Diversitythemen, Mentoring
-  background: Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein
-  story:
+  tasks: Ansprechperson für People & Culture
 
 - name: Marlón
   imagePath: marlon.webp
-  tasks: Co-Creation Workshops, Nachhaltigkeit, Material
-  interests: System Thinking, Co-Creation, Prototyping, Upcycling, Nachhaltigkeit, KungFu
-  background: M.A. System Design | Partizipatives Design, UI & UX Design, Nachhaltiges Design
-  story:
+  tasks: Nachhaltigkeit, Workshops
 
 - name: Ilja
   imagePath: ilja.webp
-  tasks: Workshops, Material
-  interests: Didaktik, Pädagogik, Sozialwissenschaft und Technik, Ethik
-  background: Informations- und Kommunikationstechnik (Master), ehemaliger Jugendleiter, Skript- und Programmier-Kenntnisse
-  story: Spielerisch und mit Neugier die Welt um uns herum zu erkunden ist das, was mich im Leben antreibt
+  tasks: Workshops
 
 - name: Sebastian
   imagePath: sebastian.webp
-  tasks: Workshops, People & Culture, Finanzen
-  interests: Nachhaltigkeit
-  background: Medieninformatik (Master), VR/AR Game-Entwicklung
-  story:
-
-- name: Jacques
-  imagePath: jacques.jpg
-  tasks:
-  interests:
-  background:
-  story:
-
-- name: Anni
-  imagePath: anni.webp
-  tasks: PR
-  interests:
-  background:
-  story:
-
-- name: Andy
-  imagePath: andy.webp
-  tasks: Workshops
-  interests:
-  background:
-  story:
-
-- name: Maite
-  imagePath: maite.webp
-  tasks: Workshops
-  interests:
-  background:
-  story:
+  tasks: Workshops, People & Culture
 
 - name: Alexander
   imagePath: alexander.webp
   tasks: Workshops
-  interests:
-  background:
-  story:
 
 - name: Lisa
   imagePath: lisa.webp
+  tasks: Workshops, PR
+
+- name: Chris
+  imagePath: chris.webp
   tasks: Workshops
-  interests:
-  background:
-  story:
+
+- name: Yannick
+  imagePath: yannick.webp
+  tasks: Ansprechperson für People & Culture
+
+- name: Sasha
+  imagePath: sasha.webp
+  tasks: Workshops
+
+- name: Majd
+  imagePath: majd.webp
+  tasks: Ansprechperson für die Webseite
+
+- name: Konstantin
+  imagePath: default.webp
+  tasks: Workshops
+
+- name: Hamdi
+  imagePath: default.webp
+  tasks: Workshops
+
+- name: Aiko
+  imagePath: aiko.webp
+  tasks: Workshops
+
+- name: Laura
+  imagePath: default.webp
+  tasks: Workshops
+
+- name: Sidar
+  imagePath: default.webp
+  tasks: Workshops
