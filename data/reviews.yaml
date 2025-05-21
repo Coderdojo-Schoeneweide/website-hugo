@@ -1,0 +1,18 @@
+- image: "/images/team/bruno.webp"
+  stars: [true, true, true, true, true]
+  text: " Über meine Arbeit bin ich total zufällig an eine Stelle als Tutor gekommen und seit dem interessiert an Education. Ich habe dann über die Hochschule vom CoderDojo erfahren und mitgemacht."
+
+- image: "/images/team/linda.webp"
+  stars: [true, true, true, true, true]
+  text: "2014 habe ich von CoderDojo erfahren. Glücklicherweise gab es ein CoderDojo in Karlsruhe, dem ich mich anschließen konnte. Später ergab sich durch einen Kurs an der HTW Berlin die Chance, ein eigenes Dojo zu gründen!"
+
+- image: "/images/team/luis.webp"
+  stars: [true, true, true, true, true]
+  text: "Es macht mir Spaß, mein theoretische Wissen an der Webseite von CoderDojo ins Praktische umzusetzen. Ich hatte auf Facebook einen CoderDojo Post gesehen. Nach der Kontaktaufnahme dauerte es nicht lange, bis zu einem ersten Treffen mit dem Team."
+
+- image: "/images/team/dustin.webp"
+  stars: [true, true, true, true, false]
+  text: "Seit meiner Schulzeit bin ich aktiv dabei mein Wissen weiterzugeben. Und wo startet man am besten? Bei den Kindern"
+- image: "/images/team/sahra.webp"
+  stars: [true, true, true, false, false]
+  text: "Wirtschaftsingenieurwesen (Master), 3-jährige Arbeit als Jugendwärtin im Sportverein"
