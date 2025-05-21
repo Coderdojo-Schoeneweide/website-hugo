@@ -5,54 +5,56 @@
 <head>
     <title>{{ block "title" .}}{{ .Site.Title }}{{ end }}</title>
 
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     {{ block "meta" . }}
-	    <meta name="description" content="Entdecke die Welt des Programmierens mit dem CoderDojo Schöneweide - Kostenlose Workshops für Kinder und Jugendliche von 7-17 Jahren, um spielerisch Coden zu lernen und digitale Probleme zu lösen. Jetzt anmelden und Teil unserer kreativen Community werden!" />
-	    <meta name="keywords" content="CoderDojo Schöneweide, Programmieren für Kinder, kostenlose Workshops, Coden lernen, digitale Kompetenz, kreative Computer-Nutzung, Projektbasiertes Lernen, kostenlos, Treptow-Köpenick, Berlin" />
+    <meta name="description"
+          content="Entdecke die Welt des Programmierens mit dem CoderDojo Schöneweide - Kostenlose Workshops für Kinder und Jugendliche von 7-17 Jahren, um spielerisch Coden zu lernen und digitale Probleme zu lösen. Jetzt anmelden und Teil unserer kreativen Community werden!"/>
+    <meta name="keywords"
+          content="CoderDojo Schöneweide, Programmieren für Kinder, kostenlose Workshops, Coden lernen, digitale Kompetenz, kreative Computer-Nutzung, Projektbasiertes Lernen, kostenlos, Treptow-Köpenick, Berlin"/>
     {{ end }}
     {{ $scss := resources.Get "/scss/style.scss" }}
     {{ $style := $scss | css.Sass | resources.Minify | resources.Fingerprint }}
-	<link rel="canonical" href="{{ .Permalink }}" />
-    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
+    <link rel="canonical" href="{{ .Permalink }}"/>
+    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}"/>
     <script src="/js/obfuscate.js"></script>
     <script src="/js/color-theme-switch.js"></script>
-  </head>
-  {{ end }}
+</head>
+{{ end }}
 
-  <body>
+<body>
     {{ block "header.html" . }}
     <header class="site-header wrapper" role="banner">
-      <div style="display: flex; justify-content: space-between">
-        <ul style="list-style: none; padding-left: 0; display:flex; gap: 1em;">
-            {{ range .Translations }}
-            {{ if eq .Lang "en" }}
-            <li>
-                <a href="{{ .Permalink }}" style="display: flex; gap: 0.5em; align-items: center">
-                    <img src="/images/flags/usa.png" alt="  ">
-                    {{ " " | .RenderString }} English</a>
-            </li>
-            {{ else if eq .Lang "de" }}
-            <li>
-                <a href="{{ .Permalink }}" style="display: flex; gap: 0.5em; align-items: center">
-                    <img src="/images/flags/deutschland.png" alt=" ">
-                    {{ " " | .RenderString }} Deutsch</a>
-            </li>
-            {{ else if eq .Lang "ar" }}
-            <li>
-                <a href="{{ .Permalink }}" style="display: flex; gap: 0.5em; align-items: center">
-                    <img src="/images/flags/jemen.png" alt=" ">
-                    {{ " " | .RenderString }} العربية</a>
-            </li>
-            {{ end }}
-            {{ end }}
-        </ul>
-        <label id="switch" class="switch">
-            <input type="checkbox" id="slider"/>
-            <span class="slider round"></span>
-        </label>
-    </div>
+        <div style="display: flex; justify-content: space-between">
+            <ul style="list-style: none; padding-left: 0; display:flex; gap: 1em;">
+                {{ range .Translations }}
+                {{ if eq .Lang "en" }}
+                <li>
+                    <a href="{{ .Permalink }}" style="display: flex; gap: 0.5em; align-items: center">
+                        <img src="/images/flags/usa.png" alt="  ">
+                        {{ " " | .RenderString }} English</a>
+                </li>
+                {{ else if eq .Lang "de" }}
+                <li>
+                    <a href="{{ .Permalink }}" style="display: flex; gap: 0.5em; align-items: center">
+                        <img src="/images/flags/deutschland.png" alt=" ">
+                        {{ " " | .RenderString }} Deutsch</a>
+                </li>
+                {{ else if eq .Lang "ar" }}
+                <li>
+                    <a href="{{ .Permalink }}" style="display: flex; gap: 0.5em; align-items: center">
+                        <img src="/images/flags/jemen.png" alt=" ">
+                        {{ " " | .RenderString }} العربية</a>
+                </li>
+                {{ end }}
+                {{ end }}
+            </ul>
+            <label id="switch" class="switch">
+                <input type="checkbox" id="slider"/>
+                <span class="slider round"></span>
+            </label>
+        </div>
         <a class="site-title site-title-light" href="/">
             <img
                     class="site-logo"
@@ -61,25 +63,24 @@
             />
         </a>
 
-      <a class="site-title site-title-dark" href="/">
-        <img class="site-logo" src="/images/logo_dark.webp" alt="CoderDojo Schoeneweide Logo" />
-      </a>
+        <a class="site-title site-title-dark" href="/">
+            <img class="site-logo" src="/images/logo_dark.webp" alt="CoderDojo Schoeneweide Logo"/>
+        </a>
 
-      {{ partial "main-menu.html" (dict "page" .) }}
+        {{ partial "main-menu.html" (dict "page" .) }}
     </header>
     {{ end }}
 
     <main id="content" class="wrapper columns" aria-label="Content">
-      {{ block "main" . }}{{ end }}
+        {{ block "main" . }}{{ end }}
     </main>
 
     {{ block "footer.html" . }}
     <footer class="wrapper">
-      {{ (.Site.GetPage "footer").Content }}
-      {{ partial "footer-menu.html" }}
+        {{ (.Site.GetPage "footer").Content }}
+        {{ partial "footer-menu.html" }}
     </footer>
     {{ end }}
     <script src="/js/filters.js"></script>
-    <script src="/js/privacy-notice.js"></script>
-  </body>
+</body>
 </html>

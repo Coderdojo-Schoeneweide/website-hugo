@@ -8,6 +8,7 @@
 @import "components/workshops";
 @import "components/theme-switcher";
 @import "components/sdg-icons";
+@import "components/newsletter";
 
 /* General */
 * {
@@ -42,4 +43,8 @@ svg {
   @include theme() {
     fill: theme-get("svg-fill-color");
   }
+}
+
+[hidden] {
+  display: none !important;
 }

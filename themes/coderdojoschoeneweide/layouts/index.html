@@ -1,38 +1,48 @@
 {{define "main"}} {{ with .Site.GetPage "/home" }}
 <section class="two-cols">
-  <div>
-    {{ range $index, $element := where .Pages "Params.position" "main" }}
-    <section id="{{ lower .File.BaseFileName }}">
-      {{ if eq $index 0 }}
-      <h1>{{ $element.Title }}</h1>
-      {{ else }}
-      <h2>{{ $element.Title }}</h2>
-      {{ end }}
-      <div>{{ $element.Content }}</div>
-    </section>
-    {{ end }}
-  </div>
-  <aside>
-    {{ range where .Pages "Params.position" "aside" }} {{ $partialPath := printf
-    "%s.html" (lower .Title) }} {{ if templates.Exists ( printf "partials/%s"
-    $partialPath ) }} {{ partial $partialPath . }} {{ else }}
-    <h2>{{ .Title }}</h2>
-    <div>{{ .Content }}</div>
-    {{ end }} {{ end }}
-  </aside>
+    <div>
+        {{ range $index, $element := where .Pages "Params.position" "main" }}
+        <section id="{{ lower .File.BaseFileName }}">
+            {{ if eq $index 0 }}
+            <h1>{{ $element.Title }}</h1>
+            {{ else }}
+            <h2>{{ $element.Title }}</h2>
+            {{ end }}
+            <div>{{ $element.Content }}</div>
+        </section>
+        {{ end }}
+    </div>
+    <aside>
+        {{ range where .Pages "Params.position" "aside" }} {{ $partialPath := printf
+        "%s.html" (lower .Title) }} {{ if templates.Exists ( printf "partials/%s"
+        $partialPath ) }} {{ partial $partialPath . }} {{ else }}
+        <h2>{{ .Title }}</h2>
+        <div>{{ .Content }}</div>
+        {{ end }} {{ end }}
+    </aside>
 </section>
 <section class="broad">
-  {{ range where .Pages "Params.position" "broad" }}
-  <section id="{{lower .File.BaseFileName}}">
-    <h3>{{ .Title }}</h3>
-    <p>{{ .Content }}</p>
-    {{ if eq .Title "Team" }}
-    <ul id="teamMemberList">
-      {{ range sort $.Site.Data.team "name" }} {{ partial "team.html" . }} {{
-      end }}
-    </ul>
+    {{ range where .Pages "Params.position" "broad" }}
+    <section id="{{lower .File.BaseFileName}}">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Content }}</p>
+        {{ if eq .Title "Team" }}
+        <ul id="teamMemberList">
+            {{ range sort $.Site.Data.team "name" }} {{ partial "team.html" . }} {{
+            end }}
+        </ul>
+        {{ end }}
+    </section>
     {{ end }}
-  </section>
-  {{ end }}
 </section>
-{{ end }} {{ end }}
+{{ end }}
+<script type="application/javascript">
+    document.addEventListener("DOMContentLoaded", () => {
+        const search = new URLSearchParams(window.location.search);
+        if (search.get('newsletter') === "success") {
+            window.alert("Deine Anmeldung zum Newsletter wurde bestätigt. Vielen Dank!");
+            window.location.href = "/";
+        }
+    });
+</script>
+{{ end }}
