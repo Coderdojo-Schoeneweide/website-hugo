@@ -3,6 +3,7 @@
 #team {
   background-color: $color-main;
   margin-top: $wrapper-margin;
+  padding-block: 0.5rem;
 
   h2 {
     text-align: center;
@@ -13,7 +14,7 @@
     text-align: center;
     color: $color-light;
   }
-  
+
   ul {
     list-style: none;
     margin: 0;
@@ -31,12 +32,14 @@
       background-color: $color-light;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     }
+
     .team-card {
       display: flex;
       flex-direction: column;
       height: 100%;
       margin: 1rem auto;
     }
+
     .team-image-container {
       width: 10rem;
       height: 10rem;
@@ -51,6 +54,7 @@
         max-height: 100%;
       }
     }
+
     .team-info {
       flex: 0 1 auto;
       padding: 0.5rem;
