@@ -115,7 +115,7 @@ weight = 20
 
 
 [languages.de]
-contentDir = 'content'
+contentDir = 'content/de'
 disabled = false
 languageCode = 'de-DE'
 languageDirection = 'ltr'
