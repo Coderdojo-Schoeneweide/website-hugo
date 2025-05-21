@@ -6,10 +6,8 @@ weight: 3
 
 Du bist Elternteil und möchtest immer über das aktuelle Workshopangebot des CoderDojo Schöneweide auf dem Laufenden gehalten werden?
 Dann melde Dich für den eMail-Newsletter an!
-Dort bekommst Du ein bis zwei Mal im Monat alle Infos zu unseren bevorstehenden Workshops für den kommenden Monat.
+Dort bekommst Du ein bis zwei Mal im Monat alle Infos zu unseren bevorstehenden Workshops für den kommenden Monat:
 
-Um Dich für den Newsletter anzumelden, sende einfach eine formlose eMail an hallo@coderdojo-schoeneweide.de oder klicke auf den folgenden Button:
-
-{{< button link="mailto:hallo@coderdojo-schoeneweide.de?subject=Anmeldung zum Newsletter&body=Ich möchte mich gerne für den Eltern-Newsletter des CoderDojo anmelden" >}}
+{{< button link="/de/newsletter" >}}
 Zum Newsletter anmelden
 {{</ button >}}
