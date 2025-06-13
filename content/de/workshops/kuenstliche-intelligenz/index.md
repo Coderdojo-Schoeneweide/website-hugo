@@ -7,7 +7,7 @@ age = "7 - 17 Jahre"
 tags = ["ki"]
 image = "ki.png"
 prevKnowledge = "Keine Vorkenntnisse notwendig"
-weight = 1
+weight = 2
 +++
 
 Im Workshop "Künstliche Intelligenz" erkunden die Teilnehmenden selber wie eine KI funktionieren kann 
