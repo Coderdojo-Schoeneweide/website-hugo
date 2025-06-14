@@ -17,5 +17,5 @@ Hier kannst du eigene Welten erschaffen, Blöcke platzieren und mit Code lebendi
 * Laptop (oder reservieren sich ein Computer-Ticket)
 
 ## Anleitungen
-* [Installation](https://drive.google.com/file/d/1znlq1f47hj_TJj0PsmttjgEPBuoLoq6t/view?usp=sharing)
+* [Installation](https://drive.google.com/file/d/1_UwIGArTFY-EXKbMkBUx-pC9xIWDnS_u/view?usp=sharing)
 * [Anleitung](https://coderdojo-schoeneweide.de/docs/howtos/AnleitungLuanti.pdf)
