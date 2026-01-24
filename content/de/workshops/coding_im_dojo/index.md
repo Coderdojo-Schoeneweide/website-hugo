@@ -24,4 +24,5 @@ Wenn man noch nicht weiß, was man machen möchte, haben wir auch einige Ideen z
 * [HTML & CSS](https://coderdojo-schoeneweide.de/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf)
 * [OpenProcessing](https://coderdojo-schoeneweide.de/docs/howtos/OpenProcessing%20Cheat%20Sheet.pdf)
 * [Processing](https://coderdojo-schoeneweide.de/docs/howtos/Processing%20Cheat%20Sheet.pdf)
+* [Vernetzte Geschichten](https://coderdojo-schoeneweide.de/docs/anleitung-netzwerke.pdf)
 
