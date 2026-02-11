@@ -19,6 +19,7 @@ Der Austritt erfolgt ebenfalls formlos per Mail.
 
 ### Jahresberichte
 
+* [2025](/docs/verein/Jahresbericht2025.pdf)
 * 2024
   * [Originale Fassung](/docs/verein/Jahresbericht2024.pdf)
   * [Revision 11.06.2025](/docs/verein/Jahresbericht2024_Revision01.pdf)
