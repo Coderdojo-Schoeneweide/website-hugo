@@ -1,6 +1,8 @@
 # CoderDojo Hugo Website
 ![github pages](https://github.com/Coderdojo-Schoeneweide/website-hugo/workflows/github%20pages/badge.svg)
 
+**Note: This is the old website repository of the CoderDojo. The new website can be found under [Coderdojo-Schoeneweide/website](https://github.com/Coderdojo-Schoeneweide/website)**
+
 This repository contains the source code of our website. It contains the content of the website as well as the Hugo theme used to generate the static site.
 
 ## Website: built code and source code
